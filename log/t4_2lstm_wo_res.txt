@@ -1,0 +1,4102 @@
+Repeat 0, Seed 2020
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 1.0000 P 0.0047 F 0.0094
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 1.0000 P 0.0047 F 0.0094
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	2 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	2 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	3 R 0.8125 P 0.1126 F 0.1977
+Epoch Emotion	3 R 0.9333 P 0.1327 F 0.2324
+Epoch Cause	3 R 0.8710 P 0.1174 F 0.2069
+---------Epoch End----------
+Epoch Pair	4 R 0.7193 P 0.1775 F 0.2847
+Epoch Emotion	4 R 0.8889 P 0.2275 F 0.3623
+Epoch Cause	4 R 0.7679 P 0.1870 F 0.3007
+---------Epoch End----------
+Epoch Pair	5 R 0.6949 P 0.1775 F 0.2828
+Epoch Emotion	5 R 0.8727 P 0.2275 F 0.3609
+Epoch Cause	5 R 0.7414 P 0.1870 F 0.2986
+---------Epoch End----------
+Epoch Pair	6 R 0.7600 P 0.1645 F 0.2705
+Epoch Emotion	6 R 0.8958 P 0.2038 F 0.3320
+Epoch Cause	6 R 0.7959 P 0.1696 F 0.2796
+---------Epoch End----------
+Epoch Pair	7 R 0.6667 P 0.2165 F 0.3268
+Epoch Emotion	7 R 0.8611 P 0.2938 F 0.4382
+Epoch Cause	7 R 0.7361 P 0.2304 F 0.3510
+---------Epoch End----------
+Epoch Pair	8 R 0.6111 P 0.2857 F 0.3894
+Epoch Emotion	8 R 0.8660 P 0.3981 F 0.5455
+Epoch Cause	8 R 0.6571 P 0.3000 F 0.4119
+---------Epoch End----------
+Epoch Pair	9 R 0.6000 P 0.2468 F 0.3497
+Epoch Emotion	9 R 0.8111 P 0.3460 F 0.4850
+Epoch Cause	9 R 0.6593 P 0.2609 F 0.3738
+---------Epoch End----------
+Epoch Pair	10 R 0.6733 P 0.2944 F 0.4096
+Epoch Emotion	10 R 0.8617 P 0.3839 F 0.5311
+Epoch Cause	10 R 0.7143 P 0.3043 F 0.4268
+---------Epoch End----------
+Epoch Pair	11 R 0.7188 P 0.1991 F 0.3119
+Epoch Emotion	11 R 0.8852 P 0.2559 F 0.3971
+Epoch Cause	11 R 0.7903 P 0.2130 F 0.3356
+---------Epoch End----------
+Epoch Pair	12 R 0.6038 P 0.2771 F 0.3798
+Epoch Emotion	12 R 0.8211 P 0.3697 F 0.5098
+Epoch Cause	12 R 0.6471 P 0.2870 F 0.3976
+---------Epoch End----------
+Epoch Pair	13 R 0.6790 P 0.2381 F 0.3526
+Epoch Emotion	13 R 0.8649 P 0.3033 F 0.4491
+Epoch Cause	13 R 0.7308 P 0.2478 F 0.3701
+---------Epoch End----------
+Epoch Pair	14 R 0.6867 P 0.2468 F 0.3631
+Epoch Emotion	14 R 0.8481 P 0.3175 F 0.4621
+Epoch Cause	14 R 0.7468 P 0.2565 F 0.3819
+---------Epoch End----------
+Epoch Pair	15 R 0.6951 P 0.2468 F 0.3642
+Epoch Emotion	15 R 0.8684 P 0.3128 F 0.4599
+Epoch Cause	15 R 0.7250 P 0.2522 F 0.3742
+---------Epoch End----------
+Epoch Pair	16 R 0.6500 P 0.2814 F 0.3927
+Epoch Emotion	16 R 0.8444 P 0.3602 F 0.5050
+Epoch Cause	16 R 0.6979 P 0.2913 F 0.4110
+---------Epoch End----------
+Epoch Pair	17 R 0.5854 P 0.3117 F 0.4068
+Epoch Emotion	17 R 0.8073 P 0.4171 F 0.5500
+Epoch Cause	17 R 0.6303 P 0.3261 F 0.4298
+---------Epoch End----------
+Epoch Pair	18 R 0.5639 P 0.3247 F 0.4121
+Epoch Emotion	18 R 0.8174 P 0.4455 F 0.5767
+Epoch Cause	18 R 0.6016 P 0.3348 F 0.4302
+---------Epoch End----------
+Epoch Pair	19 R 0.5528 P 0.3853 F 0.4541
+Epoch Emotion	19 R 0.7883 P 0.5118 F 0.6207
+Epoch Cause	19 R 0.5948 P 0.3957 F 0.4752
+---------Epoch End----------
+Epoch Pair	20 R 0.5854 P 0.3117 F 0.4068
+Epoch Emotion	20 R 0.7798 P 0.4028 F 0.5312
+Epoch Cause	20 R 0.6379 P 0.3217 F 0.4277
+---------Epoch End----------
+Epoch Pair	21 R 0.6000 P 0.3377 F 0.4321
+Epoch Emotion	21 R 0.7931 P 0.4360 F 0.5627
+Epoch Cause	21 R 0.6504 P 0.3478 F 0.4533
+---------Epoch End----------
+Epoch Pair	22 R 0.5816 P 0.3550 F 0.4409
+Epoch Emotion	22 R 0.7840 P 0.4645 F 0.5833
+Epoch Cause	22 R 0.6269 P 0.3652 F 0.4615
+---------Epoch End----------
+Epoch Pair	23 R 0.5578 P 0.3550 F 0.4339
+Epoch Emotion	23 R 0.7734 P 0.4692 F 0.5841
+Epoch Cause	23 R 0.6058 P 0.3609 F 0.4523
+---------Epoch End----------
+Epoch Pair	24 R 0.5213 P 0.4242 F 0.4678
+Epoch Emotion	24 R 0.7815 P 0.5592 F 0.6519
+Epoch Cause	24 R 0.5593 P 0.4304 F 0.4865
+---------Epoch End----------
+Epoch Pair	25 R 0.5394 P 0.3853 F 0.4495
+Epoch Emotion	25 R 0.7692 P 0.5213 F 0.6215
+Epoch Cause	25 R 0.5882 P 0.3913 F 0.4700
+---------Epoch End----------
+Epoch Pair	26 R 0.5420 P 0.3074 F 0.3923
+Epoch Emotion	26 R 0.7965 P 0.4265 F 0.5556
+Epoch Cause	26 R 0.5952 P 0.3261 F 0.4213
+---------Epoch End----------
+Epoch Pair	27 R 0.5639 P 0.3247 F 0.4121
+Epoch Emotion	27 R 0.7931 P 0.4360 F 0.5627
+Epoch Cause	27 R 0.6129 P 0.3304 F 0.4294
+---------Epoch End----------
+Epoch Pair	28 R 0.6228 P 0.3074 F 0.4116
+Epoch Emotion	28 R 0.8039 P 0.3886 F 0.5240
+Epoch Cause	28 R 0.6729 P 0.3130 F 0.4273
+---------Epoch End----------
+Epoch Pair	29 R 0.5903 P 0.3680 F 0.4533
+Epoch Emotion	29 R 0.7857 P 0.4692 F 0.5875
+Epoch Cause	29 R 0.6391 P 0.3696 F 0.4683
+---------Epoch End----------
+Fold Pair	1 R 0.5213 P 0.4242 F 0.4678
+Fold Emotion	1 R 0.7815 P 0.5592 F 0.6519
+Fold Cause	1 R 0.5593 P 0.4304 F 0.4865
+-----------Fold End-----------
+
+Acc Fold Pair	1 R 0.5213 P 0.4242 F 0.4678
+Acc Fold Emoti	1 R 0.7815 P 0.5592 F 0.6519
+Acc Fold Event	1 R 0.5593 P 0.4304 F 0.4865
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.8889 P 0.0367 F 0.0705
+Epoch Emotion	2 R 1.0000 P 0.0427 F 0.0818
+Epoch Cause	2 R 0.8889 P 0.0367 F 0.0705
+---------Epoch End----------
+Epoch Pair	3 R 0.6429 P 0.1239 F 0.2077
+Epoch Emotion	3 R 0.9250 P 0.1754 F 0.2948
+Epoch Cause	3 R 0.6829 P 0.1284 F 0.2162
+---------Epoch End----------
+Epoch Pair	4 R 0.6970 P 0.1055 F 0.1833
+Epoch Emotion	4 R 0.9062 P 0.1374 F 0.2387
+Epoch Cause	4 R 0.7812 P 0.1147 F 0.2000
+---------Epoch End----------
+Epoch Pair	5 R 0.6667 P 0.2202 F 0.3310
+Epoch Emotion	5 R 0.8889 P 0.2654 F 0.4088
+Epoch Cause	5 R 0.7286 P 0.2339 F 0.3542
+---------Epoch End----------
+Epoch Pair	6 R 0.6744 P 0.1330 F 0.2222
+Epoch Emotion	6 R 0.9000 P 0.1706 F 0.2869
+Epoch Cause	6 R 0.7317 P 0.1376 F 0.2317
+---------Epoch End----------
+Epoch Pair	7 R 0.6667 P 0.2569 F 0.3709
+Epoch Emotion	7 R 0.9167 P 0.3128 F 0.4664
+Epoch Cause	7 R 0.7037 P 0.2615 F 0.3813
+---------Epoch End----------
+Epoch Pair	8 R 0.6531 P 0.2936 F 0.4051
+Epoch Emotion	8 R 0.8837 P 0.3602 F 0.5118
+Epoch Cause	8 R 0.6875 P 0.3028 F 0.4204
+---------Epoch End----------
+Epoch Pair	9 R 0.6071 P 0.3119 F 0.4121
+Epoch Emotion	9 R 0.8469 P 0.3934 F 0.5372
+Epoch Cause	9 R 0.6514 P 0.3257 F 0.4343
+---------Epoch End----------
+Epoch Pair	10 R 0.6080 P 0.3486 F 0.4431
+Epoch Emotion	10 R 0.8349 P 0.4313 F 0.5687
+Epoch Cause	10 R 0.6583 P 0.3624 F 0.4675
+---------Epoch End----------
+Epoch Pair	11 R 0.5471 P 0.4266 F 0.4794
+Epoch Emotion	11 R 0.7754 P 0.5071 F 0.6132
+Epoch Cause	11 R 0.6000 P 0.4404 F 0.5079
+---------Epoch End----------
+Epoch Pair	12 R 0.5252 P 0.3349 F 0.4090
+Epoch Emotion	12 R 0.7627 P 0.4265 F 0.5471
+Epoch Cause	12 R 0.5769 P 0.3440 F 0.4310
+---------Epoch End----------
+Epoch Pair	13 R 0.5664 P 0.3716 F 0.4488
+Epoch Emotion	13 R 0.8099 P 0.4645 F 0.5904
+Epoch Cause	13 R 0.6103 P 0.3807 F 0.4689
+---------Epoch End----------
+Epoch Pair	14 R 0.6017 P 0.3257 F 0.4226
+Epoch Emotion	14 R 0.8137 P 0.3934 F 0.5304
+Epoch Cause	14 R 0.6460 P 0.3349 F 0.4411
+---------Epoch End----------
+Epoch Pair	15 R 0.5441 P 0.3394 F 0.4181
+Epoch Emotion	15 R 0.7845 P 0.4313 F 0.5566
+Epoch Cause	15 R 0.5952 P 0.3440 F 0.4360
+---------Epoch End----------
+Epoch Pair	16 R 0.6300 P 0.2890 F 0.3962
+Epoch Emotion	16 R 0.8132 P 0.3507 F 0.4901
+Epoch Cause	16 R 0.6915 P 0.2982 F 0.4167
+---------Epoch End----------
+Epoch Pair	17 R 0.5725 P 0.3624 F 0.4438
+Epoch Emotion	17 R 0.7712 P 0.4313 F 0.5532
+Epoch Cause	17 R 0.6183 P 0.3716 F 0.4642
+---------Epoch End----------
+Epoch Pair	18 R 0.6132 P 0.2982 F 0.4012
+Epoch Emotion	18 R 0.8211 P 0.3697 F 0.5098
+Epoch Cause	18 R 0.6667 P 0.3028 F 0.4164
+---------Epoch End----------
+Epoch Pair	19 R 0.5903 P 0.3899 F 0.4696
+Epoch Emotion	19 R 0.8065 P 0.4739 F 0.5970
+Epoch Cause	19 R 0.6304 P 0.3991 F 0.4888
+---------Epoch End----------
+Epoch Pair	20 R 0.5207 P 0.4037 F 0.4548
+Epoch Emotion	20 R 0.7692 P 0.5213 F 0.6215
+Epoch Cause	20 R 0.5769 P 0.4128 F 0.4813
+---------Epoch End----------
+Epoch Pair	21 R 0.4919 P 0.4174 F 0.4516
+Epoch Emotion	21 R 0.7632 P 0.5498 F 0.6391
+Epoch Cause	21 R 0.5314 P 0.4266 F 0.4733
+---------Epoch End----------
+Epoch Pair	22 R 0.5287 P 0.3807 F 0.4427
+Epoch Emotion	22 R 0.7692 P 0.4739 F 0.5865
+Epoch Cause	22 R 0.5782 P 0.3899 F 0.4658
+---------Epoch End----------
+Epoch Pair	23 R 0.5031 P 0.3716 F 0.4274
+Epoch Emotion	23 R 0.7279 P 0.4692 F 0.5706
+Epoch Cause	23 R 0.5646 P 0.3807 F 0.4548
+---------Epoch End----------
+Epoch Pair	24 R 0.4949 P 0.4450 F 0.4686
+Epoch Emotion	24 R 0.7372 P 0.5450 F 0.6267
+Epoch Cause	24 R 0.5506 P 0.4495 F 0.4949
+---------Epoch End----------
+Epoch Pair	25 R 0.6000 P 0.3303 F 0.4260
+Epoch Emotion	25 R 0.8113 P 0.4076 F 0.5426
+Epoch Cause	25 R 0.6372 P 0.3303 F 0.4350
+---------Epoch End----------
+Epoch Pair	26 R 0.5057 P 0.4083 F 0.4518
+Epoch Emotion	26 R 0.7365 P 0.5166 F 0.6072
+Epoch Cause	26 R 0.5422 P 0.4128 F 0.4687
+---------Epoch End----------
+Epoch Pair	27 R 0.5385 P 0.3211 F 0.4023
+Epoch Emotion	27 R 0.7788 P 0.4171 F 0.5432
+Epoch Cause	27 R 0.5868 P 0.3257 F 0.4189
+---------Epoch End----------
+Epoch Pair	28 R 0.5112 P 0.4174 F 0.4596
+Epoch Emotion	28 R 0.7671 P 0.5308 F 0.6275
+Epoch Cause	28 R 0.5644 P 0.4220 F 0.4829
+---------Epoch End----------
+Epoch Pair	29 R 0.5441 P 0.3394 F 0.4181
+Epoch Emotion	29 R 0.7712 P 0.4313 F 0.5532
+Epoch Cause	29 R 0.6000 P 0.3440 F 0.4373
+---------Epoch End----------
+Fold Pair	2 R 0.5471 P 0.4266 F 0.4794
+Fold Emotion	2 R 0.7754 P 0.5071 F 0.6132
+Fold Cause	2 R 0.6000 P 0.4404 F 0.5079
+-----------Fold End-----------
+
+Acc Fold Pair	2 R 0.5342 P 0.4254 F 0.4736
+Acc Fold Emoti	2 R 0.7784 P 0.5332 F 0.6326
+Acc Fold Event	2 R 0.5797 P 0.4354 F 0.4972
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.8333 P 0.0230 F 0.0448
+Epoch Emotion	2 R 1.0000 P 0.0284 F 0.0553
+Epoch Cause	2 R 0.8333 P 0.0230 F 0.0448
+---------Epoch End----------
+Epoch Pair	3 R 0.6250 P 0.1382 F 0.2264
+Epoch Emotion	3 R 0.9556 P 0.2038 F 0.3359
+Epoch Cause	3 R 0.6383 P 0.1382 F 0.2273
+---------Epoch End----------
+Epoch Pair	4 R 0.5821 P 0.1797 F 0.2746
+Epoch Emotion	4 R 0.9667 P 0.2749 F 0.4280
+Epoch Cause	4 R 0.6061 P 0.1843 F 0.2827
+---------Epoch End----------
+Epoch Pair	5 R 0.5116 P 0.2028 F 0.2904
+Epoch Emotion	5 R 0.8514 P 0.2986 F 0.4421
+Epoch Cause	5 R 0.5542 P 0.2120 F 0.3067
+---------Epoch End----------
+Epoch Pair	6 R 0.5930 P 0.2350 F 0.3366
+Epoch Emotion	6 R 0.8667 P 0.3081 F 0.4545
+Epoch Cause	6 R 0.6386 P 0.2442 F 0.3533
+---------Epoch End----------
+Epoch Pair	7 R 0.5930 P 0.2350 F 0.3366
+Epoch Emotion	7 R 0.8919 P 0.3128 F 0.4632
+Epoch Cause	7 R 0.6235 P 0.2442 F 0.3510
+---------Epoch End----------
+Epoch Pair	8 R 0.5521 P 0.2442 F 0.3387
+Epoch Emotion	8 R 0.8471 P 0.3412 F 0.4865
+Epoch Cause	8 R 0.5914 P 0.2535 F 0.3548
+---------Epoch End----------
+Epoch Pair	9 R 0.5702 P 0.3180 F 0.4083
+Epoch Emotion	9 R 0.8529 P 0.4123 F 0.5559
+Epoch Cause	9 R 0.6121 P 0.3272 F 0.4264
+---------Epoch End----------
+Epoch Pair	10 R 0.5391 P 0.2857 F 0.3735
+Epoch Emotion	10 R 0.8384 P 0.3934 F 0.5355
+Epoch Cause	10 R 0.5727 P 0.2903 F 0.3853
+---------Epoch End----------
+Epoch Pair	11 R 0.6162 P 0.2811 F 0.3861
+Epoch Emotion	11 R 0.8202 P 0.3460 F 0.4867
+Epoch Cause	11 R 0.6526 P 0.2857 F 0.3974
+---------Epoch End----------
+Epoch Pair	12 R 0.5308 P 0.3180 F 0.3977
+Epoch Emotion	12 R 0.8108 P 0.4265 F 0.5590
+Epoch Cause	12 R 0.5556 P 0.3226 F 0.4082
+---------Epoch End----------
+Epoch Pair	13 R 0.5564 P 0.3410 F 0.4229
+Epoch Emotion	13 R 0.8571 P 0.4550 F 0.5944
+Epoch Cause	13 R 0.5891 P 0.3502 F 0.4393
+---------Epoch End----------
+Epoch Pair	14 R 0.5645 P 0.3226 F 0.4106
+Epoch Emotion	14 R 0.8571 P 0.4265 F 0.5696
+Epoch Cause	14 R 0.5868 P 0.3272 F 0.4201
+---------Epoch End----------
+Epoch Pair	15 R 0.6168 P 0.3041 F 0.4074
+Epoch Emotion	15 R 0.8830 P 0.3934 F 0.5443
+Epoch Cause	15 R 0.6442 P 0.3088 F 0.4174
+---------Epoch End----------
+Epoch Pair	16 R 0.5577 P 0.4009 F 0.4665
+Epoch Emotion	16 R 0.8284 P 0.5261 F 0.6435
+Epoch Cause	16 R 0.5921 P 0.4147 F 0.4878
+---------Epoch End----------
+Epoch Pair	17 R 0.5845 P 0.3825 F 0.4624
+Epoch Emotion	17 R 0.8537 P 0.4976 F 0.6287
+Epoch Cause	17 R 0.6232 P 0.3963 F 0.4845
+---------Epoch End----------
+Epoch Pair	18 R 0.5083 P 0.4240 F 0.4623
+Epoch Emotion	18 R 0.8069 P 0.5545 F 0.6573
+Epoch Cause	18 R 0.5543 P 0.4470 F 0.4949
+---------Epoch End----------
+Epoch Pair	19 R 0.5222 P 0.4332 F 0.4736
+Epoch Emotion	19 R 0.8042 P 0.5450 F 0.6497
+Epoch Cause	19 R 0.5698 P 0.4516 F 0.5039
+---------Epoch End----------
+Epoch Pair	20 R 0.5460 P 0.4101 F 0.4684
+Epoch Emotion	20 R 0.8235 P 0.5308 F 0.6455
+Epoch Cause	20 R 0.5860 P 0.4240 F 0.4920
+---------Epoch End----------
+Epoch Pair	21 R 0.6127 P 0.4009 F 0.4847
+Epoch Emotion	21 R 0.8667 P 0.4929 F 0.6284
+Epoch Cause	21 R 0.6522 P 0.4147 F 0.5070
+---------Epoch End----------
+Epoch Pair	22 R 0.5933 P 0.4101 F 0.4850
+Epoch Emotion	22 R 0.8346 P 0.5024 F 0.6272
+Epoch Cause	22 R 0.6301 P 0.4240 F 0.5069
+---------Epoch End----------
+Epoch Pair	23 R 0.6320 P 0.3641 F 0.4620
+Epoch Emotion	23 R 0.8571 P 0.4265 F 0.5696
+Epoch Cause	23 R 0.6750 P 0.3733 F 0.4807
+---------Epoch End----------
+Epoch Pair	24 R 0.5954 P 0.3594 F 0.4483
+Epoch Emotion	24 R 0.8214 P 0.4360 F 0.5697
+Epoch Cause	24 R 0.6429 P 0.3733 F 0.4723
+---------Epoch End----------
+Epoch Pair	25 R 0.6372 P 0.3318 F 0.4364
+Epoch Emotion	25 R 0.8529 P 0.4123 F 0.5559
+Epoch Cause	25 R 0.6881 P 0.3456 F 0.4601
+---------Epoch End----------
+Epoch Pair	26 R 0.5646 P 0.3825 F 0.4560
+Epoch Emotion	26 R 0.8062 P 0.4929 F 0.6118
+Epoch Cause	26 R 0.6099 P 0.3963 F 0.4804
+---------Epoch End----------
+Epoch Pair	27 R 0.5669 P 0.4101 F 0.4759
+Epoch Emotion	27 R 0.8222 P 0.5261 F 0.6416
+Epoch Cause	27 R 0.6174 P 0.4240 F 0.5027
+---------Epoch End----------
+Epoch Pair	28 R 0.5833 P 0.3871 F 0.4654
+Epoch Emotion	28 R 0.8268 P 0.4976 F 0.6213
+Epoch Cause	28 R 0.6232 P 0.3963 F 0.4845
+---------Epoch End----------
+Epoch Pair	29 R 0.6356 P 0.3456 F 0.4478
+Epoch Emotion	29 R 0.8302 P 0.4171 F 0.5552
+Epoch Cause	29 R 0.6909 P 0.3502 F 0.4648
+---------Epoch End----------
+Fold Pair	3 R 0.5933 P 0.4101 F 0.4850
+Fold Emotion	3 R 0.8346 P 0.5024 F 0.6272
+Fold Cause	3 R 0.6301 P 0.4240 F 0.5069
+-----------Fold End-----------
+
+Acc Fold Pair	3 R 0.5539 P 0.4203 F 0.4774
+Acc Fold Emoti	3 R 0.7972 P 0.5229 F 0.6308
+Acc Fold Event	3 R 0.5965 P 0.4316 F 0.5004
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 1.0000 P 0.0047 F 0.0093
+Epoch Emotion	2 R 1.0000 P 0.0047 F 0.0094
+Epoch Cause	2 R 1.0000 P 0.0047 F 0.0093
+---------Epoch End----------
+Epoch Pair	3 R 0.6154 P 0.0372 F 0.0702
+Epoch Emotion	3 R 0.8333 P 0.0474 F 0.0897
+Epoch Cause	3 R 0.6923 P 0.0421 F 0.0793
+---------Epoch End----------
+Epoch Pair	4 R 0.6250 P 0.0698 F 0.1255
+Epoch Emotion	4 R 0.8696 P 0.0948 F 0.1709
+Epoch Cause	4 R 0.7083 P 0.0794 F 0.1429
+---------Epoch End----------
+Epoch Pair	5 R 0.6383 P 0.1395 F 0.2290
+Epoch Emotion	5 R 0.8261 P 0.1801 F 0.2957
+Epoch Cause	5 R 0.7045 P 0.1449 F 0.2403
+---------Epoch End----------
+Epoch Pair	6 R 0.6491 P 0.1721 F 0.2721
+Epoch Emotion	6 R 0.8491 P 0.2133 F 0.3409
+Epoch Cause	6 R 0.7037 P 0.1776 F 0.2836
+---------Epoch End----------
+Epoch Pair	7 R 0.6364 P 0.2279 F 0.3356
+Epoch Emotion	7 R 0.8116 P 0.2654 F 0.4000
+Epoch Cause	7 R 0.6849 P 0.2336 F 0.3484
+---------Epoch End----------
+Epoch Pair	8 R 0.6293 P 0.3395 F 0.4411
+Epoch Emotion	8 R 0.8095 P 0.4028 F 0.5380
+Epoch Cause	8 R 0.7091 P 0.3645 F 0.4815
+---------Epoch End----------
+Epoch Pair	9 R 0.6627 P 0.2558 F 0.3691
+Epoch Emotion	9 R 0.8267 P 0.2938 F 0.4336
+Epoch Cause	9 R 0.7215 P 0.2664 F 0.3891
+---------Epoch End----------
+Epoch Pair	10 R 0.6951 P 0.2651 F 0.3838
+Epoch Emotion	10 R 0.8442 P 0.3081 F 0.4514
+Epoch Cause	10 R 0.7564 P 0.2757 F 0.4041
+---------Epoch End----------
+Epoch Pair	11 R 0.6860 P 0.2744 F 0.3920
+Epoch Emotion	11 R 0.8500 P 0.3223 F 0.4674
+Epoch Cause	11 R 0.7683 P 0.2944 F 0.4257
+---------Epoch End----------
+Epoch Pair	12 R 0.7108 P 0.2744 F 0.3960
+Epoch Emotion	12 R 0.8625 P 0.3270 F 0.4742
+Epoch Cause	12 R 0.7949 P 0.2897 F 0.4247
+---------Epoch End----------
+Epoch Pair	13 R 0.7103 P 0.3535 F 0.4720
+Epoch Emotion	13 R 0.8700 P 0.4123 F 0.5595
+Epoch Cause	13 R 0.7864 P 0.3785 F 0.5110
+---------Epoch End----------
+Epoch Pair	14 R 0.6724 P 0.3628 F 0.4713
+Epoch Emotion	14 R 0.8381 P 0.4171 F 0.5570
+Epoch Cause	14 R 0.7593 P 0.3832 F 0.5093
+---------Epoch End----------
+Epoch Pair	15 R 0.6491 P 0.3442 F 0.4498
+Epoch Emotion	15 R 0.8491 P 0.4265 F 0.5678
+Epoch Cause	15 R 0.7429 P 0.3645 F 0.4890
+---------Epoch End----------
+Epoch Pair	16 R 0.6556 P 0.2744 F 0.3869
+Epoch Emotion	16 R 0.8372 P 0.3412 F 0.4848
+Epoch Cause	16 R 0.7381 P 0.2897 F 0.4161
+---------Epoch End----------
+Epoch Pair	17 R 0.6375 P 0.4744 F 0.5440
+Epoch Emotion	17 R 0.8138 P 0.5592 F 0.6629
+Epoch Cause	17 R 0.7279 P 0.5000 F 0.5928
+---------Epoch End----------
+Epoch Pair	18 R 0.6389 P 0.4279 F 0.5125
+Epoch Emotion	18 R 0.8217 P 0.5024 F 0.6235
+Epoch Cause	18 R 0.7218 P 0.4486 F 0.5533
+---------Epoch End----------
+Epoch Pair	19 R 0.5964 P 0.4605 F 0.5197
+Epoch Emotion	19 R 0.7651 P 0.5403 F 0.6333
+Epoch Cause	19 R 0.6842 P 0.4860 F 0.5683
+---------Epoch End----------
+Epoch Pair	20 R 0.6364 P 0.3907 F 0.4841
+Epoch Emotion	20 R 0.7934 P 0.4550 F 0.5783
+Epoch Cause	20 R 0.7250 P 0.4065 F 0.5210
+---------Epoch End----------
+Epoch Pair	21 R 0.6667 P 0.4186 F 0.5143
+Epoch Emotion	21 R 0.8240 P 0.4882 F 0.6131
+Epoch Cause	21 R 0.7440 P 0.4346 F 0.5487
+---------Epoch End----------
+Epoch Pair	22 R 0.5890 P 0.4465 F 0.5079
+Epoch Emotion	22 R 0.7569 P 0.5166 F 0.6141
+Epoch Cause	22 R 0.6711 P 0.4673 F 0.5510
+---------Epoch End----------
+Epoch Pair	23 R 0.6777 P 0.3814 F 0.4881
+Epoch Emotion	23 R 0.8070 P 0.4360 F 0.5662
+Epoch Cause	23 R 0.7658 P 0.3972 F 0.5231
+---------Epoch End----------
+Epoch Pair	24 R 0.6129 P 0.4419 F 0.5135
+Epoch Emotion	24 R 0.7842 P 0.5166 F 0.6229
+Epoch Cause	24 R 0.6923 P 0.4626 F 0.5546
+---------Epoch End----------
+Epoch Pair	25 R 0.6144 P 0.4372 F 0.5109
+Epoch Emotion	25 R 0.7810 P 0.5071 F 0.6149
+Epoch Cause	25 R 0.7042 P 0.4673 F 0.5618
+---------Epoch End----------
+Epoch Pair	26 R 0.6408 P 0.4233 F 0.5098
+Epoch Emotion	26 R 0.7846 P 0.4834 F 0.5982
+Epoch Cause	26 R 0.7252 P 0.4439 F 0.5507
+---------Epoch End----------
+Epoch Pair	27 R 0.6454 P 0.4233 F 0.5112
+Epoch Emotion	27 R 0.7846 P 0.4834 F 0.5982
+Epoch Cause	27 R 0.7323 P 0.4346 F 0.5455
+---------Epoch End----------
+Epoch Pair	28 R 0.6581 P 0.3581 F 0.4639
+Epoch Emotion	28 R 0.8182 P 0.4265 F 0.5607
+Epoch Cause	28 R 0.7570 P 0.3785 F 0.5047
+---------Epoch End----------
+Epoch Pair	29 R 0.6762 P 0.3302 F 0.4438
+Epoch Emotion	29 R 0.8163 P 0.3791 F 0.5178
+Epoch Cause	29 R 0.7604 P 0.3411 F 0.4710
+---------Epoch End----------
+Fold Pair	4 R 0.6375 P 0.4744 F 0.5440
+Fold Emotion	4 R 0.8138 P 0.5592 F 0.6629
+Fold Cause	4 R 0.7279 P 0.5000 F 0.5928
+-----------Fold End-----------
+
+Acc Fold Pair	4 R 0.5748 P 0.4339 F 0.4940
+Acc Fold Emoti	4 R 0.8013 P 0.5320 F 0.6388
+Acc Fold Event	4 R 0.6293 P 0.4487 F 0.5235
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.6250 P 0.0228 F 0.0441
+Epoch Emotion	2 R 1.0000 P 0.0332 F 0.0642
+Epoch Cause	2 R 0.6250 P 0.0228 F 0.0441
+---------Epoch End----------
+Epoch Pair	3 R 0.7500 P 0.0548 F 0.1021
+Epoch Emotion	3 R 0.9333 P 0.0664 F 0.1239
+Epoch Cause	3 R 0.7500 P 0.0548 F 0.1021
+---------Epoch End----------
+Epoch Pair	4 R 0.7000 P 0.0959 F 0.1687
+Epoch Emotion	4 R 0.8621 P 0.1185 F 0.2083
+Epoch Cause	4 R 0.7241 P 0.0959 F 0.1694
+---------Epoch End----------
+Epoch Pair	5 R 0.7458 P 0.2009 F 0.3165
+Epoch Emotion	5 R 0.8772 P 0.2370 F 0.3731
+Epoch Cause	5 R 0.7759 P 0.2055 F 0.3249
+---------Epoch End----------
+Epoch Pair	6 R 0.7260 P 0.2420 F 0.3630
+Epoch Emotion	6 R 0.8824 P 0.2844 F 0.4301
+Epoch Cause	6 R 0.7606 P 0.2466 F 0.3724
+---------Epoch End----------
+Epoch Pair	7 R 0.6702 P 0.2877 F 0.4026
+Epoch Emotion	7 R 0.8452 P 0.3365 F 0.4814
+Epoch Cause	7 R 0.7065 P 0.2968 F 0.4180
+---------Epoch End----------
+Epoch Pair	8 R 0.7093 P 0.2785 F 0.4000
+Epoch Emotion	8 R 0.8875 P 0.3365 F 0.4880
+Epoch Cause	8 R 0.7590 P 0.2877 F 0.4172
+---------Epoch End----------
+Epoch Pair	9 R 0.6667 P 0.3379 F 0.4485
+Epoch Emotion	9 R 0.8500 P 0.4028 F 0.5466
+Epoch Cause	9 R 0.7037 P 0.3470 F 0.4648
+---------Epoch End----------
+Epoch Pair	10 R 0.6701 P 0.2968 F 0.4114
+Epoch Emotion	10 R 0.8556 P 0.3649 F 0.5116
+Epoch Cause	10 R 0.7128 P 0.3059 F 0.4281
+---------Epoch End----------
+Epoch Pair	11 R 0.6700 P 0.3059 F 0.4201
+Epoch Emotion	11 R 0.8511 P 0.3791 F 0.5246
+Epoch Cause	11 R 0.7113 P 0.3151 F 0.4367
+---------Epoch End----------
+Epoch Pair	12 R 0.6667 P 0.2922 F 0.4063
+Epoch Emotion	12 R 0.8462 P 0.3649 F 0.5099
+Epoch Cause	12 R 0.7143 P 0.2968 F 0.4194
+---------Epoch End----------
+Epoch Pair	13 R 0.6341 P 0.3562 F 0.4561
+Epoch Emotion	13 R 0.8230 P 0.4408 F 0.5741
+Epoch Cause	13 R 0.6807 P 0.3699 F 0.4793
+---------Epoch End----------
+Epoch Pair	14 R 0.6148 P 0.3790 F 0.4689
+Epoch Emotion	14 R 0.8083 P 0.4597 F 0.5861
+Epoch Cause	14 R 0.6538 P 0.3881 F 0.4871
+---------Epoch End----------
+Epoch Pair	15 R 0.6864 P 0.3699 F 0.4807
+Epoch Emotion	15 R 0.8704 P 0.4455 F 0.5893
+Epoch Cause	15 R 0.7281 P 0.3790 F 0.4985
+---------Epoch End----------
+Epoch Pair	16 R 0.6579 P 0.3425 F 0.4505
+Epoch Emotion	16 R 0.8381 P 0.4171 F 0.5570
+Epoch Cause	16 R 0.7064 P 0.3516 F 0.4695
+---------Epoch End----------
+Epoch Pair	17 R 0.6532 P 0.3699 F 0.4723
+Epoch Emotion	17 R 0.8407 P 0.4502 F 0.5864
+Epoch Cause	17 R 0.7009 P 0.3744 F 0.4881
+---------Epoch End----------
+Epoch Pair	18 R 0.6159 P 0.4247 F 0.5027
+Epoch Emotion	18 R 0.8195 P 0.5166 F 0.6337
+Epoch Cause	18 R 0.6690 P 0.4338 F 0.5263
+---------Epoch End----------
+Epoch Pair	19 R 0.6087 P 0.3836 F 0.4706
+Epoch Emotion	19 R 0.8226 P 0.4834 F 0.6090
+Epoch Cause	19 R 0.6667 P 0.3927 F 0.4943
+---------Epoch End----------
+Epoch Pair	20 R 0.6269 P 0.3836 F 0.4759
+Epoch Emotion	20 R 0.8000 P 0.4550 F 0.5801
+Epoch Cause	20 R 0.6772 P 0.3927 F 0.4971
+---------Epoch End----------
+Epoch Pair	21 R 0.5689 P 0.4338 F 0.4922
+Epoch Emotion	21 R 0.8014 P 0.5355 F 0.6420
+Epoch Cause	21 R 0.6178 P 0.4429 F 0.5160
+---------Epoch End----------
+Epoch Pair	22 R 0.6364 P 0.3516 F 0.4529
+Epoch Emotion	22 R 0.8491 P 0.4265 F 0.5678
+Epoch Cause	22 R 0.6870 P 0.3607 F 0.4731
+---------Epoch End----------
+Epoch Pair	23 R 0.5567 P 0.4932 F 0.5230
+Epoch Emotion	23 R 0.7778 P 0.5972 F 0.6756
+Epoch Cause	23 R 0.6145 P 0.5023 F 0.5528
+---------Epoch End----------
+Epoch Pair	24 R 0.5860 P 0.4201 F 0.4894
+Epoch Emotion	24 R 0.7681 P 0.5024 F 0.6074
+Epoch Cause	24 R 0.6463 P 0.4338 F 0.5191
+---------Epoch End----------
+Epoch Pair	25 R 0.6125 P 0.4475 F 0.5172
+Epoch Emotion	25 R 0.8333 P 0.5450 F 0.6590
+Epoch Cause	25 R 0.6667 P 0.4566 F 0.5420
+---------Epoch End----------
+Epoch Pair	26 R 0.5231 P 0.4658 F 0.4928
+Epoch Emotion	26 R 0.7707 P 0.5735 F 0.6576
+Epoch Cause	26 R 0.5843 P 0.4749 F 0.5239
+---------Epoch End----------
+Epoch Pair	27 R 0.5912 P 0.4292 F 0.4974
+Epoch Emotion	27 R 0.8074 P 0.5166 F 0.6301
+Epoch Cause	27 R 0.6463 P 0.4338 F 0.5191
+---------Epoch End----------
+Epoch Pair	28 R 0.5673 P 0.4429 F 0.4974
+Epoch Emotion	28 R 0.7708 P 0.5261 F 0.6254
+Epoch Cause	28 R 0.6164 P 0.4475 F 0.5185
+---------Epoch End----------
+Epoch Pair	29 R 0.6457 P 0.3744 F 0.4740
+Epoch Emotion	29 R 0.8125 P 0.4313 F 0.5635
+Epoch Cause	29 R 0.6975 P 0.3790 F 0.4911
+---------Epoch End----------
+Fold Pair	5 R 0.5567 P 0.4932 F 0.5230
+Fold Emotion	5 R 0.7778 P 0.5972 F 0.6756
+Fold Cause	5 R 0.6145 P 0.5023 F 0.5528
+-----------Fold End-----------
+
+Acc Fold Pair	5 R 0.5712 P 0.4457 F 0.4998
+Acc Fold Emoti	5 R 0.7966 P 0.5450 F 0.6462
+Acc Fold Event	5 R 0.6264 P 0.4594 F 0.5294
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 1.0000 P 0.0048 F 0.0096
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.6154 P 0.1488 F 0.2397
+Epoch Emotion	2 R 0.9149 P 0.2067 F 0.3373
+Epoch Cause	2 R 0.6923 P 0.1682 F 0.2707
+---------Epoch End----------
+Epoch Pair	3 R 0.7778 P 0.0651 F 0.1202
+Epoch Emotion	3 R 1.0000 P 0.0865 F 0.1593
+Epoch Cause	3 R 0.7778 P 0.0654 F 0.1207
+---------Epoch End----------
+Epoch Pair	4 R 0.5970 P 0.1860 F 0.2837
+Epoch Emotion	4 R 0.8254 P 0.2500 F 0.3838
+Epoch Cause	4 R 0.6875 P 0.2056 F 0.3165
+---------Epoch End----------
+Epoch Pair	5 R 0.6447 P 0.2279 F 0.3368
+Epoch Emotion	5 R 0.8406 P 0.2788 F 0.4188
+Epoch Cause	5 R 0.7222 P 0.2430 F 0.3636
+---------Epoch End----------
+Epoch Pair	6 R 0.5504 P 0.3302 F 0.4128
+Epoch Emotion	6 R 0.8667 P 0.4375 F 0.5815
+Epoch Cause	6 R 0.6016 P 0.3458 F 0.4392
+---------Epoch End----------
+Epoch Pair	7 R 0.6944 P 0.2326 F 0.3484
+Epoch Emotion	7 R 0.8788 P 0.2788 F 0.4234
+Epoch Cause	7 R 0.7761 P 0.2430 F 0.3701
+---------Epoch End----------
+Epoch Pair	8 R 0.6866 P 0.2140 F 0.3262
+Epoch Emotion	8 R 0.8730 P 0.2644 F 0.4059
+Epoch Cause	8 R 0.7778 P 0.2290 F 0.3538
+---------Epoch End----------
+Epoch Pair	9 R 0.6696 P 0.3488 F 0.4587
+Epoch Emotion	9 R 0.8800 P 0.4231 F 0.5714
+Epoch Cause	9 R 0.7222 P 0.3645 F 0.4845
+---------Epoch End----------
+Epoch Pair	10 R 0.6809 P 0.2977 F 0.4142
+Epoch Emotion	10 R 0.8764 P 0.3750 F 0.5253
+Epoch Cause	10 R 0.7528 P 0.3131 F 0.4422
+---------Epoch End----------
+Epoch Pair	11 R 0.6204 P 0.3953 F 0.4830
+Epoch Emotion	11 R 0.8430 P 0.4904 F 0.6201
+Epoch Cause	11 R 0.6742 P 0.4159 F 0.5145
+---------Epoch End----------
+Epoch Pair	12 R 0.6759 P 0.3395 F 0.4520
+Epoch Emotion	12 R 0.8500 P 0.4087 F 0.5519
+Epoch Cause	12 R 0.7379 P 0.3551 F 0.4795
+---------Epoch End----------
+Epoch Pair	13 R 0.6389 P 0.3209 F 0.4272
+Epoch Emotion	13 R 0.8351 P 0.3894 F 0.5311
+Epoch Cause	13 R 0.6990 P 0.3364 F 0.4543
+---------Epoch End----------
+Epoch Pair	14 R 0.6438 P 0.4372 F 0.5208
+Epoch Emotion	14 R 0.8413 P 0.5096 F 0.6347
+Epoch Cause	14 R 0.6879 P 0.4533 F 0.5465
+---------Epoch End----------
+Epoch Pair	15 R 0.6327 P 0.4326 F 0.5138
+Epoch Emotion	15 R 0.8182 P 0.5192 F 0.6353
+Epoch Cause	15 R 0.6950 P 0.4579 F 0.5521
+---------Epoch End----------
+Epoch Pair	16 R 0.5928 P 0.4605 F 0.5183
+Epoch Emotion	16 R 0.8116 P 0.5385 F 0.6474
+Epoch Cause	16 R 0.6438 P 0.4813 F 0.5508
+---------Epoch End----------
+Epoch Pair	17 R 0.6099 P 0.4000 F 0.4831
+Epoch Emotion	17 R 0.8065 P 0.4808 F 0.6024
+Epoch Cause	17 R 0.6791 P 0.4252 F 0.5230
+---------Epoch End----------
+Epoch Pair	18 R 0.6071 P 0.3163 F 0.4159
+Epoch Emotion	18 R 0.8252 P 0.4087 F 0.5466
+Epoch Cause	18 R 0.6762 P 0.3318 F 0.4451
+---------Epoch End----------
+Epoch Pair	19 R 0.5521 P 0.4186 F 0.4762
+Epoch Emotion	19 R 0.8000 P 0.5192 F 0.6297
+Epoch Cause	19 R 0.6065 P 0.4393 F 0.5095
+---------Epoch End----------
+Epoch Pair	20 R 0.6336 P 0.3860 F 0.4798
+Epoch Emotion	20 R 0.8034 P 0.4519 F 0.5785
+Epoch Cause	20 R 0.6935 P 0.4019 F 0.5089
+---------Epoch End----------
+Epoch Pair	21 R 0.5909 P 0.4233 F 0.4932
+Epoch Emotion	21 R 0.8030 P 0.5096 F 0.6235
+Epoch Cause	21 R 0.6531 P 0.4486 F 0.5319
+---------Epoch End----------
+Epoch Pair	22 R 0.6131 P 0.3907 F 0.4773
+Epoch Emotion	22 R 0.8361 P 0.4904 F 0.6182
+Epoch Cause	22 R 0.6641 P 0.4065 F 0.5043
+---------Epoch End----------
+Epoch Pair	23 R 0.5778 P 0.4837 F 0.5266
+Epoch Emotion	23 R 0.8067 P 0.5817 F 0.6760
+Epoch Cause	23 R 0.6257 P 0.5000 F 0.5558
+---------Epoch End----------
+Epoch Pair	24 R 0.6174 P 0.4279 F 0.5055
+Epoch Emotion	24 R 0.8092 P 0.5096 F 0.6254
+Epoch Cause	24 R 0.6738 P 0.4439 F 0.5352
+---------Epoch End----------
+Epoch Pair	25 R 0.5890 P 0.4000 F 0.4765
+Epoch Emotion	25 R 0.8049 P 0.4760 F 0.5982
+Epoch Cause	25 R 0.6569 P 0.4206 F 0.5128
+---------Epoch End----------
+Epoch Pair	26 R 0.5816 P 0.3814 F 0.4607
+Epoch Emotion	26 R 0.8033 P 0.4712 F 0.5939
+Epoch Cause	26 R 0.6391 P 0.3972 F 0.4899
+---------Epoch End----------
+Epoch Pair	27 R 0.6032 P 0.3535 F 0.4457
+Epoch Emotion	27 R 0.8174 P 0.4519 F 0.5820
+Epoch Cause	27 R 0.6639 P 0.3692 F 0.4745
+---------Epoch End----------
+Epoch Pair	28 R 0.5985 P 0.3674 F 0.4553
+Epoch Emotion	28 R 0.8136 P 0.4615 F 0.5890
+Epoch Cause	28 R 0.6667 P 0.3832 F 0.4866
+---------Epoch End----------
+Epoch Pair	29 R 0.5821 P 0.3628 F 0.4470
+Epoch Emotion	29 R 0.8276 P 0.4615 F 0.5926
+Epoch Cause	29 R 0.6434 P 0.3879 F 0.4840
+---------Epoch End----------
+Fold Pair	6 R 0.5778 P 0.4837 F 0.5266
+Fold Emotion	6 R 0.8067 P 0.5817 F 0.6760
+Fold Cause	6 R 0.6257 P 0.5000 F 0.5558
+-----------Fold End-----------
+
+Acc Fold Pair	6 R 0.5723 P 0.4520 F 0.5043
+Acc Fold Emoti	6 R 0.7983 P 0.5511 F 0.6511
+Acc Fold Event	6 R 0.6263 P 0.4662 F 0.5338
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 1.0000 P 0.0235 F 0.0459
+Epoch Emotion	2 R 1.0000 P 0.0239 F 0.0467
+Epoch Cause	2 R 1.0000 P 0.0237 F 0.0463
+---------Epoch End----------
+Epoch Pair	3 R 0.6000 P 0.0282 F 0.0538
+Epoch Emotion	3 R 1.0000 P 0.0478 F 0.0913
+Epoch Cause	3 R 0.7000 P 0.0332 F 0.0633
+---------Epoch End----------
+Epoch Pair	4 R 0.8000 P 0.1315 F 0.2258
+Epoch Emotion	4 R 1.0000 P 0.1627 F 0.2798
+Epoch Cause	4 R 0.8235 P 0.1327 F 0.2286
+---------Epoch End----------
+Epoch Pair	5 R 0.8163 P 0.1878 F 0.3053
+Epoch Emotion	5 R 0.9792 P 0.2249 F 0.3658
+Epoch Cause	5 R 0.8723 P 0.1943 F 0.3178
+---------Epoch End----------
+Epoch Pair	6 R 0.7568 P 0.2629 F 0.3902
+Epoch Emotion	6 R 0.9710 P 0.3206 F 0.4820
+Epoch Cause	6 R 0.7917 P 0.2701 F 0.4028
+---------Epoch End----------
+Epoch Pair	7 R 0.7846 P 0.2394 F 0.3669
+Epoch Emotion	7 R 0.9677 P 0.2871 F 0.4428
+Epoch Cause	7 R 0.8387 P 0.2464 F 0.3810
+---------Epoch End----------
+Epoch Pair	8 R 0.6615 P 0.4038 F 0.5015
+Epoch Emotion	8 R 0.9245 P 0.4689 F 0.6222
+Epoch Cause	8 R 0.7063 P 0.4218 F 0.5282
+---------Epoch End----------
+Epoch Pair	9 R 0.7429 P 0.3662 F 0.4906
+Epoch Emotion	9 R 0.9783 P 0.4306 F 0.5980
+Epoch Cause	9 R 0.7723 P 0.3697 F 0.5000
+---------Epoch End----------
+Epoch Pair	10 R 0.7579 P 0.3380 F 0.4675
+Epoch Emotion	10 R 0.9651 P 0.3971 F 0.5627
+Epoch Cause	10 R 0.7935 P 0.3460 F 0.4818
+---------Epoch End----------
+Epoch Pair	11 R 0.6783 P 0.4554 F 0.5449
+Epoch Emotion	11 R 0.9333 P 0.5359 F 0.6809
+Epoch Cause	11 R 0.7132 P 0.4597 F 0.5591
+---------Epoch End----------
+Epoch Pair	12 R 0.7008 P 0.4178 F 0.5235
+Epoch Emotion	12 R 0.9541 P 0.4976 F 0.6541
+Epoch Cause	12 R 0.7236 P 0.4218 F 0.5329
+---------Epoch End----------
+Epoch Pair	13 R 0.7176 P 0.4413 F 0.5465
+Epoch Emotion	13 R 0.9464 P 0.5072 F 0.6604
+Epoch Cause	13 R 0.7460 P 0.4455 F 0.5579
+---------Epoch End----------
+Epoch Pair	14 R 0.7241 P 0.3944 F 0.5106
+Epoch Emotion	14 R 0.9604 P 0.4641 F 0.6258
+Epoch Cause	14 R 0.7544 P 0.4076 F 0.5292
+---------Epoch End----------
+Epoch Pair	15 R 0.7364 P 0.4460 F 0.5556
+Epoch Emotion	15 R 0.9550 P 0.5072 F 0.6625
+Epoch Cause	15 R 0.7680 P 0.4550 F 0.5714
+---------Epoch End----------
+Epoch Pair	16 R 0.6711 P 0.4789 F 0.5589
+Epoch Emotion	16 R 0.9291 P 0.5646 F 0.7024
+Epoch Cause	16 R 0.6939 P 0.4834 F 0.5698
+---------Epoch End----------
+Epoch Pair	17 R 0.6992 P 0.4038 F 0.5119
+Epoch Emotion	17 R 0.9626 P 0.4928 F 0.6519
+Epoch Cause	17 R 0.7250 P 0.4123 F 0.5257
+---------Epoch End----------
+Epoch Pair	18 R 0.6914 P 0.5258 F 0.5973
+Epoch Emotion	18 R 0.9403 P 0.6029 F 0.7347
+Epoch Cause	18 R 0.7244 P 0.5355 F 0.6158
+---------Epoch End----------
+Epoch Pair	19 R 0.6667 P 0.4601 F 0.5444
+Epoch Emotion	19 R 0.9444 P 0.5694 F 0.7104
+Epoch Cause	19 R 0.7143 P 0.4739 F 0.5698
+---------Epoch End----------
+Epoch Pair	20 R 0.6333 P 0.5352 F 0.5802
+Epoch Emotion	20 R 0.9433 P 0.6364 F 0.7600
+Epoch Cause	20 R 0.6609 P 0.5450 F 0.5974
+---------Epoch End----------
+Epoch Pair	21 R 0.6244 P 0.5775 F 0.6000
+Epoch Emotion	21 R 0.9103 P 0.6794 F 0.7781
+Epoch Cause	21 R 0.6492 P 0.5877 F 0.6169
+---------Epoch End----------
+Epoch Pair	22 R 0.6579 P 0.4695 F 0.5479
+Epoch Emotion	22 R 0.8992 P 0.5550 F 0.6864
+Epoch Cause	22 R 0.6892 P 0.4834 F 0.5682
+---------Epoch End----------
+Epoch Pair	23 R 0.7023 P 0.4319 F 0.5349
+Epoch Emotion	23 R 0.9145 P 0.5120 F 0.6564
+Epoch Cause	23 R 0.7360 P 0.4360 F 0.5476
+---------Epoch End----------
+Epoch Pair	24 R 0.6031 P 0.5493 F 0.5749
+Epoch Emotion	24 R 0.8385 P 0.6459 F 0.7297
+Epoch Cause	24 R 0.6296 P 0.5640 F 0.5950
+---------Epoch End----------
+Epoch Pair	25 R 0.5847 P 0.5023 F 0.5404
+Epoch Emotion	25 R 0.8639 P 0.6077 F 0.7135
+Epoch Cause	25 R 0.6207 P 0.5118 F 0.5610
+---------Epoch End----------
+Epoch Pair	26 R 0.6714 P 0.4413 F 0.5326
+Epoch Emotion	26 R 0.9076 P 0.5167 F 0.6585
+Epoch Cause	26 R 0.7015 P 0.4455 F 0.5449
+---------Epoch End----------
+Epoch Pair	27 R 0.5892 P 0.5117 F 0.5477
+Epoch Emotion	27 R 0.8707 P 0.6124 F 0.7191
+Epoch Cause	27 R 0.6264 P 0.5166 F 0.5662
+---------Epoch End----------
+Epoch Pair	28 R 0.6040 P 0.5728 F 0.5880
+Epoch Emotion	28 R 0.8616 P 0.6555 F 0.7446
+Epoch Cause	28 R 0.6354 P 0.5782 F 0.6055
+---------Epoch End----------
+Epoch Pair	29 R 0.6012 P 0.4601 F 0.5213
+Epoch Emotion	29 R 0.8500 P 0.5694 F 0.6819
+Epoch Cause	29 R 0.6387 P 0.4692 F 0.5410
+---------Epoch End----------
+Fold Pair	7 R 0.6244 P 0.5775 F 0.6000
+Fold Emotion	7 R 0.9103 P 0.6794 F 0.7781
+Fold Cause	7 R 0.6492 P 0.5877 F 0.6169
+-----------Fold End-----------
+
+Acc Fold Pair	7 R 0.5797 P 0.4700 F 0.5180
+Acc Fold Emoti	7 R 0.8143 P 0.5695 F 0.6693
+Acc Fold Event	7 R 0.6295 P 0.4835 F 0.5457
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.9444 P 0.0813 F 0.1498
+Epoch Emotion	2 R 0.9444 P 0.0825 F 0.1518
+Epoch Cause	2 R 1.0000 P 0.0861 F 0.1586
+---------Epoch End----------
+Epoch Pair	3 R 0.7959 P 0.1866 F 0.3023
+Epoch Emotion	3 R 0.8776 P 0.2087 F 0.3373
+Epoch Cause	3 R 0.8333 P 0.1914 F 0.3113
+---------Epoch End----------
+Epoch Pair	4 R 0.6860 P 0.2823 F 0.4000
+Epoch Emotion	4 R 0.8500 P 0.3301 F 0.4755
+Epoch Cause	4 R 0.7176 P 0.2919 F 0.4150
+---------Epoch End----------
+Epoch Pair	5 R 0.7326 P 0.3014 F 0.4271
+Epoch Emotion	5 R 0.8889 P 0.3495 F 0.5017
+Epoch Cause	5 R 0.7619 P 0.3062 F 0.4369
+---------Epoch End----------
+Epoch Pair	6 R 0.7604 P 0.3493 F 0.4787
+Epoch Emotion	6 R 0.8791 P 0.3883 F 0.5387
+Epoch Cause	6 R 0.7872 P 0.3541 F 0.4884
+---------Epoch End----------
+Epoch Pair	7 R 0.7252 P 0.4545 F 0.5588
+Epoch Emotion	7 R 0.8852 P 0.5243 F 0.6585
+Epoch Cause	7 R 0.7442 P 0.4593 F 0.5680
+---------Epoch End----------
+Epoch Pair	8 R 0.7190 P 0.4163 F 0.5273
+Epoch Emotion	8 R 0.8661 P 0.4709 F 0.6101
+Epoch Cause	8 R 0.7479 P 0.4258 F 0.5427
+---------Epoch End----------
+Epoch Pair	9 R 0.6857 P 0.4593 F 0.5501
+Epoch Emotion	9 R 0.8672 P 0.5388 F 0.6647
+Epoch Cause	9 R 0.7029 P 0.4641 F 0.5591
+---------Epoch End----------
+Epoch Pair	10 R 0.7120 P 0.4258 F 0.5329
+Epoch Emotion	10 R 0.8772 P 0.4854 F 0.6250
+Epoch Cause	10 R 0.7355 P 0.4258 F 0.5394
+---------Epoch End----------
+Epoch Pair	11 R 0.7119 P 0.4019 F 0.5138
+Epoch Emotion	11 R 0.8727 P 0.4660 F 0.6076
+Epoch Cause	11 R 0.7456 P 0.4067 F 0.5263
+---------Epoch End----------
+Epoch Pair	12 R 0.6738 P 0.4545 F 0.5429
+Epoch Emotion	12 R 0.8359 P 0.5194 F 0.6407
+Epoch Cause	12 R 0.7111 P 0.4593 F 0.5581
+---------Epoch End----------
+Epoch Pair	13 R 0.6494 P 0.5407 F 0.5901
+Epoch Emotion	13 R 0.8366 P 0.6214 F 0.7131
+Epoch Cause	13 R 0.6864 P 0.5550 F 0.6138
+---------Epoch End----------
+Epoch Pair	14 R 0.6897 P 0.3828 F 0.4923
+Epoch Emotion	14 R 0.8571 P 0.4369 F 0.5788
+Epoch Cause	14 R 0.7207 P 0.3828 F 0.5000
+---------Epoch End----------
+Epoch Pair	15 R 0.6477 P 0.5455 F 0.5922
+Epoch Emotion	15 R 0.8516 P 0.6408 F 0.7313
+Epoch Cause	15 R 0.6746 P 0.5455 F 0.6032
+---------Epoch End----------
+Epoch Pair	16 R 0.6368 P 0.5789 F 0.6065
+Epoch Emotion	16 R 0.8509 P 0.6650 F 0.7466
+Epoch Cause	16 R 0.6667 P 0.5837 F 0.6224
+---------Epoch End----------
+Epoch Pair	17 R 0.6256 P 0.6077 F 0.6165
+Epoch Emotion	17 R 0.8547 P 0.7136 F 0.7778
+Epoch Cause	17 R 0.6615 P 0.6172 F 0.6386
+---------Epoch End----------
+Epoch Pair	18 R 0.6424 P 0.5072 F 0.5668
+Epoch Emotion	18 R 0.8483 P 0.5971 F 0.7009
+Epoch Cause	18 R 0.6792 P 0.5167 F 0.5870
+---------Epoch End----------
+Epoch Pair	19 R 0.6832 P 0.5263 F 0.5946
+Epoch Emotion	19 R 0.8472 P 0.5922 F 0.6971
+Epoch Cause	19 R 0.7226 P 0.5359 F 0.6154
+---------Epoch End----------
+Epoch Pair	20 R 0.6325 P 0.5024 F 0.5600
+Epoch Emotion	20 R 0.8288 P 0.5874 F 0.6875
+Epoch Cause	20 R 0.6792 P 0.5167 F 0.5870
+---------Epoch End----------
+Epoch Pair	21 R 0.6075 P 0.5407 F 0.5722
+Epoch Emotion	21 R 0.7892 P 0.6359 F 0.7043
+Epoch Cause	21 R 0.6554 P 0.5550 F 0.6010
+---------Epoch End----------
+Epoch Pair	22 R 0.6243 P 0.5407 F 0.5795
+Epoch Emotion	22 R 0.8228 P 0.6311 F 0.7143
+Epoch Cause	22 R 0.6667 P 0.5455 F 0.6000
+---------Epoch End----------
+Epoch Pair	23 R 0.6687 P 0.5120 F 0.5799
+Epoch Emotion	23 R 0.8562 P 0.6068 F 0.7102
+Epoch Cause	23 R 0.7032 P 0.5215 F 0.5989
+---------Epoch End----------
+Epoch Pair	24 R 0.6154 P 0.5359 F 0.5729
+Epoch Emotion	24 R 0.8165 P 0.6262 F 0.7088
+Epoch Cause	24 R 0.6590 P 0.5455 F 0.5969
+---------Epoch End----------
+Epoch Pair	25 R 0.6438 P 0.4928 F 0.5583
+Epoch Emotion	25 R 0.8462 P 0.5874 F 0.6934
+Epoch Cause	25 R 0.6883 P 0.5072 F 0.5840
+---------Epoch End----------
+Epoch Pair	26 R 0.6441 P 0.5455 F 0.5907
+Epoch Emotion	26 R 0.8397 P 0.6359 F 0.7238
+Epoch Cause	26 R 0.6946 P 0.5550 F 0.6170
+---------Epoch End----------
+Epoch Pair	27 R 0.6133 P 0.5311 F 0.5692
+Epoch Emotion	27 R 0.8291 P 0.6359 F 0.7198
+Epoch Cause	27 R 0.6512 P 0.5359 F 0.5879
+---------Epoch End----------
+Epoch Pair	28 R 0.6092 P 0.5072 F 0.5535
+Epoch Emotion	28 R 0.8289 P 0.6117 F 0.7039
+Epoch Cause	28 R 0.6506 P 0.5167 F 0.5760
+---------Epoch End----------
+Epoch Pair	29 R 0.6021 P 0.5502 F 0.5750
+Epoch Emotion	29 R 0.8110 P 0.6456 F 0.7189
+Epoch Cause	29 R 0.6484 P 0.5646 F 0.6036
+---------Epoch End----------
+Fold Pair	8 R 0.6256 P 0.6077 F 0.6165
+Fold Emotion	8 R 0.8547 P 0.7136 F 0.7778
+Fold Cause	8 R 0.6615 P 0.6172 F 0.6386
+-----------Fold End-----------
+
+Acc Fold Pair	8 R 0.5855 P 0.4872 F 0.5303
+Acc Fold Emoti	8 R 0.8193 P 0.5875 F 0.6828
+Acc Fold Event	8 R 0.6335 P 0.5002 F 0.5573
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.2000 P 0.0051 F 0.0099
+Epoch Emotion	0 R 0.3333 P 0.0051 F 0.0100
+Epoch Cause	0 R 0.2000 P 0.0051 F 0.0099
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.8333 P 0.0758 F 0.1389
+Epoch Emotion	2 R 0.8824 P 0.0761 F 0.1402
+Epoch Cause	2 R 0.8824 P 0.0758 F 0.1395
+---------Epoch End----------
+Epoch Pair	3 R 0.7097 P 0.1111 F 0.1921
+Epoch Emotion	3 R 0.8276 P 0.1218 F 0.2124
+Epoch Cause	3 R 0.7667 P 0.1162 F 0.2018
+---------Epoch End----------
+Epoch Pair	4 R 0.6286 P 0.1111 F 0.1888
+Epoch Emotion	4 R 0.7941 P 0.1371 F 0.2338
+Epoch Cause	4 R 0.7188 P 0.1162 F 0.2000
+---------Epoch End----------
+Epoch Pair	5 R 0.5862 P 0.1717 F 0.2656
+Epoch Emotion	5 R 0.7925 P 0.2132 F 0.3360
+Epoch Cause	5 R 0.6667 P 0.1717 F 0.2731
+---------Epoch End----------
+Epoch Pair	6 R 0.6444 P 0.1465 F 0.2387
+Epoch Emotion	6 R 0.8095 P 0.1726 F 0.2845
+Epoch Cause	6 R 0.7209 P 0.1566 F 0.2573
+---------Epoch End----------
+Epoch Pair	7 R 0.5761 P 0.2677 F 0.3655
+Epoch Emotion	7 R 0.7778 P 0.3198 F 0.4532
+Epoch Cause	7 R 0.6471 P 0.2778 F 0.3887
+---------Epoch End----------
+Epoch Pair	8 R 0.5867 P 0.2222 F 0.3223
+Epoch Emotion	8 R 0.7794 P 0.2690 F 0.4000
+Epoch Cause	8 R 0.6765 P 0.2323 F 0.3459
+---------Epoch End----------
+Epoch Pair	9 R 0.5370 P 0.2929 F 0.3791
+Epoch Emotion	9 R 0.7935 P 0.3706 F 0.5052
+Epoch Cause	9 R 0.5900 P 0.2980 F 0.3960
+---------Epoch End----------
+Epoch Pair	10 R 0.5783 P 0.2424 F 0.3416
+Epoch Emotion	10 R 0.7922 P 0.3096 F 0.4453
+Epoch Cause	10 R 0.6494 P 0.2525 F 0.3636
+---------Epoch End----------
+Epoch Pair	11 R 0.5083 P 0.3081 F 0.3836
+Epoch Emotion	11 R 0.7944 P 0.4315 F 0.5592
+Epoch Cause	11 R 0.5586 P 0.3131 F 0.4013
+---------Epoch End----------
+Epoch Pair	12 R 0.5904 P 0.2475 F 0.3488
+Epoch Emotion	12 R 0.7821 P 0.3096 F 0.4436
+Epoch Cause	12 R 0.6538 P 0.2576 F 0.3696
+---------Epoch End----------
+Epoch Pair	13 R 0.5200 P 0.2626 F 0.3490
+Epoch Emotion	13 R 0.7609 P 0.3553 F 0.4844
+Epoch Cause	13 R 0.6111 P 0.2778 F 0.3819
+---------Epoch End----------
+Epoch Pair	14 R 0.4800 P 0.3636 F 0.4138
+Epoch Emotion	14 R 0.7734 P 0.5025 F 0.6092
+Epoch Cause	14 R 0.5324 P 0.3737 F 0.4392
+---------Epoch End----------
+Epoch Pair	15 R 0.5042 P 0.3030 F 0.3785
+Epoch Emotion	15 R 0.7850 P 0.4264 F 0.5526
+Epoch Cause	15 R 0.5536 P 0.3131 F 0.4000
+---------Epoch End----------
+Epoch Pair	16 R 0.5814 P 0.2525 F 0.3521
+Epoch Emotion	16 R 0.7683 P 0.3198 F 0.4516
+Epoch Cause	16 R 0.6543 P 0.2677 F 0.3799
+---------Epoch End----------
+Epoch Pair	17 R 0.5071 P 0.3586 F 0.4201
+Epoch Emotion	17 R 0.7680 P 0.4873 F 0.5963
+Epoch Cause	17 R 0.5625 P 0.3636 F 0.4417
+---------Epoch End----------
+Epoch Pair	18 R 0.4545 P 0.2778 F 0.3448
+Epoch Emotion	18 R 0.7573 P 0.3959 F 0.5200
+Epoch Cause	18 R 0.5091 P 0.2828 F 0.3636
+---------Epoch End----------
+Epoch Pair	19 R 0.4737 P 0.3182 F 0.3807
+Epoch Emotion	19 R 0.7542 P 0.4518 F 0.5651
+Epoch Cause	19 R 0.5289 P 0.3232 F 0.4013
+---------Epoch End----------
+Epoch Pair	20 R 0.4769 P 0.3131 F 0.3780
+Epoch Emotion	20 R 0.7345 P 0.4213 F 0.5355
+Epoch Cause	20 R 0.5289 P 0.3232 F 0.4013
+---------Epoch End----------
+Epoch Pair	21 R 0.4589 P 0.3384 F 0.3895
+Epoch Emotion	21 R 0.7132 P 0.4670 F 0.5644
+Epoch Cause	21 R 0.5188 P 0.3485 F 0.4169
+---------Epoch End----------
+Epoch Pair	22 R 0.5038 P 0.3384 F 0.4048
+Epoch Emotion	22 R 0.7672 P 0.4518 F 0.5687
+Epoch Cause	22 R 0.5610 P 0.3485 F 0.4299
+---------Epoch End----------
+Epoch Pair	23 R 0.4395 P 0.3485 F 0.3887
+Epoch Emotion	23 R 0.7023 P 0.4670 F 0.5610
+Epoch Cause	23 R 0.5035 P 0.3586 F 0.4189
+---------Epoch End----------
+Epoch Pair	24 R 0.4478 P 0.3030 F 0.3614
+Epoch Emotion	24 R 0.7456 P 0.4315 F 0.5466
+Epoch Cause	24 R 0.5126 P 0.3081 F 0.3849
+---------Epoch End----------
+Epoch Pair	25 R 0.4750 P 0.2879 F 0.3585
+Epoch Emotion	25 R 0.7358 P 0.3959 F 0.5149
+Epoch Cause	25 R 0.5413 P 0.2980 F 0.3844
+---------Epoch End----------
+Epoch Pair	26 R 0.4651 P 0.3030 F 0.3670
+Epoch Emotion	26 R 0.7080 P 0.4061 F 0.5161
+Epoch Cause	26 R 0.5299 P 0.3131 F 0.3937
+---------Epoch End----------
+Epoch Pair	27 R 0.4571 P 0.3232 F 0.3787
+Epoch Emotion	27 R 0.7250 P 0.4416 F 0.5489
+Epoch Cause	27 R 0.5116 P 0.3333 F 0.4037
+---------Epoch End----------
+Epoch Pair	28 R 0.4532 P 0.3182 F 0.3739
+Epoch Emotion	28 R 0.7458 P 0.4467 F 0.5587
+Epoch Cause	28 R 0.5000 P 0.3283 F 0.3963
+---------Epoch End----------
+Epoch Pair	29 R 0.4161 P 0.2879 F 0.3403
+Epoch Emotion	29 R 0.7241 P 0.4264 F 0.5367
+Epoch Cause	29 R 0.4677 P 0.2929 F 0.3602
+---------Epoch End----------
+Fold Pair	9 R 0.5071 P 0.3586 F 0.4201
+Fold Emotion	9 R 0.7680 P 0.4873 F 0.5963
+Fold Cause	9 R 0.5625 P 0.3636 F 0.4417
+-----------Fold End-----------
+
+Acc Fold Pair	9 R 0.5768 P 0.4729 F 0.5180
+Acc Fold Emoti	9 R 0.8136 P 0.5764 F 0.6732
+Acc Fold Event	9 R 0.6257 P 0.4851 F 0.5444
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 1.0000 P 0.0095 F 0.0189
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.6923 P 0.0425 F 0.0800
+Epoch Emotion	2 R 0.8462 P 0.0524 F 0.0987
+Epoch Cause	2 R 0.6923 P 0.0425 F 0.0800
+---------Epoch End----------
+Epoch Pair	3 R 0.5161 P 0.0755 F 0.1317
+Epoch Emotion	3 R 0.7333 P 0.1048 F 0.1833
+Epoch Cause	3 R 0.5484 P 0.0802 F 0.1399
+---------Epoch End----------
+Epoch Pair	4 R 0.5833 P 0.0991 F 0.1694
+Epoch Emotion	4 R 0.7647 P 0.1238 F 0.2131
+Epoch Cause	4 R 0.6111 P 0.1038 F 0.1774
+---------Epoch End----------
+Epoch Pair	5 R 0.5227 P 0.1085 F 0.1797
+Epoch Emotion	5 R 0.7381 P 0.1476 F 0.2460
+Epoch Cause	5 R 0.5814 P 0.1179 F 0.1961
+---------Epoch End----------
+Epoch Pair	6 R 0.5510 P 0.1274 F 0.2069
+Epoch Emotion	6 R 0.7551 P 0.1762 F 0.2857
+Epoch Cause	6 R 0.6170 P 0.1368 F 0.2239
+---------Epoch End----------
+Epoch Pair	7 R 0.5352 P 0.1792 F 0.2686
+Epoch Emotion	7 R 0.7391 P 0.2429 F 0.3656
+Epoch Cause	7 R 0.5714 P 0.1887 F 0.2837
+---------Epoch End----------
+Epoch Pair	8 R 0.4455 P 0.2123 F 0.2875
+Epoch Emotion	8 R 0.7303 P 0.3095 F 0.4348
+Epoch Cause	8 R 0.4848 P 0.2264 F 0.3087
+---------Epoch End----------
+Epoch Pair	9 R 0.4800 P 0.2264 F 0.3077
+Epoch Emotion	9 R 0.7473 P 0.3238 F 0.4518
+Epoch Cause	9 R 0.5204 P 0.2406 F 0.3290
+---------Epoch End----------
+Epoch Pair	10 R 0.5233 P 0.2123 F 0.3020
+Epoch Emotion	10 R 0.7625 P 0.2905 F 0.4207
+Epoch Cause	10 R 0.5595 P 0.2217 F 0.3176
+---------Epoch End----------
+Epoch Pair	11 R 0.4615 P 0.1981 F 0.2772
+Epoch Emotion	11 R 0.6941 P 0.2810 F 0.4000
+Epoch Cause	11 R 0.5169 P 0.2170 F 0.3056
+---------Epoch End----------
+Epoch Pair	12 R 0.4889 P 0.2075 F 0.2914
+Epoch Emotion	12 R 0.7093 P 0.2905 F 0.4122
+Epoch Cause	12 R 0.5341 P 0.2217 F 0.3133
+---------Epoch End----------
+Epoch Pair	13 R 0.4731 P 0.2075 F 0.2885
+Epoch Emotion	13 R 0.7209 P 0.2952 F 0.4189
+Epoch Cause	13 R 0.5165 P 0.2217 F 0.3102
+---------Epoch End----------
+Epoch Pair	14 R 0.4268 P 0.3302 F 0.3723
+Epoch Emotion	14 R 0.7612 P 0.4857 F 0.5930
+Epoch Cause	14 R 0.4783 P 0.3632 F 0.4129
+---------Epoch End----------
+Epoch Pair	15 R 0.4342 P 0.3113 F 0.3626
+Epoch Emotion	15 R 0.6970 P 0.4381 F 0.5380
+Epoch Cause	15 R 0.4966 P 0.3396 F 0.4034
+---------Epoch End----------
+Epoch Pair	16 R 0.4545 P 0.2358 F 0.3106
+Epoch Emotion	16 R 0.6970 P 0.3286 F 0.4466
+Epoch Cause	16 R 0.5140 P 0.2594 F 0.3448
+---------Epoch End----------
+Epoch Pair	17 R 0.4126 P 0.2783 F 0.3324
+Epoch Emotion	17 R 0.6774 P 0.4000 F 0.5030
+Epoch Cause	17 R 0.4632 P 0.2972 F 0.3621
+---------Epoch End----------
+Epoch Pair	18 R 0.4186 P 0.3396 F 0.3750
+Epoch Emotion	18 R 0.7000 P 0.5000 F 0.5833
+Epoch Cause	18 R 0.4756 P 0.3679 F 0.4149
+---------Epoch End----------
+Epoch Pair	19 R 0.5167 P 0.2925 F 0.3735
+Epoch Emotion	19 R 0.7523 P 0.3905 F 0.5141
+Epoch Cause	19 R 0.5641 P 0.3113 F 0.4012
+---------Epoch End----------
+Epoch Pair	20 R 0.4524 P 0.3585 F 0.4000
+Epoch Emotion	20 R 0.7357 P 0.4905 F 0.5886
+Epoch Cause	20 R 0.5000 P 0.3821 F 0.4332
+---------Epoch End----------
+Epoch Pair	21 R 0.4296 P 0.2736 F 0.3343
+Epoch Emotion	21 R 0.6870 P 0.3762 F 0.4862
+Epoch Cause	21 R 0.4960 P 0.2925 F 0.3680
+---------Epoch End----------
+Epoch Pair	22 R 0.3838 P 0.3585 F 0.3707
+Epoch Emotion	22 R 0.6727 P 0.5286 F 0.5920
+Epoch Cause	22 R 0.4541 P 0.3962 F 0.4232
+---------Epoch End----------
+Epoch Pair	23 R 0.4305 P 0.3066 F 0.3581
+Epoch Emotion	23 R 0.6923 P 0.4286 F 0.5294
+Epoch Cause	23 R 0.5000 P 0.3349 F 0.4011
+---------Epoch End----------
+Epoch Pair	24 R 0.3534 P 0.4434 F 0.3933
+Epoch Emotion	24 R 0.6700 P 0.6381 F 0.6537
+Epoch Cause	24 R 0.4170 P 0.4858 F 0.4488
+---------Epoch End----------
+Epoch Pair	25 R 0.4211 P 0.3019 F 0.3516
+Epoch Emotion	25 R 0.7165 P 0.4333 F 0.5401
+Epoch Cause	25 R 0.4861 P 0.3302 F 0.3933
+---------Epoch End----------
+Epoch Pair	26 R 0.4000 P 0.3396 F 0.3673
+Epoch Emotion	26 R 0.6918 P 0.4810 F 0.5674
+Epoch Cause	26 R 0.4790 P 0.3774 F 0.4222
+---------Epoch End----------
+Epoch Pair	27 R 0.4362 P 0.3066 F 0.3601
+Epoch Emotion	27 R 0.7218 P 0.4571 F 0.5598
+Epoch Cause	27 R 0.5071 P 0.3349 F 0.4034
+---------Epoch End----------
+Epoch Pair	28 R 0.3930 P 0.3726 F 0.3826
+Epoch Emotion	28 R 0.6584 P 0.5048 F 0.5714
+Epoch Cause	28 R 0.4703 P 0.4104 F 0.4383
+---------Epoch End----------
+Epoch Pair	29 R 0.3514 P 0.4575 F 0.3975
+Epoch Emotion	29 R 0.6439 P 0.6286 F 0.6361
+Epoch Cause	29 R 0.4109 P 0.5000 F 0.4511
+---------Epoch End----------
+Fold Pair	10 R 0.4524 P 0.3585 F 0.4000
+Fold Emotion	10 R 0.7357 P 0.4905 F 0.5886
+Fold Cause	10 R 0.5000 P 0.3821 F 0.4332
+-----------Fold End-----------
+
+Acc Fold Pair	10 R 0.5643 P 0.4614 F 0.5062
+Acc Fold Emoti	10 R 0.8058 P 0.5678 F 0.6648
+Acc Fold Event	10 R 0.6131 P 0.4748 F 0.5333
+-----------------------------
+
+------------Final Result-------------
+Final Pair	 R 0.5643 P 0.4614 F 0.5062
+Final Emotion	 R 0.8058 P 0.5678 F 0.6648
+Final Event	 R 0.6131 P 0.4748 F 0.5333
+---------------Finish----------------
+Repeat 1, Seed 2021
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.7209 P 0.1342 F 0.2263
+Epoch Emotion	2 R 0.9048 P 0.1801 F 0.3004
+Epoch Cause	2 R 0.7674 P 0.1435 F 0.2418
+---------Epoch End----------
+Epoch Pair	3 R 0.8333 P 0.1299 F 0.2247
+Epoch Emotion	3 R 1.0000 P 0.1706 F 0.2915
+Epoch Cause	3 R 0.8611 P 0.1348 F 0.2331
+---------Epoch End----------
+Epoch Pair	4 R 0.6613 P 0.1775 F 0.2799
+Epoch Emotion	4 R 0.9138 P 0.2512 F 0.3941
+Epoch Cause	4 R 0.7167 P 0.1870 F 0.2966
+---------Epoch End----------
+Epoch Pair	5 R 0.6769 P 0.1905 F 0.2973
+Epoch Emotion	5 R 0.8871 P 0.2607 F 0.4029
+Epoch Cause	5 R 0.7385 P 0.2087 F 0.3254
+---------Epoch End----------
+Epoch Pair	6 R 0.6486 P 0.2078 F 0.3148
+Epoch Emotion	6 R 0.8472 P 0.2891 F 0.4311
+Epoch Cause	6 R 0.7083 P 0.2217 F 0.3377
+---------Epoch End----------
+Epoch Pair	7 R 0.6716 P 0.1948 F 0.3020
+Epoch Emotion	7 R 0.8462 P 0.2607 F 0.3986
+Epoch Cause	7 R 0.7500 P 0.2087 F 0.3265
+---------Epoch End----------
+Epoch Pair	8 R 0.6458 P 0.2684 F 0.3792
+Epoch Emotion	8 R 0.8444 P 0.3602 F 0.5050
+Epoch Cause	8 R 0.7065 P 0.2826 F 0.4037
+---------Epoch End----------
+Epoch Pair	9 R 0.6250 P 0.2597 F 0.3670
+Epoch Emotion	9 R 0.8202 P 0.3460 F 0.4867
+Epoch Cause	9 R 0.6774 P 0.2739 F 0.3901
+---------Epoch End----------
+Epoch Pair	10 R 0.6271 P 0.3203 F 0.4241
+Epoch Emotion	10 R 0.8333 P 0.4265 F 0.5643
+Epoch Cause	10 R 0.6726 P 0.3304 F 0.4431
+---------Epoch End----------
+Epoch Pair	11 R 0.6897 P 0.2597 F 0.3774
+Epoch Emotion	11 R 0.8765 P 0.3365 F 0.4863
+Epoch Cause	11 R 0.7262 P 0.2652 F 0.3885
+---------Epoch End----------
+Epoch Pair	12 R 0.6466 P 0.3247 F 0.4323
+Epoch Emotion	12 R 0.8491 P 0.4265 F 0.5678
+Epoch Cause	12 R 0.7000 P 0.3348 F 0.4529
+---------Epoch End----------
+Epoch Pair	13 R 0.6330 P 0.2987 F 0.4059
+Epoch Emotion	13 R 0.8400 P 0.3981 F 0.5402
+Epoch Cause	13 R 0.6731 P 0.3043 F 0.4192
+---------Epoch End----------
+Epoch Pair	14 R 0.6471 P 0.2857 F 0.3964
+Epoch Emotion	14 R 0.8280 P 0.3649 F 0.5066
+Epoch Cause	14 R 0.6979 P 0.2913 F 0.4110
+---------Epoch End----------
+Epoch Pair	15 R 0.6124 P 0.3420 F 0.4389
+Epoch Emotion	15 R 0.8125 P 0.4313 F 0.5635
+Epoch Cause	15 R 0.6694 P 0.3522 F 0.4615
+---------Epoch End----------
+Epoch Pair	16 R 0.6014 P 0.3593 F 0.4499
+Epoch Emotion	16 R 0.7937 P 0.4739 F 0.5935
+Epoch Cause	16 R 0.6641 P 0.3783 F 0.4820
+---------Epoch End----------
+Epoch Pair	17 R 0.6667 P 0.3203 F 0.4327
+Epoch Emotion	17 R 0.8269 P 0.4076 F 0.5460
+Epoch Cause	17 R 0.7075 P 0.3261 F 0.4464
+---------Epoch End----------
+Epoch Pair	18 R 0.5971 P 0.3593 F 0.4486
+Epoch Emotion	18 R 0.8293 P 0.4834 F 0.6108
+Epoch Cause	18 R 0.6418 P 0.3739 F 0.4725
+---------Epoch End----------
+Epoch Pair	19 R 0.6159 P 0.3680 F 0.4607
+Epoch Emotion	19 R 0.8033 P 0.4645 F 0.5886
+Epoch Cause	19 R 0.6565 P 0.3739 F 0.4765
+---------Epoch End----------
+Epoch Pair	20 R 0.6529 P 0.3420 F 0.4489
+Epoch Emotion	20 R 0.8378 P 0.4408 F 0.5776
+Epoch Cause	20 R 0.6957 P 0.3478 F 0.4638
+---------Epoch End----------
+Epoch Pair	21 R 0.6404 P 0.3160 F 0.4232
+Epoch Emotion	21 R 0.8302 P 0.4171 F 0.5552
+Epoch Cause	21 R 0.6818 P 0.3261 F 0.4412
+---------Epoch End----------
+Epoch Pair	22 R 0.6131 P 0.3636 F 0.4565
+Epoch Emotion	22 R 0.8430 P 0.4834 F 0.6145
+Epoch Cause	22 R 0.6439 P 0.3696 F 0.4696
+---------Epoch End----------
+Epoch Pair	23 R 0.6142 P 0.3377 F 0.4358
+Epoch Emotion	23 R 0.8125 P 0.4313 F 0.5635
+Epoch Cause	23 R 0.6667 P 0.3478 F 0.4571
+---------Epoch End----------
+Epoch Pair	24 R 0.6071 P 0.3680 F 0.4582
+Epoch Emotion	24 R 0.8182 P 0.4692 F 0.5964
+Epoch Cause	24 R 0.6489 P 0.3696 F 0.4709
+---------Epoch End----------
+Epoch Pair	25 R 0.5617 P 0.3939 F 0.4631
+Epoch Emotion	25 R 0.8116 P 0.5308 F 0.6418
+Epoch Cause	25 R 0.6053 P 0.4000 F 0.4817
+---------Epoch End----------
+Epoch Pair	26 R 0.5625 P 0.3896 F 0.4604
+Epoch Emotion	26 R 0.7899 P 0.5166 F 0.6246
+Epoch Cause	26 R 0.6174 P 0.4000 F 0.4855
+---------Epoch End----------
+Epoch Pair	27 R 0.5480 P 0.4199 F 0.4755
+Epoch Emotion	27 R 0.7862 P 0.5403 F 0.6404
+Epoch Cause	27 R 0.5964 P 0.4304 F 0.5000
+---------Epoch End----------
+Epoch Pair	28 R 0.5570 P 0.3593 F 0.4368
+Epoch Emotion	28 R 0.7891 P 0.4787 F 0.5959
+Epoch Cause	28 R 0.5971 P 0.3609 F 0.4499
+---------Epoch End----------
+Epoch Pair	29 R 0.5432 P 0.3810 F 0.4478
+Epoch Emotion	29 R 0.8030 P 0.5024 F 0.6181
+Epoch Cause	29 R 0.5882 P 0.3913 F 0.4700
+---------Epoch End----------
+Fold Pair	1 R 0.5480 P 0.4199 F 0.4755
+Fold Emotion	1 R 0.7862 P 0.5403 F 0.6404
+Fold Cause	1 R 0.5964 P 0.4304 F 0.5000
+-----------Fold End-----------
+
+Acc Fold Pair	1 R 0.5480 P 0.4199 F 0.4755
+Acc Fold Emoti	1 R 0.7862 P 0.5403 F 0.6404
+Acc Fold Event	1 R 0.5964 P 0.4304 F 0.5000
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 1.0000 P 0.0413 F 0.0793
+Epoch Emotion	2 R 1.0000 P 0.0427 F 0.0818
+Epoch Cause	2 R 1.0000 P 0.0413 F 0.0793
+---------Epoch End----------
+Epoch Pair	3 R 0.8571 P 0.0550 F 0.1034
+Epoch Emotion	3 R 1.0000 P 0.0616 F 0.1161
+Epoch Cause	3 R 0.9286 P 0.0596 F 0.1121
+---------Epoch End----------
+Epoch Pair	4 R 0.6364 P 0.1606 F 0.2564
+Epoch Emotion	4 R 0.9400 P 0.2227 F 0.3602
+Epoch Cause	4 R 0.6604 P 0.1606 F 0.2583
+---------Epoch End----------
+Epoch Pair	5 R 0.6333 P 0.1743 F 0.2734
+Epoch Emotion	5 R 0.9057 P 0.2275 F 0.3636
+Epoch Cause	5 R 0.6552 P 0.1743 F 0.2754
+---------Epoch End----------
+Epoch Pair	6 R 0.6232 P 0.1972 F 0.2997
+Epoch Emotion	6 R 0.8730 P 0.2607 F 0.4015
+Epoch Cause	6 R 0.6567 P 0.2018 F 0.3088
+---------Epoch End----------
+Epoch Pair	7 R 0.6404 P 0.2615 F 0.3713
+Epoch Emotion	7 R 0.8718 P 0.3223 F 0.4706
+Epoch Cause	7 R 0.6932 P 0.2798 F 0.3987
+---------Epoch End----------
+Epoch Pair	8 R 0.5833 P 0.2569 F 0.3567
+Epoch Emotion	8 R 0.8095 P 0.3223 F 0.4610
+Epoch Cause	8 R 0.6413 P 0.2706 F 0.3806
+---------Epoch End----------
+Epoch Pair	9 R 0.5669 P 0.3303 F 0.4174
+Epoch Emotion	9 R 0.8468 P 0.4455 F 0.5839
+Epoch Cause	9 R 0.6129 P 0.3486 F 0.4444
+---------Epoch End----------
+Epoch Pair	10 R 0.5820 P 0.3257 F 0.4176
+Epoch Emotion	10 R 0.8411 P 0.4265 F 0.5660
+Epoch Cause	10 R 0.6271 P 0.3394 F 0.4405
+---------Epoch End----------
+Epoch Pair	11 R 0.5877 P 0.3073 F 0.4036
+Epoch Emotion	11 R 0.8400 P 0.3981 F 0.5402
+Epoch Cause	11 R 0.6364 P 0.3211 F 0.4268
+---------Epoch End----------
+Epoch Pair	12 R 0.5625 P 0.3303 F 0.4162
+Epoch Emotion	12 R 0.8273 P 0.4313 F 0.5670
+Epoch Cause	12 R 0.5920 P 0.3394 F 0.4315
+---------Epoch End----------
+Epoch Pair	13 R 0.5108 P 0.4358 F 0.4703
+Epoch Emotion	13 R 0.7697 P 0.5545 F 0.6446
+Epoch Cause	13 R 0.5449 P 0.4450 F 0.4899
+---------Epoch End----------
+Epoch Pair	14 R 0.5473 P 0.3716 F 0.4426
+Epoch Emotion	14 R 0.8306 P 0.4882 F 0.6149
+Epoch Cause	14 R 0.5816 P 0.3761 F 0.4568
+---------Epoch End----------
+Epoch Pair	15 R 0.5556 P 0.3440 F 0.4249
+Epoch Emotion	15 R 0.7982 P 0.4313 F 0.5600
+Epoch Cause	15 R 0.6080 P 0.3486 F 0.4431
+---------Epoch End----------
+Epoch Pair	16 R 0.5778 P 0.3578 F 0.4419
+Epoch Emotion	16 R 0.8288 P 0.4360 F 0.5714
+Epoch Cause	16 R 0.6154 P 0.3670 F 0.4598
+---------Epoch End----------
+Epoch Pair	17 R 0.6016 P 0.3394 F 0.4340
+Epoch Emotion	17 R 0.8333 P 0.4265 F 0.5643
+Epoch Cause	17 R 0.6579 P 0.3440 F 0.4518
+---------Epoch End----------
+Epoch Pair	18 R 0.5852 P 0.3624 F 0.4476
+Epoch Emotion	18 R 0.8158 P 0.4408 F 0.5723
+Epoch Cause	18 R 0.6299 P 0.3670 F 0.4638
+---------Epoch End----------
+Epoch Pair	19 R 0.5677 P 0.4037 F 0.4718
+Epoch Emotion	19 R 0.8077 P 0.4976 F 0.6158
+Epoch Cause	19 R 0.6122 P 0.4128 F 0.4932
+---------Epoch End----------
+Epoch Pair	20 R 0.6000 P 0.3716 F 0.4589
+Epoch Emotion	20 R 0.8319 P 0.4692 F 0.6000
+Epoch Cause	20 R 0.6385 P 0.3807 F 0.4770
+---------Epoch End----------
+Epoch Pair	21 R 0.5942 P 0.3761 F 0.4607
+Epoch Emotion	21 R 0.8512 P 0.4882 F 0.6205
+Epoch Cause	21 R 0.6462 P 0.3853 F 0.4828
+---------Epoch End----------
+Epoch Pair	22 R 0.6271 P 0.3394 F 0.4405
+Epoch Emotion	22 R 0.8738 P 0.4265 F 0.5732
+Epoch Cause	22 R 0.6638 P 0.3532 F 0.4611
+---------Epoch End----------
+Epoch Pair	23 R 0.5696 P 0.4128 F 0.4787
+Epoch Emotion	23 R 0.7941 P 0.5118 F 0.6225
+Epoch Cause	23 R 0.6216 P 0.4220 F 0.5027
+---------Epoch End----------
+Epoch Pair	24 R 0.6067 P 0.4174 F 0.4946
+Epoch Emotion	24 R 0.8217 P 0.5024 F 0.6235
+Epoch Cause	24 R 0.6479 P 0.4220 F 0.5111
+---------Epoch End----------
+Epoch Pair	25 R 0.5621 P 0.3945 F 0.4636
+Epoch Emotion	25 R 0.7692 P 0.4739 F 0.5865
+Epoch Cause	25 R 0.6181 P 0.4083 F 0.4917
+---------Epoch End----------
+Epoch Pair	26 R 0.5649 P 0.3991 F 0.4677
+Epoch Emotion	26 R 0.7907 P 0.4834 F 0.6000
+Epoch Cause	26 R 0.6338 P 0.4128 F 0.5000
+---------Epoch End----------
+Epoch Pair	27 R 0.5676 P 0.3853 F 0.4590
+Epoch Emotion	27 R 0.7903 P 0.4645 F 0.5851
+Epoch Cause	27 R 0.6232 P 0.3945 F 0.4831
+---------Epoch End----------
+Epoch Pair	28 R 0.5351 P 0.4541 F 0.4913
+Epoch Emotion	28 R 0.7852 P 0.5545 F 0.6500
+Epoch Cause	28 R 0.5848 P 0.4587 F 0.5141
+---------Epoch End----------
+Epoch Pair	29 R 0.5746 P 0.3532 F 0.4375
+Epoch Emotion	29 R 0.8276 P 0.4550 F 0.5872
+Epoch Cause	29 R 0.6320 P 0.3624 F 0.4606
+---------Epoch End----------
+Fold Pair	2 R 0.6067 P 0.4174 F 0.4946
+Fold Emotion	2 R 0.8217 P 0.5024 F 0.6235
+Fold Cause	2 R 0.6479 P 0.4220 F 0.5111
+-----------Fold End-----------
+
+Acc Fold Pair	2 R 0.5773 P 0.4187 F 0.4850
+Acc Fold Emoti	2 R 0.8040 P 0.5213 F 0.6320
+Acc Fold Event	2 R 0.6221 P 0.4262 F 0.5056
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.7143 P 0.0691 F 0.1261
+Epoch Emotion	2 R 0.9000 P 0.0853 F 0.1558
+Epoch Cause	2 R 0.7143 P 0.0691 F 0.1261
+---------Epoch End----------
+Epoch Pair	3 R 0.6829 P 0.1290 F 0.2171
+Epoch Emotion	3 R 0.9500 P 0.1801 F 0.3028
+Epoch Cause	3 R 0.7073 P 0.1336 F 0.2248
+---------Epoch End----------
+Epoch Pair	4 R 0.5714 P 0.1843 F 0.2787
+Epoch Emotion	4 R 0.8462 P 0.2607 F 0.3986
+Epoch Cause	4 R 0.5942 P 0.1889 F 0.2867
+---------Epoch End----------
+Epoch Pair	5 R 0.5275 P 0.2212 F 0.3117
+Epoch Emotion	5 R 0.8625 P 0.3270 F 0.4742
+Epoch Cause	5 R 0.5618 P 0.2304 F 0.3268
+---------Epoch End----------
+Epoch Pair	6 R 0.5968 P 0.1705 F 0.2652
+Epoch Emotion	6 R 0.8621 P 0.2370 F 0.3717
+Epoch Cause	6 R 0.6500 P 0.1797 F 0.2816
+---------Epoch End----------
+Epoch Pair	7 R 0.6471 P 0.2028 F 0.3088
+Epoch Emotion	7 R 0.9365 P 0.2796 F 0.4307
+Epoch Cause	7 R 0.6765 P 0.2120 F 0.3228
+---------Epoch End----------
+Epoch Pair	8 R 0.5476 P 0.2120 F 0.3056
+Epoch Emotion	8 R 0.7949 P 0.2938 F 0.4291
+Epoch Cause	8 R 0.5926 P 0.2212 F 0.3221
+---------Epoch End----------
+Epoch Pair	9 R 0.5106 P 0.3318 F 0.4022
+Epoch Emotion	9 R 0.7949 P 0.4408 F 0.5671
+Epoch Cause	9 R 0.5481 P 0.3410 F 0.4205
+---------Epoch End----------
+Epoch Pair	10 R 0.5242 P 0.2995 F 0.3812
+Epoch Emotion	10 R 0.8286 P 0.4123 F 0.5506
+Epoch Cause	10 R 0.5750 P 0.3180 F 0.4095
+---------Epoch End----------
+Epoch Pair	11 R 0.6263 P 0.2857 F 0.3924
+Epoch Emotion	11 R 0.8652 P 0.3649 F 0.5133
+Epoch Cause	11 R 0.6632 P 0.2903 F 0.4038
+---------Epoch End----------
+Epoch Pair	12 R 0.5211 P 0.3410 F 0.4123
+Epoch Emotion	12 R 0.8644 P 0.4834 F 0.6201
+Epoch Cause	12 R 0.5620 P 0.3548 F 0.4350
+---------Epoch End----------
+Epoch Pair	13 R 0.5304 P 0.2811 F 0.3675
+Epoch Emotion	13 R 0.8100 P 0.3839 F 0.5209
+Epoch Cause	13 R 0.5714 P 0.2949 F 0.3891
+---------Epoch End----------
+Epoch Pair	14 R 0.4906 P 0.3594 F 0.4149
+Epoch Emotion	14 R 0.8308 P 0.5118 F 0.6334
+Epoch Cause	14 R 0.5325 P 0.3779 F 0.4420
+---------Epoch End----------
+Epoch Pair	15 R 0.5634 P 0.3687 F 0.4457
+Epoch Emotion	15 R 0.8235 P 0.4645 F 0.5939
+Epoch Cause	15 R 0.6103 P 0.3825 F 0.4703
+---------Epoch End----------
+Epoch Pair	16 R 0.5376 P 0.4286 F 0.4769
+Epoch Emotion	16 R 0.8082 P 0.5592 F 0.6611
+Epoch Cause	16 R 0.5808 P 0.4470 F 0.5052
+---------Epoch End----------
+Epoch Pair	17 R 0.6020 P 0.2719 F 0.3746
+Epoch Emotion	17 R 0.8621 P 0.3555 F 0.5034
+Epoch Cause	17 R 0.6562 P 0.2903 F 0.4026
+---------Epoch End----------
+Epoch Pair	18 R 0.5820 P 0.3272 F 0.4189
+Epoch Emotion	18 R 0.8440 P 0.4360 F 0.5750
+Epoch Cause	18 R 0.6303 P 0.3456 F 0.4464
+---------Epoch End----------
+Epoch Pair	19 R 0.5420 P 0.3272 F 0.4080
+Epoch Emotion	19 R 0.8333 P 0.4502 F 0.5846
+Epoch Cause	19 R 0.5984 P 0.3502 F 0.4419
+---------Epoch End----------
+Epoch Pair	20 R 0.6273 P 0.3180 F 0.4220
+Epoch Emotion	20 R 0.8542 P 0.3886 F 0.5342
+Epoch Cause	20 R 0.6698 P 0.3272 F 0.4396
+---------Epoch End----------
+Epoch Pair	21 R 0.5548 P 0.3733 F 0.4463
+Epoch Emotion	21 R 0.8347 P 0.4787 F 0.6084
+Epoch Cause	21 R 0.6087 P 0.3871 F 0.4732
+---------Epoch End----------
+Epoch Pair	22 R 0.5307 P 0.4378 F 0.4798
+Epoch Emotion	22 R 0.8151 P 0.5640 F 0.6667
+Epoch Cause	22 R 0.5814 P 0.4608 F 0.5141
+---------Epoch End----------
+Epoch Pair	23 R 0.5965 P 0.3134 F 0.4109
+Epoch Emotion	23 R 0.8351 P 0.3839 F 0.5260
+Epoch Cause	23 R 0.6667 P 0.3318 F 0.4431
+---------Epoch End----------
+Epoch Pair	24 R 0.6043 P 0.3871 F 0.4719
+Epoch Emotion	24 R 0.8632 P 0.4787 F 0.6159
+Epoch Cause	24 R 0.6444 P 0.4009 F 0.4943
+---------Epoch End----------
+Epoch Pair	25 R 0.5935 P 0.3364 F 0.4294
+Epoch Emotion	25 R 0.8654 P 0.4265 F 0.5714
+Epoch Cause	25 R 0.6333 P 0.3502 F 0.4510
+---------Epoch End----------
+Epoch Pair	26 R 0.6341 P 0.3594 F 0.4588
+Epoch Emotion	26 R 0.8812 P 0.4218 F 0.5705
+Epoch Cause	26 R 0.6723 P 0.3687 F 0.4762
+---------Epoch End----------
+Epoch Pair	27 R 0.6087 P 0.3226 F 0.4217
+Epoch Emotion	27 R 0.8557 P 0.3934 F 0.5390
+Epoch Cause	27 R 0.6486 P 0.3318 F 0.4390
+---------Epoch End----------
+Epoch Pair	28 R 0.6134 P 0.3364 F 0.4345
+Epoch Emotion	28 R 0.8667 P 0.4313 F 0.5759
+Epoch Cause	28 R 0.6696 P 0.3548 F 0.4639
+---------Epoch End----------
+Epoch Pair	29 R 0.6129 P 0.3502 F 0.4457
+Epoch Emotion	29 R 0.8545 P 0.4455 F 0.5857
+Epoch Cause	29 R 0.6723 P 0.3687 F 0.4762
+---------Epoch End----------
+Fold Pair	3 R 0.5307 P 0.4378 F 0.4798
+Fold Emotion	3 R 0.8151 P 0.5640 F 0.6667
+Fold Cause	3 R 0.5814 P 0.4608 F 0.5141
+-----------Fold End-----------
+
+Acc Fold Pair	3 R 0.5618 P 0.4250 F 0.4833
+Acc Fold Emoti	3 R 0.8077 P 0.5355 F 0.6435
+Acc Fold Event	3 R 0.6086 P 0.4378 F 0.5084
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.9091 P 0.0465 F 0.0885
+Epoch Emotion	2 R 0.9091 P 0.0474 F 0.0901
+Epoch Cause	2 R 1.0000 P 0.0514 F 0.0978
+---------Epoch End----------
+Epoch Pair	3 R 0.6923 P 0.0837 F 0.1494
+Epoch Emotion	3 R 0.8800 P 0.1043 F 0.1864
+Epoch Cause	3 R 0.8000 P 0.0935 F 0.1674
+---------Epoch End----------
+Epoch Pair	4 R 0.6562 P 0.0977 F 0.1700
+Epoch Emotion	4 R 0.8667 P 0.1232 F 0.2158
+Epoch Cause	4 R 0.7333 P 0.1028 F 0.1803
+---------Epoch End----------
+Epoch Pair	5 R 0.6750 P 0.1256 F 0.2118
+Epoch Emotion	5 R 0.8974 P 0.1659 F 0.2800
+Epoch Cause	5 R 0.7368 P 0.1308 F 0.2222
+---------Epoch End----------
+Epoch Pair	6 R 0.6905 P 0.1349 F 0.2257
+Epoch Emotion	6 R 0.9250 P 0.1754 F 0.2948
+Epoch Cause	6 R 0.7317 P 0.1402 F 0.2353
+---------Epoch End----------
+Epoch Pair	7 R 0.6620 P 0.2186 F 0.3287
+Epoch Emotion	7 R 0.8333 P 0.2607 F 0.3971
+Epoch Cause	7 R 0.7424 P 0.2290 F 0.3500
+---------Epoch End----------
+Epoch Pair	8 R 0.6989 P 0.3023 F 0.4221
+Epoch Emotion	8 R 0.8621 P 0.3555 F 0.5034
+Epoch Cause	8 R 0.7586 P 0.3084 F 0.4385
+---------Epoch End----------
+Epoch Pair	9 R 0.6813 P 0.2884 F 0.4052
+Epoch Emotion	9 R 0.8434 P 0.3318 F 0.4762
+Epoch Cause	9 R 0.7529 P 0.2991 F 0.4281
+---------Epoch End----------
+Epoch Pair	10 R 0.6765 P 0.2140 F 0.3251
+Epoch Emotion	10 R 0.8594 P 0.2607 F 0.4000
+Epoch Cause	10 R 0.7500 P 0.2243 F 0.3453
+---------Epoch End----------
+Epoch Pair	11 R 0.6703 P 0.2837 F 0.3987
+Epoch Emotion	11 R 0.8642 P 0.3318 F 0.4795
+Epoch Cause	11 R 0.7529 P 0.2991 F 0.4281
+---------Epoch End----------
+Epoch Pair	12 R 0.6454 P 0.4233 F 0.5112
+Epoch Emotion	12 R 0.8160 P 0.4834 F 0.6071
+Epoch Cause	12 R 0.7266 P 0.4346 F 0.5439
+---------Epoch End----------
+Epoch Pair	13 R 0.6818 P 0.3488 F 0.4615
+Epoch Emotion	13 R 0.8400 P 0.3981 F 0.5402
+Epoch Cause	13 R 0.7576 P 0.3505 F 0.4792
+---------Epoch End----------
+Epoch Pair	14 R 0.6500 P 0.3628 F 0.4657
+Epoch Emotion	14 R 0.7909 P 0.4123 F 0.5421
+Epoch Cause	14 R 0.7248 P 0.3692 F 0.4892
+---------Epoch End----------
+Epoch Pair	15 R 0.6571 P 0.4279 F 0.5183
+Epoch Emotion	15 R 0.8492 P 0.5071 F 0.6350
+Epoch Cause	15 R 0.7385 P 0.4486 F 0.5581
+---------Epoch End----------
+Epoch Pair	16 R 0.7119 P 0.3907 F 0.5045
+Epoch Emotion	16 R 0.8796 P 0.4502 F 0.5956
+Epoch Cause	16 R 0.7748 P 0.4019 F 0.5292
+---------Epoch End----------
+Epoch Pair	17 R 0.6667 P 0.4186 F 0.5143
+Epoch Emotion	17 R 0.8333 P 0.4739 F 0.6042
+Epoch Cause	17 R 0.7459 P 0.4252 F 0.5417
+---------Epoch End----------
+Epoch Pair	18 R 0.6617 P 0.4093 F 0.5057
+Epoch Emotion	18 R 0.8403 P 0.4739 F 0.6061
+Epoch Cause	18 R 0.7339 P 0.4252 F 0.5385
+---------Epoch End----------
+Epoch Pair	19 R 0.6398 P 0.4791 F 0.5479
+Epoch Emotion	19 R 0.8286 P 0.5498 F 0.6610
+Epoch Cause	19 R 0.7292 P 0.4907 F 0.5866
+---------Epoch End----------
+Epoch Pair	20 R 0.6090 P 0.4419 F 0.5121
+Epoch Emotion	20 R 0.7926 P 0.5071 F 0.6185
+Epoch Cause	20 R 0.6957 P 0.4486 F 0.5455
+---------Epoch End----------
+Epoch Pair	21 R 0.6690 P 0.4419 F 0.5322
+Epoch Emotion	21 R 0.8295 P 0.5071 F 0.6294
+Epoch Cause	21 R 0.7442 P 0.4486 F 0.5598
+---------Epoch End----------
+Epoch Pair	22 R 0.6525 P 0.4279 F 0.5169
+Epoch Emotion	22 R 0.8268 P 0.4976 F 0.6213
+Epoch Cause	22 R 0.7540 P 0.4439 F 0.5588
+---------Epoch End----------
+Epoch Pair	23 R 0.5810 P 0.4837 F 0.5279
+Epoch Emotion	23 R 0.7908 P 0.5735 F 0.6648
+Epoch Cause	23 R 0.6646 P 0.5000 F 0.5707
+---------Epoch End----------
+Epoch Pair	24 R 0.6541 P 0.4837 F 0.5561
+Epoch Emotion	24 R 0.8169 P 0.5498 F 0.6572
+Epoch Cause	24 R 0.7279 P 0.5000 F 0.5928
+---------Epoch End----------
+Epoch Pair	25 R 0.6486 P 0.4465 F 0.5289
+Epoch Emotion	25 R 0.7910 P 0.5024 F 0.6145
+Epoch Cause	25 R 0.7293 P 0.4533 F 0.5591
+---------Epoch End----------
+Epoch Pair	26 R 0.6522 P 0.4186 F 0.5099
+Epoch Emotion	26 R 0.8403 P 0.4739 F 0.6061
+Epoch Cause	26 R 0.7099 P 0.4346 F 0.5391
+---------Epoch End----------
+Epoch Pair	27 R 0.6418 P 0.4000 F 0.4928
+Epoch Emotion	27 R 0.8099 P 0.4645 F 0.5904
+Epoch Cause	27 R 0.7154 P 0.4112 F 0.5223
+---------Epoch End----------
+Epoch Pair	28 R 0.6692 P 0.4140 F 0.5115
+Epoch Emotion	28 R 0.8291 P 0.4597 F 0.5915
+Epoch Cause	28 R 0.7583 P 0.4252 F 0.5449
+---------Epoch End----------
+Epoch Pair	29 R 0.6964 P 0.3628 F 0.4771
+Epoch Emotion	29 R 0.8381 P 0.4171 F 0.5570
+Epoch Cause	29 R 0.7642 P 0.3785 F 0.5062
+---------Epoch End----------
+Fold Pair	4 R 0.6541 P 0.4837 F 0.5561
+Fold Emotion	4 R 0.8169 P 0.5498 F 0.6572
+Fold Cause	4 R 0.7279 P 0.5000 F 0.5928
+-----------Fold End-----------
+
+Acc Fold Pair	4 R 0.5849 P 0.4397 F 0.5015
+Acc Fold Emoti	4 R 0.8100 P 0.5391 F 0.6470
+Acc Fold Event	4 R 0.6384 P 0.4533 F 0.5295
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.7143 P 0.0228 F 0.0442
+Epoch Emotion	2 R 1.0000 P 0.0284 F 0.0553
+Epoch Cause	2 R 0.7143 P 0.0228 F 0.0442
+---------Epoch End----------
+Epoch Pair	3 R 0.7105 P 0.1233 F 0.2101
+Epoch Emotion	3 R 0.9189 P 0.1611 F 0.2742
+Epoch Cause	3 R 0.7297 P 0.1233 F 0.2109
+---------Epoch End----------
+Epoch Pair	4 R 0.8438 P 0.1233 F 0.2151
+Epoch Emotion	4 R 1.0000 P 0.1422 F 0.2490
+Epoch Cause	4 R 0.8438 P 0.1233 F 0.2151
+---------Epoch End----------
+Epoch Pair	5 R 0.7674 P 0.1507 F 0.2519
+Epoch Emotion	5 R 0.9286 P 0.1848 F 0.3083
+Epoch Cause	5 R 0.8049 P 0.1507 F 0.2538
+---------Epoch End----------
+Epoch Pair	6 R 0.7532 P 0.2648 F 0.3919
+Epoch Emotion	6 R 0.9296 P 0.3128 F 0.4681
+Epoch Cause	6 R 0.7632 P 0.2648 F 0.3932
+---------Epoch End----------
+Epoch Pair	7 R 0.7297 P 0.2466 F 0.3686
+Epoch Emotion	7 R 0.8824 P 0.2844 F 0.4301
+Epoch Cause	7 R 0.7397 P 0.2466 F 0.3699
+---------Epoch End----------
+Epoch Pair	8 R 0.6867 P 0.2603 F 0.3775
+Epoch Emotion	8 R 0.8961 P 0.3270 F 0.4792
+Epoch Cause	8 R 0.6951 P 0.2603 F 0.3787
+---------Epoch End----------
+Epoch Pair	9 R 0.6260 P 0.3744 F 0.4686
+Epoch Emotion	9 R 0.8559 P 0.4502 F 0.5901
+Epoch Cause	9 R 0.6562 P 0.3836 F 0.4841
+---------Epoch End----------
+Epoch Pair	10 R 0.6552 P 0.3470 F 0.4537
+Epoch Emotion	10 R 0.8396 P 0.4218 F 0.5615
+Epoch Cause	10 R 0.6903 P 0.3562 F 0.4699
+---------Epoch End----------
+Epoch Pair	11 R 0.6667 P 0.3562 F 0.4643
+Epoch Emotion	11 R 0.8585 P 0.4313 F 0.5741
+Epoch Cause	11 R 0.7018 P 0.3653 F 0.4805
+---------Epoch End----------
+Epoch Pair	12 R 0.6063 P 0.3516 F 0.4451
+Epoch Emotion	12 R 0.8378 P 0.4408 F 0.5776
+Epoch Cause	12 R 0.6475 P 0.3607 F 0.4633
+---------Epoch End----------
+Epoch Pair	13 R 0.5743 P 0.3881 F 0.4632
+Epoch Emotion	13 R 0.8346 P 0.5024 F 0.6272
+Epoch Cause	13 R 0.6014 P 0.3927 F 0.4751
+---------Epoch End----------
+Epoch Pair	14 R 0.5782 P 0.3881 F 0.4645
+Epoch Emotion	14 R 0.8231 P 0.5071 F 0.6276
+Epoch Cause	14 R 0.6170 P 0.3973 F 0.4833
+---------Epoch End----------
+Epoch Pair	15 R 0.5677 P 0.4018 F 0.4706
+Epoch Emotion	15 R 0.7883 P 0.5118 F 0.6207
+Epoch Cause	15 R 0.6190 P 0.4155 F 0.4973
+---------Epoch End----------
+Epoch Pair	16 R 0.5772 P 0.3927 F 0.4674
+Epoch Emotion	16 R 0.8031 P 0.4834 F 0.6036
+Epoch Cause	16 R 0.6154 P 0.4018 F 0.4862
+---------Epoch End----------
+Epoch Pair	17 R 0.6639 P 0.3607 F 0.4675
+Epoch Emotion	17 R 0.8241 P 0.4218 F 0.5580
+Epoch Cause	17 R 0.7168 P 0.3699 F 0.4880
+---------Epoch End----------
+Epoch Pair	18 R 0.5806 P 0.4110 F 0.4813
+Epoch Emotion	18 R 0.7754 P 0.5071 F 0.6132
+Epoch Cause	18 R 0.6327 P 0.4247 F 0.5082
+---------Epoch End----------
+Epoch Pair	19 R 0.6667 P 0.3379 F 0.4485
+Epoch Emotion	19 R 0.8095 P 0.4028 F 0.5380
+Epoch Cause	19 R 0.7170 P 0.3470 F 0.4677
+---------Epoch End----------
+Epoch Pair	20 R 0.5743 P 0.3881 F 0.4632
+Epoch Emotion	20 R 0.7537 P 0.4787 F 0.5855
+Epoch Cause	20 R 0.6331 P 0.4018 F 0.4916
+---------Epoch End----------
+Epoch Pair	21 R 0.5946 P 0.4018 F 0.4796
+Epoch Emotion	21 R 0.7939 P 0.4929 F 0.6082
+Epoch Cause	21 R 0.6429 P 0.4110 F 0.5014
+---------Epoch End----------
+Epoch Pair	22 R 0.6115 P 0.3881 F 0.4749
+Epoch Emotion	22 R 0.7953 P 0.4787 F 0.5976
+Epoch Cause	22 R 0.6642 P 0.4064 F 0.5042
+---------Epoch End----------
+Epoch Pair	23 R 0.5450 P 0.4703 F 0.5049
+Epoch Emotion	23 R 0.7898 P 0.5877 F 0.6739
+Epoch Cause	23 R 0.5922 P 0.4840 F 0.5327
+---------Epoch End----------
+Epoch Pair	24 R 0.5340 P 0.4658 F 0.4976
+Epoch Emotion	24 R 0.7683 P 0.5972 F 0.6720
+Epoch Cause	24 R 0.5769 P 0.4795 F 0.5237
+---------Epoch End----------
+Epoch Pair	25 R 0.6752 P 0.3607 F 0.4702
+Epoch Emotion	25 R 0.8304 P 0.4408 F 0.5759
+Epoch Cause	25 R 0.7257 P 0.3744 F 0.4940
+---------Epoch End----------
+Epoch Pair	26 R 0.5673 P 0.4429 F 0.4974
+Epoch Emotion	26 R 0.8082 P 0.5592 F 0.6611
+Epoch Cause	26 R 0.6135 P 0.4566 F 0.5236
+---------Epoch End----------
+Epoch Pair	27 R 0.6176 P 0.3836 F 0.4732
+Epoch Emotion	27 R 0.8017 P 0.4597 F 0.5843
+Epoch Cause	27 R 0.6719 P 0.3927 F 0.4957
+---------Epoch End----------
+Epoch Pair	28 R 0.6125 P 0.4475 F 0.5172
+Epoch Emotion	28 R 0.8000 P 0.5308 F 0.6382
+Epoch Cause	28 R 0.6601 P 0.4612 F 0.5430
+---------Epoch End----------
+Epoch Pair	29 R 0.6218 P 0.4429 F 0.5173
+Epoch Emotion	29 R 0.8321 P 0.5403 F 0.6552
+Epoch Cause	29 R 0.6689 P 0.4521 F 0.5395
+---------Epoch End----------
+Fold Pair	5 R 0.6218 P 0.4429 F 0.5173
+Fold Emotion	5 R 0.8321 P 0.5403 F 0.6552
+Fold Cause	5 R 0.6689 P 0.4521 F 0.5395
+-----------Fold End-----------
+
+Acc Fold Pair	5 R 0.5923 P 0.4404 F 0.5047
+Acc Fold Emoti	5 R 0.8144 P 0.5393 F 0.6486
+Acc Fold Event	5 R 0.6445 P 0.4531 F 0.5315
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 1.0000 P 0.0140 F 0.0275
+Epoch Emotion	2 R 1.0000 P 0.0144 F 0.0284
+Epoch Cause	2 R 1.0000 P 0.0140 F 0.0276
+---------Epoch End----------
+Epoch Pair	3 R 0.7600 P 0.0884 F 0.1583
+Epoch Emotion	3 R 0.9167 P 0.1058 F 0.1897
+Epoch Cause	3 R 0.8000 P 0.0935 F 0.1674
+---------Epoch End----------
+Epoch Pair	4 R 0.6667 P 0.1581 F 0.2556
+Epoch Emotion	4 R 0.8936 P 0.2019 F 0.3294
+Epoch Cause	4 R 0.7255 P 0.1729 F 0.2792
+---------Epoch End----------
+Epoch Pair	5 R 0.6531 P 0.1488 F 0.2424
+Epoch Emotion	5 R 0.8222 P 0.1779 F 0.2925
+Epoch Cause	5 R 0.7609 P 0.1636 F 0.2692
+---------Epoch End----------
+Epoch Pair	6 R 0.6275 P 0.2977 F 0.4038
+Epoch Emotion	6 R 0.8636 P 0.3654 F 0.5135
+Epoch Cause	6 R 0.6907 P 0.3131 F 0.4309
+---------Epoch End----------
+Epoch Pair	7 R 0.5980 P 0.2837 F 0.3849
+Epoch Emotion	7 R 0.8444 P 0.3654 F 0.5101
+Epoch Cause	7 R 0.6701 P 0.3037 F 0.4180
+---------Epoch End----------
+Epoch Pair	8 R 0.7162 P 0.2465 F 0.3668
+Epoch Emotion	8 R 0.8696 P 0.2885 F 0.4332
+Epoch Cause	8 R 0.8028 P 0.2664 F 0.4000
+---------Epoch End----------
+Epoch Pair	9 R 0.7162 P 0.2465 F 0.3668
+Epoch Emotion	9 R 0.8571 P 0.2885 F 0.4317
+Epoch Cause	9 R 0.8143 P 0.2664 F 0.4014
+---------Epoch End----------
+Epoch Pair	10 R 0.6200 P 0.2884 F 0.3937
+Epoch Emotion	10 R 0.8242 P 0.3606 F 0.5017
+Epoch Cause	10 R 0.6947 P 0.3084 F 0.4272
+---------Epoch End----------
+Epoch Pair	11 R 0.6330 P 0.3209 F 0.4259
+Epoch Emotion	11 R 0.8673 P 0.4087 F 0.5556
+Epoch Cause	11 R 0.7115 P 0.3458 F 0.4654
+---------Epoch End----------
+Epoch Pair	12 R 0.6452 P 0.2791 F 0.3896
+Epoch Emotion	12 R 0.8391 P 0.3510 F 0.4949
+Epoch Cause	12 R 0.7079 P 0.2944 F 0.4158
+---------Epoch End----------
+Epoch Pair	13 R 0.6288 P 0.3860 F 0.4784
+Epoch Emotion	13 R 0.8362 P 0.4663 F 0.5988
+Epoch Cause	13 R 0.6929 P 0.4112 F 0.5161
+---------Epoch End----------
+Epoch Pair	14 R 0.6357 P 0.3814 F 0.4767
+Epoch Emotion	14 R 0.8448 P 0.4712 F 0.6049
+Epoch Cause	14 R 0.6911 P 0.3972 F 0.5045
+---------Epoch End----------
+Epoch Pair	15 R 0.6202 P 0.3721 F 0.4651
+Epoch Emotion	15 R 0.8584 P 0.4663 F 0.6044
+Epoch Cause	15 R 0.6640 P 0.3879 F 0.4897
+---------Epoch End----------
+Epoch Pair	16 R 0.6190 P 0.3628 F 0.4575
+Epoch Emotion	16 R 0.8378 P 0.4471 F 0.5831
+Epoch Cause	16 R 0.6750 P 0.3785 F 0.4850
+---------Epoch End----------
+Epoch Pair	17 R 0.6084 P 0.4047 F 0.4860
+Epoch Emotion	17 R 0.8281 P 0.5096 F 0.6310
+Epoch Cause	17 R 0.6619 P 0.4299 F 0.5212
+---------Epoch End----------
+Epoch Pair	18 R 0.5827 P 0.3767 F 0.4576
+Epoch Emotion	18 R 0.8175 P 0.4952 F 0.6168
+Epoch Cause	18 R 0.6466 P 0.4019 F 0.4957
+---------Epoch End----------
+Epoch Pair	19 R 0.6096 P 0.4140 F 0.4931
+Epoch Emotion	19 R 0.8254 P 0.5000 F 0.6228
+Epoch Cause	19 R 0.6667 P 0.4393 F 0.5296
+---------Epoch End----------
+Epoch Pair	20 R 0.5933 P 0.4140 F 0.4877
+Epoch Emotion	20 R 0.7744 P 0.4952 F 0.6041
+Epoch Cause	20 R 0.6596 P 0.4346 F 0.5239
+---------Epoch End----------
+Epoch Pair	21 R 0.5749 P 0.4465 F 0.5026
+Epoch Emotion	21 R 0.7929 P 0.5337 F 0.6379
+Epoch Cause	21 R 0.6392 P 0.4720 F 0.5430
+---------Epoch End----------
+Epoch Pair	22 R 0.5529 P 0.4372 F 0.4883
+Epoch Emotion	22 R 0.7500 P 0.5192 F 0.6136
+Epoch Cause	22 R 0.6226 P 0.4626 F 0.5308
+---------Epoch End----------
+Epoch Pair	23 R 0.5590 P 0.5070 F 0.5317
+Epoch Emotion	23 R 0.7901 P 0.6154 F 0.6919
+Epoch Cause	23 R 0.6278 P 0.5280 F 0.5736
+---------Epoch End----------
+Epoch Pair	24 R 0.5962 P 0.4326 F 0.5013
+Epoch Emotion	24 R 0.8060 P 0.5192 F 0.6316
+Epoch Cause	24 R 0.6690 P 0.4533 F 0.5404
+---------Epoch End----------
+Epoch Pair	25 R 0.5944 P 0.3953 F 0.4749
+Epoch Emotion	25 R 0.7717 P 0.4712 F 0.5851
+Epoch Cause	25 R 0.6569 P 0.4206 F 0.5128
+---------Epoch End----------
+Epoch Pair	26 R 0.5617 P 0.4233 F 0.4828
+Epoch Emotion	26 R 0.7698 P 0.5144 F 0.6167
+Epoch Cause	26 R 0.6309 P 0.4393 F 0.5179
+---------Epoch End----------
+Epoch Pair	27 R 0.5950 P 0.3349 F 0.4286
+Epoch Emotion	27 R 0.7798 P 0.4087 F 0.5363
+Epoch Cause	27 R 0.6410 P 0.3505 F 0.4532
+---------Epoch End----------
+Epoch Pair	28 R 0.5509 P 0.4279 F 0.4817
+Epoch Emotion	28 R 0.7394 P 0.5048 F 0.6000
+Epoch Cause	28 R 0.6144 P 0.4393 F 0.5123
+---------Epoch End----------
+Epoch Pair	29 R 0.6087 P 0.3907 F 0.4759
+Epoch Emotion	29 R 0.8130 P 0.4808 F 0.6042
+Epoch Cause	29 R 0.6744 P 0.4065 F 0.5073
+---------Epoch End----------
+Fold Pair	6 R 0.5590 P 0.5070 F 0.5317
+Fold Emotion	6 R 0.7901 P 0.6154 F 0.6919
+Fold Cause	6 R 0.6278 P 0.5280 F 0.5736
+-----------Fold End-----------
+
+Acc Fold Pair	6 R 0.5867 P 0.4515 F 0.5092
+Acc Fold Emoti	6 R 0.8104 P 0.5520 F 0.6558
+Acc Fold Event	6 R 0.6417 P 0.4656 F 0.5385
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.9000 P 0.0423 F 0.0807
+Epoch Emotion	2 R 1.0000 P 0.0478 F 0.0913
+Epoch Cause	2 R 0.9000 P 0.0427 F 0.0814
+---------Epoch End----------
+Epoch Pair	3 R 0.8333 P 0.0469 F 0.0889
+Epoch Emotion	3 R 1.0000 P 0.0574 F 0.1086
+Epoch Cause	3 R 0.9167 P 0.0521 F 0.0987
+---------Epoch End----------
+Epoch Pair	4 R 0.7119 P 0.1972 F 0.3088
+Epoch Emotion	4 R 0.9630 P 0.2488 F 0.3954
+Epoch Cause	4 R 0.7759 P 0.2133 F 0.3346
+---------Epoch End----------
+Epoch Pair	5 R 0.6889 P 0.2911 F 0.4092
+Epoch Emotion	5 R 0.9595 P 0.3397 F 0.5018
+Epoch Cause	5 R 0.7326 P 0.2986 F 0.4242
+---------Epoch End----------
+Epoch Pair	6 R 0.7292 P 0.3286 F 0.4531
+Epoch Emotion	6 R 0.9634 P 0.3780 F 0.5430
+Epoch Cause	6 R 0.7692 P 0.3318 F 0.4636
+---------Epoch End----------
+Epoch Pair	7 R 0.8167 P 0.2300 F 0.3590
+Epoch Emotion	7 R 0.9643 P 0.2584 F 0.4075
+Epoch Cause	7 R 0.8772 P 0.2370 F 0.3731
+---------Epoch End----------
+Epoch Pair	8 R 0.7471 P 0.3052 F 0.4333
+Epoch Emotion	8 R 0.9744 P 0.3636 F 0.5296
+Epoch Cause	8 R 0.7857 P 0.3128 F 0.4475
+---------Epoch End----------
+Epoch Pair	9 R 0.7209 P 0.4366 F 0.5439
+Epoch Emotion	9 R 0.9455 P 0.4976 F 0.6520
+Epoch Cause	9 R 0.7581 P 0.4455 F 0.5612
+---------Epoch End----------
+Epoch Pair	10 R 0.7227 P 0.4038 F 0.5181
+Epoch Emotion	10 R 0.9245 P 0.4689 F 0.6222
+Epoch Cause	10 R 0.7699 P 0.4123 F 0.5370
+---------Epoch End----------
+Epoch Pair	11 R 0.7831 P 0.3052 F 0.4392
+Epoch Emotion	11 R 0.9600 P 0.3445 F 0.5070
+Epoch Cause	11 R 0.8354 P 0.3128 F 0.4552
+---------Epoch End----------
+Epoch Pair	12 R 0.7963 P 0.4038 F 0.5358
+Epoch Emotion	12 R 0.9694 P 0.4545 F 0.6189
+Epoch Cause	12 R 0.8350 P 0.4076 F 0.5478
+---------Epoch End----------
+Epoch Pair	13 R 0.7623 P 0.4366 F 0.5552
+Epoch Emotion	13 R 0.9633 P 0.5024 F 0.6604
+Epoch Cause	13 R 0.7949 P 0.4408 F 0.5671
+---------Epoch End----------
+Epoch Pair	14 R 0.7699 P 0.4085 F 0.5337
+Epoch Emotion	14 R 0.9615 P 0.4785 F 0.6390
+Epoch Cause	14 R 0.8056 P 0.4123 F 0.5455
+---------Epoch End----------
+Epoch Pair	15 R 0.7164 P 0.4507 F 0.5533
+Epoch Emotion	15 R 0.9310 P 0.5167 F 0.6646
+Epoch Cause	15 R 0.7500 P 0.4550 F 0.5664
+---------Epoch End----------
+Epoch Pair	16 R 0.7442 P 0.4507 F 0.5614
+Epoch Emotion	16 R 0.9554 P 0.5120 F 0.6667
+Epoch Cause	16 R 0.7886 P 0.4597 F 0.5808
+---------Epoch End----------
+Epoch Pair	17 R 0.7222 P 0.4883 F 0.5826
+Epoch Emotion	17 R 0.9360 P 0.5598 F 0.7006
+Epoch Cause	17 R 0.7609 P 0.4976 F 0.6017
+---------Epoch End----------
+Epoch Pair	18 R 0.7333 P 0.4131 F 0.5285
+Epoch Emotion	18 R 0.9412 P 0.4593 F 0.6174
+Epoch Cause	18 R 0.7672 P 0.4218 F 0.5443
+---------Epoch End----------
+Epoch Pair	19 R 0.6813 P 0.5117 F 0.5845
+Epoch Emotion	19 R 0.9098 P 0.5789 F 0.7076
+Epoch Cause	19 R 0.7285 P 0.5213 F 0.6077
+---------Epoch End----------
+Epoch Pair	20 R 0.6963 P 0.4413 F 0.5402
+Epoch Emotion	20 R 0.9224 P 0.5120 F 0.6585
+Epoch Cause	20 R 0.7308 P 0.4502 F 0.5572
+---------Epoch End----------
+Epoch Pair	21 R 0.7025 P 0.3991 F 0.5090
+Epoch Emotion	21 R 0.9065 P 0.4641 F 0.6139
+Epoch Cause	21 R 0.7414 P 0.4076 F 0.5260
+---------Epoch End----------
+Epoch Pair	22 R 0.7266 P 0.4366 F 0.5455
+Epoch Emotion	22 R 0.9474 P 0.5167 F 0.6687
+Epoch Cause	22 R 0.7642 P 0.4455 F 0.5629
+---------Epoch End----------
+Epoch Pair	23 R 0.6264 P 0.5352 F 0.5772
+Epoch Emotion	23 R 0.8784 P 0.6220 F 0.7283
+Epoch Cause	23 R 0.6744 P 0.5498 F 0.6057
+---------Epoch End----------
+Epoch Pair	24 R 0.6203 P 0.5446 F 0.5800
+Epoch Emotion	24 R 0.8667 P 0.6220 F 0.7242
+Epoch Cause	24 R 0.6629 P 0.5592 F 0.6067
+---------Epoch End----------
+Epoch Pair	25 R 0.6463 P 0.4977 F 0.5623
+Epoch Emotion	25 R 0.8768 P 0.5789 F 0.6974
+Epoch Cause	25 R 0.6903 P 0.5071 F 0.5847
+---------Epoch End----------
+Epoch Pair	26 R 0.6196 P 0.5352 F 0.5743
+Epoch Emotion	26 R 0.8844 P 0.6220 F 0.7303
+Epoch Cause	26 R 0.6686 P 0.5450 F 0.6005
+---------Epoch End----------
+Epoch Pair	27 R 0.6853 P 0.4601 F 0.5506
+Epoch Emotion	27 R 0.9250 P 0.5311 F 0.6748
+Epoch Cause	27 R 0.7226 P 0.4692 F 0.5690
+---------Epoch End----------
+Epoch Pair	28 R 0.6901 P 0.4601 F 0.5521
+Epoch Emotion	28 R 0.9113 P 0.5407 F 0.6787
+Epoch Cause	28 R 0.7279 P 0.4692 F 0.5706
+---------Epoch End----------
+Epoch Pair	29 R 0.6158 P 0.5493 F 0.5806
+Epoch Emotion	29 R 0.8816 P 0.6411 F 0.7424
+Epoch Cause	29 R 0.6648 P 0.5640 F 0.6103
+---------Epoch End----------
+Fold Pair	7 R 0.6813 P 0.5117 F 0.5845
+Fold Emotion	7 R 0.9098 P 0.5789 F 0.7076
+Fold Cause	7 R 0.7285 P 0.5213 F 0.6077
+-----------Fold End-----------
+
+Acc Fold Pair	7 R 0.6002 P 0.4601 F 0.5199
+Acc Fold Emoti	7 R 0.8246 P 0.5559 F 0.6632
+Acc Fold Event	7 R 0.6541 P 0.4735 F 0.5484
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 1.0000 P 0.0146 F 0.0287
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 1.0000 P 0.0096 F 0.0190
+Epoch Emotion	1 R 1.0000 P 0.0097 F 0.0192
+Epoch Cause	1 R 1.0000 P 0.0096 F 0.0190
+---------Epoch End----------
+Epoch Pair	2 R 0.9412 P 0.0766 F 0.1416
+Epoch Emotion	2 R 0.9412 P 0.0777 F 0.1435
+Epoch Cause	2 R 1.0000 P 0.0813 F 0.1504
+---------Epoch End----------
+Epoch Pair	3 R 0.8913 P 0.1962 F 0.3216
+Epoch Emotion	3 R 0.9348 P 0.2087 F 0.3413
+Epoch Cause	3 R 0.9333 P 0.2010 F 0.3307
+---------Epoch End----------
+Epoch Pair	4 R 0.7473 P 0.3254 F 0.4533
+Epoch Emotion	4 R 0.8851 P 0.3738 F 0.5256
+Epoch Cause	4 R 0.7778 P 0.3349 F 0.4682
+---------Epoch End----------
+Epoch Pair	5 R 0.6642 P 0.4258 F 0.5190
+Epoch Emotion	5 R 0.8618 P 0.5146 F 0.6444
+Epoch Cause	5 R 0.6947 P 0.4354 F 0.5353
+---------Epoch End----------
+Epoch Pair	6 R 0.7475 P 0.3541 F 0.4805
+Epoch Emotion	6 R 0.8723 P 0.3981 F 0.5467
+Epoch Cause	6 R 0.7732 P 0.3589 F 0.4902
+---------Epoch End----------
+Epoch Pair	7 R 0.6786 P 0.4545 F 0.5444
+Epoch Emotion	7 R 0.8800 P 0.5340 F 0.6647
+Epoch Cause	7 R 0.7080 P 0.4641 F 0.5607
+---------Epoch End----------
+Epoch Pair	8 R 0.6467 P 0.4641 F 0.5404
+Epoch Emotion	8 R 0.8741 P 0.5728 F 0.6921
+Epoch Cause	8 R 0.6828 P 0.4737 F 0.5593
+---------Epoch End----------
+Epoch Pair	9 R 0.7154 P 0.4450 F 0.5487
+Epoch Emotion	9 R 0.8699 P 0.5194 F 0.6505
+Epoch Cause	9 R 0.7520 P 0.4498 F 0.5629
+---------Epoch End----------
+Epoch Pair	10 R 0.6759 P 0.4689 F 0.5537
+Epoch Emotion	10 R 0.8571 P 0.5534 F 0.6726
+Epoch Cause	10 R 0.7194 P 0.4785 F 0.5747
+---------Epoch End----------
+Epoch Pair	11 R 0.6543 P 0.5072 F 0.5714
+Epoch Emotion	11 R 0.8794 P 0.6019 F 0.7147
+Epoch Cause	11 R 0.6772 P 0.5120 F 0.5831
+---------Epoch End----------
+Epoch Pair	12 R 0.6250 P 0.4545 F 0.5263
+Epoch Emotion	12 R 0.8406 P 0.5631 F 0.6744
+Epoch Cause	12 R 0.6759 P 0.4689 F 0.5537
+---------Epoch End----------
+Epoch Pair	13 R 0.6310 P 0.5072 F 0.5623
+Epoch Emotion	13 R 0.8639 P 0.6165 F 0.7195
+Epoch Cause	13 R 0.6667 P 0.5167 F 0.5822
+---------Epoch End----------
+Epoch Pair	14 R 0.6875 P 0.4737 F 0.5609
+Epoch Emotion	14 R 0.8931 P 0.5680 F 0.6944
+Epoch Cause	14 R 0.7071 P 0.4737 F 0.5673
+---------Epoch End----------
+Epoch Pair	15 R 0.6689 P 0.4737 F 0.5546
+Epoch Emotion	15 R 0.8722 P 0.5631 F 0.6844
+Epoch Cause	15 R 0.6993 P 0.4785 F 0.5682
+---------Epoch End----------
+Epoch Pair	16 R 0.6433 P 0.4833 F 0.5519
+Epoch Emotion	16 R 0.8768 P 0.5874 F 0.7035
+Epoch Cause	16 R 0.6601 P 0.4833 F 0.5580
+---------Epoch End----------
+Epoch Pair	17 R 0.6623 P 0.4880 F 0.5620
+Epoch Emotion	17 R 0.8897 P 0.5874 F 0.7076
+Epoch Cause	17 R 0.6800 P 0.4880 F 0.5682
+---------Epoch End----------
+Epoch Pair	18 R 0.5970 P 0.5742 F 0.5854
+Epoch Emotion	18 R 0.8421 P 0.6990 F 0.7639
+Epoch Cause	18 R 0.6302 P 0.5789 F 0.6035
+---------Epoch End----------
+Epoch Pair	19 R 0.6094 P 0.5598 F 0.5835
+Epoch Emotion	19 R 0.8323 P 0.6748 F 0.7453
+Epoch Cause	19 R 0.6503 P 0.5694 F 0.6071
+---------Epoch End----------
+Epoch Pair	20 R 0.6400 P 0.4593 F 0.5348
+Epoch Emotion	20 R 0.8529 P 0.5631 F 0.6784
+Epoch Cause	20 R 0.6713 P 0.4593 F 0.5455
+---------Epoch End----------
+Epoch Pair	21 R 0.6077 P 0.6077 F 0.6077
+Epoch Emotion	21 R 0.8343 P 0.7087 F 0.7664
+Epoch Cause	21 R 0.6531 P 0.6124 F 0.6321
+---------Epoch End----------
+Epoch Pair	22 R 0.6095 P 0.6124 F 0.6110
+Epoch Emotion	22 R 0.8721 P 0.7282 F 0.7937
+Epoch Cause	22 R 0.6386 P 0.6172 F 0.6277
+---------Epoch End----------
+Epoch Pair	23 R 0.6313 P 0.5407 F 0.5825
+Epoch Emotion	23 R 0.8506 P 0.6359 F 0.7278
+Epoch Cause	23 R 0.6628 P 0.5455 F 0.5984
+---------Epoch End----------
+Epoch Pair	24 R 0.5894 P 0.5837 F 0.5865
+Epoch Emotion	24 R 0.8079 P 0.6942 F 0.7467
+Epoch Cause	24 R 0.6340 P 0.5885 F 0.6104
+---------Epoch End----------
+Epoch Pair	25 R 0.5829 P 0.5550 F 0.5686
+Epoch Emotion	25 R 0.8364 P 0.6699 F 0.7439
+Epoch Cause	25 R 0.6257 P 0.5598 F 0.5909
+---------Epoch End----------
+Epoch Pair	26 R 0.6230 P 0.5455 F 0.5816
+Epoch Emotion	26 R 0.8500 P 0.6602 F 0.7432
+Epoch Cause	26 R 0.6609 P 0.5502 F 0.6005
+---------Epoch End----------
+Epoch Pair	27 R 0.6264 P 0.5215 F 0.5692
+Epoch Emotion	27 R 0.8355 P 0.6165 F 0.7095
+Epoch Cause	27 R 0.6566 P 0.5215 F 0.5813
+---------Epoch End----------
+Epoch Pair	28 R 0.5527 P 0.6268 F 0.5874
+Epoch Emotion	28 R 0.8021 P 0.7476 F 0.7739
+Epoch Cause	28 R 0.5919 P 0.6316 F 0.6111
+---------Epoch End----------
+Epoch Pair	29 R 0.5780 P 0.6029 F 0.5902
+Epoch Emotion	29 R 0.8122 P 0.7136 F 0.7597
+Epoch Cause	29 R 0.6244 P 0.6124 F 0.6184
+---------Epoch End----------
+Fold Pair	8 R 0.6095 P 0.6124 F 0.6110
+Fold Emotion	8 R 0.8721 P 0.7282 F 0.7937
+Fold Cause	8 R 0.6386 P 0.6172 F 0.6277
+-----------Fold End-----------
+
+Acc Fold Pair	8 R 0.6014 P 0.4791 F 0.5313
+Acc Fold Emoti	8 R 0.8305 P 0.5774 F 0.6795
+Acc Fold Event	8 R 0.6522 P 0.4915 F 0.5583
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 1.0000 P 0.0202 F 0.0396
+Epoch Emotion	2 R 1.0000 P 0.0203 F 0.0398
+Epoch Cause	2 R 1.0000 P 0.0202 F 0.0396
+---------Epoch End----------
+Epoch Pair	3 R 0.7917 P 0.0960 F 0.1712
+Epoch Emotion	3 R 0.9091 P 0.1015 F 0.1826
+Epoch Cause	3 R 0.8696 P 0.1010 F 0.1810
+---------Epoch End----------
+Epoch Pair	4 R 1.0000 P 0.0303 F 0.0588
+Epoch Emotion	4 R 1.0000 P 0.0305 F 0.0591
+Epoch Cause	4 R 1.0000 P 0.0303 F 0.0588
+---------Epoch End----------
+Epoch Pair	5 R 0.5730 P 0.2576 F 0.3554
+Epoch Emotion	5 R 0.7564 P 0.2995 F 0.4291
+Epoch Cause	5 R 0.6341 P 0.2626 F 0.3714
+---------Epoch End----------
+Epoch Pair	6 R 0.6842 P 0.1970 F 0.3059
+Epoch Emotion	6 R 0.8462 P 0.2234 F 0.3534
+Epoch Cause	6 R 0.7547 P 0.2020 F 0.3187
+---------Epoch End----------
+Epoch Pair	7 R 0.6184 P 0.2374 F 0.3431
+Epoch Emotion	7 R 0.8000 P 0.2843 F 0.4195
+Epoch Cause	7 R 0.6957 P 0.2424 F 0.3596
+---------Epoch End----------
+Epoch Pair	8 R 0.5625 P 0.2727 F 0.3673
+Epoch Emotion	8 R 0.7791 P 0.3401 F 0.4735
+Epoch Cause	8 R 0.6404 P 0.2879 F 0.3972
+---------Epoch End----------
+Epoch Pair	9 R 0.5824 P 0.2677 F 0.3668
+Epoch Emotion	9 R 0.8095 P 0.3452 F 0.4840
+Epoch Cause	9 R 0.6471 P 0.2778 F 0.3887
+---------Epoch End----------
+Epoch Pair	10 R 0.5278 P 0.2879 F 0.3725
+Epoch Emotion	10 R 0.7500 P 0.3655 F 0.4915
+Epoch Cause	10 R 0.5882 P 0.3030 F 0.4000
+---------Epoch End----------
+Epoch Pair	11 R 0.5377 P 0.2879 F 0.3750
+Epoch Emotion	11 R 0.7320 P 0.3604 F 0.4830
+Epoch Cause	11 R 0.5941 P 0.3030 F 0.4013
+---------Epoch End----------
+Epoch Pair	12 R 0.5300 P 0.2677 F 0.3557
+Epoch Emotion	12 R 0.7802 P 0.3604 F 0.4931
+Epoch Cause	12 R 0.5789 P 0.2778 F 0.3754
+---------Epoch End----------
+Epoch Pair	13 R 0.5670 P 0.2778 F 0.3729
+Epoch Emotion	13 R 0.7816 P 0.3452 F 0.4789
+Epoch Cause	13 R 0.6196 P 0.2879 F 0.3931
+---------Epoch End----------
+Epoch Pair	14 R 0.4745 P 0.3283 F 0.3881
+Epoch Emotion	14 R 0.7250 P 0.4416 F 0.5489
+Epoch Cause	14 R 0.5194 P 0.3384 F 0.4098
+---------Epoch End----------
+Epoch Pair	15 R 0.5036 P 0.3535 F 0.4154
+Epoch Emotion	15 R 0.7627 P 0.4569 F 0.5714
+Epoch Cause	15 R 0.5538 P 0.3636 F 0.4390
+---------Epoch End----------
+Epoch Pair	16 R 0.5391 P 0.3131 F 0.3962
+Epoch Emotion	16 R 0.7596 P 0.4010 F 0.5249
+Epoch Cause	16 R 0.5926 P 0.3232 F 0.4183
+---------Epoch End----------
+Epoch Pair	17 R 0.5156 P 0.3333 F 0.4049
+Epoch Emotion	17 R 0.7522 P 0.4315 F 0.5484
+Epoch Cause	17 R 0.5714 P 0.3434 F 0.4290
+---------Epoch End----------
+Epoch Pair	18 R 0.4459 P 0.3535 F 0.3944
+Epoch Emotion	18 R 0.7259 P 0.4975 F 0.5904
+Epoch Cause	18 R 0.4932 P 0.3636 F 0.4186
+---------Epoch End----------
+Epoch Pair	19 R 0.4167 P 0.4040 F 0.4103
+Epoch Emotion	19 R 0.6987 P 0.5533 F 0.6176
+Epoch Cause	19 R 0.4581 P 0.4141 F 0.4350
+---------Epoch End----------
+Epoch Pair	20 R 0.4795 P 0.3535 F 0.4070
+Epoch Emotion	20 R 0.7154 P 0.4721 F 0.5688
+Epoch Cause	20 R 0.5333 P 0.3636 F 0.4324
+---------Epoch End----------
+Epoch Pair	21 R 0.4140 P 0.3889 F 0.4010
+Epoch Emotion	21 R 0.6753 P 0.5279 F 0.5926
+Epoch Cause	21 R 0.4762 P 0.4040 F 0.4372
+---------Epoch End----------
+Epoch Pair	22 R 0.4054 P 0.3788 F 0.3916
+Epoch Emotion	22 R 0.6918 P 0.5127 F 0.5889
+Epoch Cause	22 R 0.4556 P 0.3889 F 0.4196
+---------Epoch End----------
+Epoch Pair	23 R 0.4393 P 0.3838 F 0.4097
+Epoch Emotion	23 R 0.6950 P 0.4975 F 0.5799
+Epoch Cause	23 R 0.5063 P 0.4040 F 0.4494
+---------Epoch End----------
+Epoch Pair	24 R 0.4124 P 0.4040 F 0.4082
+Epoch Emotion	24 R 0.6772 P 0.5431 F 0.6028
+Epoch Cause	24 R 0.4716 P 0.4192 F 0.4439
+---------Epoch End----------
+Epoch Pair	25 R 0.5033 P 0.3889 F 0.4387
+Epoch Emotion	25 R 0.7368 P 0.4975 F 0.5939
+Epoch Cause	25 R 0.5603 P 0.3990 F 0.4661
+---------Epoch End----------
+Epoch Pair	26 R 0.5000 P 0.3333 F 0.4000
+Epoch Emotion	26 R 0.7434 P 0.4264 F 0.5419
+Epoch Cause	26 R 0.5574 P 0.3434 F 0.4250
+---------Epoch End----------
+Epoch Pair	27 R 0.4540 P 0.3990 F 0.4247
+Epoch Emotion	27 R 0.7376 P 0.5279 F 0.6154
+Epoch Cause	27 R 0.5031 P 0.4091 F 0.4513
+---------Epoch End----------
+Epoch Pair	28 R 0.4251 P 0.4444 F 0.4346
+Epoch Emotion	28 R 0.7055 P 0.5838 F 0.6389
+Epoch Cause	28 R 0.4787 P 0.4545 F 0.4663
+---------Epoch End----------
+Epoch Pair	29 R 0.4471 P 0.3838 F 0.4130
+Epoch Emotion	29 R 0.6929 P 0.4924 F 0.5757
+Epoch Cause	29 R 0.5000 P 0.3939 F 0.4407
+---------Epoch End----------
+Fold Pair	9 R 0.5033 P 0.3889 F 0.4387
+Fold Emotion	9 R 0.7368 P 0.4975 F 0.5939
+Fold Cause	9 R 0.5603 P 0.3990 F 0.4661
+-----------Fold End-----------
+
+Acc Fold Pair	9 R 0.5905 P 0.4691 F 0.5210
+Acc Fold Emoti	9 R 0.8201 P 0.5685 F 0.6700
+Acc Fold Event	9 R 0.6420 P 0.4812 F 0.5481
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.6667 P 0.0094 F 0.0186
+Epoch Emotion	1 R 1.0000 P 0.0143 F 0.0282
+Epoch Cause	1 R 0.6667 P 0.0094 F 0.0186
+---------Epoch End----------
+Epoch Pair	2 R 0.5000 P 0.0613 F 0.1092
+Epoch Emotion	2 R 0.7692 P 0.0952 F 0.1695
+Epoch Cause	2 R 0.5000 P 0.0613 F 0.1092
+---------Epoch End----------
+Epoch Pair	3 R 0.6190 P 0.0613 F 0.1116
+Epoch Emotion	3 R 0.7143 P 0.0714 F 0.1299
+Epoch Cause	3 R 0.6190 P 0.0613 F 0.1116
+---------Epoch End----------
+Epoch Pair	4 R 0.4429 P 0.1462 F 0.2199
+Epoch Emotion	4 R 0.7500 P 0.2143 F 0.3333
+Epoch Cause	4 R 0.4783 P 0.1557 F 0.2349
+---------Epoch End----------
+Epoch Pair	5 R 0.4677 P 0.1368 F 0.2117
+Epoch Emotion	5 R 0.7241 P 0.2000 F 0.3134
+Epoch Cause	5 R 0.5254 P 0.1462 F 0.2288
+---------Epoch End----------
+Epoch Pair	6 R 0.4409 P 0.1934 F 0.2689
+Epoch Emotion	6 R 0.7125 P 0.2714 F 0.3931
+Epoch Cause	6 R 0.4835 P 0.2075 F 0.2904
+---------Epoch End----------
+Epoch Pair	7 R 0.4933 P 0.1745 F 0.2578
+Epoch Emotion	7 R 0.7206 P 0.2333 F 0.3525
+Epoch Cause	7 R 0.5479 P 0.1887 F 0.2807
+---------Epoch End----------
+Epoch Pair	8 R 0.4646 P 0.2170 F 0.2958
+Epoch Emotion	8 R 0.7191 P 0.3048 F 0.4281
+Epoch Cause	8 R 0.5104 P 0.2311 F 0.3182
+---------Epoch End----------
+Epoch Pair	9 R 0.4766 P 0.2406 F 0.3197
+Epoch Emotion	9 R 0.7396 P 0.3381 F 0.4641
+Epoch Cause	9 R 0.5048 P 0.2500 F 0.3344
+---------Epoch End----------
+Epoch Pair	10 R 0.5366 P 0.2075 F 0.2993
+Epoch Emotion	10 R 0.7632 P 0.2762 F 0.4056
+Epoch Cause	10 R 0.5802 P 0.2217 F 0.3208
+---------Epoch End----------
+Epoch Pair	11 R 0.4490 P 0.2075 F 0.2839
+Epoch Emotion	11 R 0.7528 P 0.3190 F 0.4482
+Epoch Cause	11 R 0.4947 P 0.2217 F 0.3062
+---------Epoch End----------
+Epoch Pair	12 R 0.5000 P 0.2358 F 0.3205
+Epoch Emotion	12 R 0.7789 P 0.3524 F 0.4852
+Epoch Cause	12 R 0.5408 P 0.2500 F 0.3419
+---------Epoch End----------
+Epoch Pair	13 R 0.4161 P 0.2925 F 0.3435
+Epoch Emotion	13 R 0.7656 P 0.4667 F 0.5799
+Epoch Cause	13 R 0.4521 P 0.3113 F 0.3687
+---------Epoch End----------
+Epoch Pair	14 R 0.4118 P 0.2972 F 0.3452
+Epoch Emotion	14 R 0.7557 P 0.4714 F 0.5806
+Epoch Cause	14 R 0.4430 P 0.3113 F 0.3657
+---------Epoch End----------
+Epoch Pair	15 R 0.4052 P 0.2925 F 0.3397
+Epoch Emotion	15 R 0.7293 P 0.4619 F 0.5656
+Epoch Cause	15 R 0.4430 P 0.3113 F 0.3657
+---------Epoch End----------
+Epoch Pair	16 R 0.4435 P 0.2406 F 0.3119
+Epoch Emotion	16 R 0.7670 P 0.3762 F 0.5048
+Epoch Cause	16 R 0.4821 P 0.2547 F 0.3333
+---------Epoch End----------
+Epoch Pair	17 R 0.4122 P 0.2547 F 0.3149
+Epoch Emotion	17 R 0.7069 P 0.3905 F 0.5031
+Epoch Cause	17 R 0.4677 P 0.2736 F 0.3452
+---------Epoch End----------
+Epoch Pair	18 R 0.4032 P 0.3538 F 0.3769
+Epoch Emotion	18 R 0.7161 P 0.5286 F 0.6082
+Epoch Cause	18 R 0.4463 P 0.3726 F 0.4062
+---------Epoch End----------
+Epoch Pair	19 R 0.3575 P 0.3491 F 0.3532
+Epoch Emotion	19 R 0.6667 P 0.5429 F 0.5984
+Epoch Cause	19 R 0.4162 P 0.3868 F 0.4010
+---------Epoch End----------
+Epoch Pair	20 R 0.4513 P 0.2406 F 0.3138
+Epoch Emotion	20 R 0.7500 P 0.3571 F 0.4839
+Epoch Cause	20 R 0.4865 P 0.2547 F 0.3344
+---------Epoch End----------
+Epoch Pair	21 R 0.3922 P 0.2830 F 0.3288
+Epoch Emotion	21 R 0.6992 P 0.4429 F 0.5423
+Epoch Cause	21 R 0.4583 P 0.3113 F 0.3708
+---------Epoch End----------
+Epoch Pair	22 R 0.3841 P 0.2972 F 0.3351
+Epoch Emotion	22 R 0.7122 P 0.4714 F 0.5673
+Epoch Cause	22 R 0.4286 P 0.3113 F 0.3607
+---------Epoch End----------
+Epoch Pair	23 R 0.4318 P 0.2689 F 0.3314
+Epoch Emotion	23 R 0.7542 P 0.4238 F 0.5427
+Epoch Cause	23 R 0.4688 P 0.2830 F 0.3529
+---------Epoch End----------
+Epoch Pair	24 R 0.3810 P 0.3396 F 0.3591
+Epoch Emotion	24 R 0.6903 P 0.5095 F 0.5863
+Epoch Cause	24 R 0.4389 P 0.3726 F 0.4031
+---------Epoch End----------
+Epoch Pair	25 R 0.4231 P 0.2594 F 0.3216
+Epoch Emotion	25 R 0.7345 P 0.3952 F 0.5139
+Epoch Cause	25 R 0.4677 P 0.2736 F 0.3452
+---------Epoch End----------
+Epoch Pair	26 R 0.3947 P 0.2830 F 0.3297
+Epoch Emotion	26 R 0.7154 P 0.4429 F 0.5471
+Epoch Cause	26 R 0.4444 P 0.3019 F 0.3596
+---------Epoch End----------
+Epoch Pair	27 R 0.3838 P 0.3585 F 0.3707
+Epoch Emotion	27 R 0.7012 P 0.5476 F 0.6150
+Epoch Cause	27 R 0.4392 P 0.3915 F 0.4140
+---------Epoch End----------
+Epoch Pair	28 R 0.4177 P 0.3113 F 0.3568
+Epoch Emotion	28 R 0.7239 P 0.4619 F 0.5640
+Epoch Cause	28 R 0.4667 P 0.3302 F 0.3867
+---------Epoch End----------
+Epoch Pair	29 R 0.4426 P 0.2547 F 0.3234
+Epoch Emotion	29 R 0.7383 P 0.3762 F 0.4984
+Epoch Cause	29 R 0.4828 P 0.2642 F 0.3415
+---------Epoch End----------
+Fold Pair	10 R 0.4032 P 0.3538 F 0.3769
+Fold Emotion	10 R 0.7161 P 0.5286 F 0.6082
+Fold Cause	10 R 0.4463 P 0.3726 F 0.4062
+-----------Fold End-----------
+
+Acc Fold Pair	10 R 0.5718 P 0.4576 F 0.5066
+Acc Fold Emoti	10 R 0.8097 P 0.5645 F 0.6638
+Acc Fold Event	10 R 0.6224 P 0.4704 F 0.5339
+-----------------------------
+
+------------Final Result-------------
+Final Pair	 R 0.5718 P 0.4576 F 0.5066
+Final Emotion	 R 0.8097 P 0.5645 F 0.6638
+Final Event	 R 0.6224 P 0.4704 F 0.5339
+---------------Finish----------------
+Repeat 2, Seed 2022
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 1.0000 P 0.0047 F 0.0094
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.8235 P 0.0606 F 0.1129
+Epoch Emotion	2 R 1.0000 P 0.0806 F 0.1491
+Epoch Cause	2 R 0.8235 P 0.0609 F 0.1134
+---------Epoch End----------
+Epoch Pair	3 R 0.8636 P 0.0823 F 0.1502
+Epoch Emotion	3 R 0.9545 P 0.0995 F 0.1803
+Epoch Cause	3 R 0.9091 P 0.0870 F 0.1587
+---------Epoch End----------
+Epoch Pair	4 R 0.7200 P 0.1558 F 0.2562
+Epoch Emotion	4 R 0.9130 P 0.1991 F 0.3268
+Epoch Cause	4 R 0.7755 P 0.1652 F 0.2724
+---------Epoch End----------
+Epoch Pair	5 R 0.7358 P 0.1688 F 0.2746
+Epoch Emotion	5 R 0.9388 P 0.2180 F 0.3538
+Epoch Cause	5 R 0.7843 P 0.1739 F 0.2847
+---------Epoch End----------
+Epoch Pair	6 R 0.7313 P 0.2121 F 0.3289
+Epoch Emotion	6 R 0.8871 P 0.2607 F 0.4029
+Epoch Cause	6 R 0.7846 P 0.2217 F 0.3458
+---------Epoch End----------
+Epoch Pair	7 R 0.7342 P 0.2511 F 0.3742
+Epoch Emotion	7 R 0.8919 P 0.3128 F 0.4632
+Epoch Cause	7 R 0.7662 P 0.2565 F 0.3844
+---------Epoch End----------
+Epoch Pair	8 R 0.6667 P 0.2165 F 0.3268
+Epoch Emotion	8 R 0.8310 P 0.2796 F 0.4184
+Epoch Cause	8 R 0.7123 P 0.2261 F 0.3432
+---------Epoch End----------
+Epoch Pair	9 R 0.6939 P 0.2944 F 0.4134
+Epoch Emotion	9 R 0.8444 P 0.3602 F 0.5050
+Epoch Cause	9 R 0.7474 P 0.3087 F 0.4369
+---------Epoch End----------
+Epoch Pair	10 R 0.6566 P 0.2814 F 0.3939
+Epoch Emotion	10 R 0.8242 P 0.3555 F 0.4967
+Epoch Cause	10 R 0.7083 P 0.2957 F 0.4172
+---------Epoch End----------
+Epoch Pair	11 R 0.7053 P 0.2900 F 0.4110
+Epoch Emotion	11 R 0.8523 P 0.3555 F 0.5017
+Epoch Cause	11 R 0.7500 P 0.3000 F 0.4286
+---------Epoch End----------
+Epoch Pair	12 R 0.6735 P 0.2857 F 0.4012
+Epoch Emotion	12 R 0.8444 P 0.3602 F 0.5050
+Epoch Cause	12 R 0.7263 P 0.3000 F 0.4246
+---------Epoch End----------
+Epoch Pair	13 R 0.6939 P 0.2944 F 0.4134
+Epoch Emotion	13 R 0.8478 P 0.3697 F 0.5149
+Epoch Cause	13 R 0.7396 P 0.3087 F 0.4356
+---------Epoch End----------
+Epoch Pair	14 R 0.6939 P 0.2944 F 0.4134
+Epoch Emotion	14 R 0.8778 P 0.3744 F 0.5249
+Epoch Cause	14 R 0.7396 P 0.3087 F 0.4356
+---------Epoch End----------
+Epoch Pair	15 R 0.6792 P 0.3117 F 0.4273
+Epoch Emotion	15 R 0.8557 P 0.3934 F 0.5390
+Epoch Cause	15 R 0.7184 P 0.3217 F 0.4444
+---------Epoch End----------
+Epoch Pair	16 R 0.6848 P 0.2727 F 0.3901
+Epoch Emotion	16 R 0.8736 P 0.3602 F 0.5101
+Epoch Cause	16 R 0.7303 P 0.2826 F 0.4075
+---------Epoch End----------
+Epoch Pair	17 R 0.6907 P 0.2900 F 0.4085
+Epoch Emotion	17 R 0.8750 P 0.3649 F 0.5151
+Epoch Cause	17 R 0.7368 P 0.3043 F 0.4308
+---------Epoch End----------
+Epoch Pair	18 R 0.6667 P 0.2857 F 0.4000
+Epoch Emotion	18 R 0.8478 P 0.3697 F 0.5149
+Epoch Cause	18 R 0.7083 P 0.2957 F 0.4172
+---------Epoch End----------
+Epoch Pair	19 R 0.6792 P 0.3117 F 0.4273
+Epoch Emotion	19 R 0.8485 P 0.3981 F 0.5419
+Epoch Cause	19 R 0.7184 P 0.3217 F 0.4444
+---------Epoch End----------
+Epoch Pair	20 R 0.6475 P 0.3420 F 0.4476
+Epoch Emotion	20 R 0.8142 P 0.4360 F 0.5679
+Epoch Cause	20 R 0.7009 P 0.3565 F 0.4726
+---------Epoch End----------
+Epoch Pair	21 R 0.6522 P 0.3247 F 0.4335
+Epoch Emotion	21 R 0.8476 P 0.4218 F 0.5633
+Epoch Cause	21 R 0.6814 P 0.3348 F 0.4490
+---------Epoch End----------
+Epoch Pair	22 R 0.6165 P 0.3550 F 0.4505
+Epoch Emotion	22 R 0.8099 P 0.4645 F 0.5904
+Epoch Cause	22 R 0.6512 P 0.3652 F 0.4680
+---------Epoch End----------
+Epoch Pair	23 R 0.6090 P 0.3506 F 0.4451
+Epoch Emotion	23 R 0.8033 P 0.4645 F 0.5886
+Epoch Cause	23 R 0.6640 P 0.3609 F 0.4676
+---------Epoch End----------
+Epoch Pair	24 R 0.6262 P 0.2900 F 0.3964
+Epoch Emotion	24 R 0.7980 P 0.3744 F 0.5097
+Epoch Cause	24 R 0.7041 P 0.3000 F 0.4207
+---------Epoch End----------
+Epoch Pair	25 R 0.6062 P 0.4199 F 0.4962
+Epoch Emotion	25 R 0.8284 P 0.5261 F 0.6435
+Epoch Cause	25 R 0.6447 P 0.4261 F 0.5131
+---------Epoch End----------
+Epoch Pair	26 R 0.5896 P 0.3420 F 0.4329
+Epoch Emotion	26 R 0.7917 P 0.4502 F 0.5740
+Epoch Cause	26 R 0.6378 P 0.3522 F 0.4538
+---------Epoch End----------
+Epoch Pair	27 R 0.6723 P 0.3463 F 0.4571
+Epoch Emotion	27 R 0.8505 P 0.4313 F 0.5723
+Epoch Cause	27 R 0.7043 P 0.3522 F 0.4696
+---------Epoch End----------
+Epoch Pair	28 R 0.7200 P 0.3117 F 0.4350
+Epoch Emotion	28 R 0.8737 P 0.3934 F 0.5425
+Epoch Cause	28 R 0.7474 P 0.3087 F 0.4369
+---------Epoch End----------
+Epoch Pair	29 R 0.6512 P 0.3636 F 0.4667
+Epoch Emotion	29 R 0.8151 P 0.4597 F 0.5879
+Epoch Cause	29 R 0.6967 P 0.3696 F 0.4830
+---------Epoch End----------
+Fold Pair	1 R 0.6062 P 0.4199 F 0.4962
+Fold Emotion	1 R 0.8284 P 0.5261 F 0.6435
+Fold Cause	1 R 0.6447 P 0.4261 F 0.5131
+-----------Fold End-----------
+
+Acc Fold Pair	1 R 0.6062 P 0.4199 F 0.4962
+Acc Fold Emoti	1 R 0.8284 P 0.5261 F 0.6435
+Acc Fold Event	1 R 0.6447 P 0.4261 F 0.5131
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 1.0000 P 0.0046 F 0.0091
+Epoch Emotion	1 R 1.0000 P 0.0047 F 0.0094
+Epoch Cause	1 R 1.0000 P 0.0046 F 0.0091
+---------Epoch End----------
+Epoch Pair	2 R 0.7857 P 0.0505 F 0.0948
+Epoch Emotion	2 R 1.0000 P 0.0616 F 0.1161
+Epoch Cause	2 R 0.8571 P 0.0550 F 0.1034
+---------Epoch End----------
+Epoch Pair	3 R 0.7111 P 0.1468 F 0.2433
+Epoch Emotion	3 R 0.9487 P 0.1754 F 0.2960
+Epoch Cause	3 R 0.7273 P 0.1468 F 0.2443
+---------Epoch End----------
+Epoch Pair	4 R 0.6809 P 0.1468 F 0.2415
+Epoch Emotion	4 R 0.8837 P 0.1801 F 0.2992
+Epoch Cause	4 R 0.7333 P 0.1514 F 0.2510
+---------Epoch End----------
+Epoch Pair	5 R 0.6806 P 0.2248 F 0.3379
+Epoch Emotion	5 R 0.8852 P 0.2559 F 0.3971
+Epoch Cause	5 R 0.7500 P 0.2339 F 0.3566
+---------Epoch End----------
+Epoch Pair	6 R 0.6047 P 0.2385 F 0.3421
+Epoch Emotion	6 R 0.8289 P 0.2986 F 0.4390
+Epoch Cause	6 R 0.6585 P 0.2477 F 0.3600
+---------Epoch End----------
+Epoch Pair	7 R 0.6136 P 0.2477 F 0.3529
+Epoch Emotion	7 R 0.8734 P 0.3270 F 0.4759
+Epoch Cause	7 R 0.6829 P 0.2569 F 0.3733
+---------Epoch End----------
+Epoch Pair	8 R 0.6091 P 0.3073 F 0.4085
+Epoch Emotion	8 R 0.8163 P 0.3791 F 0.5178
+Epoch Cause	8 R 0.6698 P 0.3257 F 0.4383
+---------Epoch End----------
+Epoch Pair	9 R 0.5755 P 0.3670 F 0.4482
+Epoch Emotion	9 R 0.8220 P 0.4597 F 0.5897
+Epoch Cause	9 R 0.6336 P 0.3807 F 0.4756
+---------Epoch End----------
+Epoch Pair	10 R 0.5785 P 0.3211 F 0.4130
+Epoch Emotion	10 R 0.7778 P 0.3981 F 0.5266
+Epoch Cause	10 R 0.6207 P 0.3303 F 0.4311
+---------Epoch End----------
+Epoch Pair	11 R 0.5029 P 0.3945 F 0.4422
+Epoch Emotion	11 R 0.7842 P 0.5166 F 0.6229
+Epoch Cause	11 R 0.5535 P 0.4037 F 0.4668
+---------Epoch End----------
+Epoch Pair	12 R 0.5426 P 0.3211 F 0.4035
+Epoch Emotion	12 R 0.8257 P 0.4265 F 0.5625
+Epoch Cause	12 R 0.5902 P 0.3303 F 0.4235
+---------Epoch End----------
+Epoch Pair	13 R 0.5174 P 0.4083 F 0.4564
+Epoch Emotion	13 R 0.7883 P 0.5118 F 0.6207
+Epoch Cause	13 R 0.5521 P 0.4128 F 0.4724
+---------Epoch End----------
+Epoch Pair	14 R 0.5493 P 0.3578 F 0.4333
+Epoch Emotion	14 R 0.8017 P 0.4597 F 0.5843
+Epoch Cause	14 R 0.6000 P 0.3716 F 0.4589
+---------Epoch End----------
+Epoch Pair	15 R 0.6031 P 0.3624 F 0.4527
+Epoch Emotion	15 R 0.8348 P 0.4550 F 0.5890
+Epoch Cause	15 R 0.6328 P 0.3716 F 0.4682
+---------Epoch End----------
+Epoch Pair	16 R 0.5278 P 0.3486 F 0.4199
+Epoch Emotion	16 R 0.7805 P 0.4550 F 0.5749
+Epoch Cause	16 R 0.5852 P 0.3624 F 0.4476
+---------Epoch End----------
+Epoch Pair	17 R 0.5379 P 0.3578 F 0.4298
+Epoch Emotion	17 R 0.7460 P 0.4455 F 0.5579
+Epoch Cause	17 R 0.5926 P 0.3670 F 0.4533
+---------Epoch End----------
+Epoch Pair	18 R 0.6094 P 0.3578 F 0.4509
+Epoch Emotion	18 R 0.8378 P 0.4408 F 0.5776
+Epoch Cause	18 R 0.6475 P 0.3624 F 0.4647
+---------Epoch End----------
+Epoch Pair	19 R 0.5357 P 0.4128 F 0.4663
+Epoch Emotion	19 R 0.7714 P 0.5118 F 0.6154
+Epoch Cause	19 R 0.5924 P 0.4266 F 0.4960
+---------Epoch End----------
+Epoch Pair	20 R 0.5489 P 0.3349 F 0.4160
+Epoch Emotion	20 R 0.7838 P 0.4123 F 0.5404
+Epoch Cause	20 R 0.5952 P 0.3440 F 0.4360
+---------Epoch End----------
+Epoch Pair	21 R 0.5917 P 0.3257 F 0.4201
+Epoch Emotion	21 R 0.8269 P 0.4076 F 0.5460
+Epoch Cause	21 R 0.6293 P 0.3349 F 0.4371
+---------Epoch End----------
+Epoch Pair	22 R 0.5736 P 0.3394 F 0.4265
+Epoch Emotion	22 R 0.8053 P 0.4313 F 0.5617
+Epoch Cause	22 R 0.6129 P 0.3486 F 0.4444
+---------Epoch End----------
+Epoch Pair	23 R 0.5422 P 0.4128 F 0.4687
+Epoch Emotion	23 R 0.7786 P 0.5166 F 0.6211
+Epoch Cause	23 R 0.5909 P 0.4174 F 0.4892
+---------Epoch End----------
+Epoch Pair	24 R 0.5662 P 0.3532 F 0.4350
+Epoch Emotion	24 R 0.8348 P 0.4550 F 0.5890
+Epoch Cause	24 R 0.6047 P 0.3578 F 0.4496
+---------Epoch End----------
+Epoch Pair	25 R 0.5474 P 0.3440 F 0.4225
+Epoch Emotion	25 R 0.7479 P 0.4218 F 0.5394
+Epoch Cause	25 R 0.5969 P 0.3532 F 0.4438
+---------Epoch End----------
+Epoch Pair	26 R 0.5468 P 0.3486 F 0.4258
+Epoch Emotion	26 R 0.7951 P 0.4597 F 0.5826
+Epoch Cause	26 R 0.6000 P 0.3578 F 0.4483
+---------Epoch End----------
+Epoch Pair	27 R 0.5533 P 0.3807 F 0.4511
+Epoch Emotion	27 R 0.7969 P 0.4834 F 0.6018
+Epoch Cause	27 R 0.6043 P 0.3853 F 0.4706
+---------Epoch End----------
+Epoch Pair	28 R 0.5806 P 0.3303 F 0.4211
+Epoch Emotion	28 R 0.7965 P 0.4265 F 0.5556
+Epoch Cause	28 R 0.6207 P 0.3303 F 0.4311
+---------Epoch End----------
+Epoch Pair	29 R 0.5290 P 0.3761 F 0.4397
+Epoch Emotion	29 R 0.7985 P 0.5071 F 0.6203
+Epoch Cause	29 R 0.5793 P 0.3853 F 0.4628
+---------Epoch End----------
+Fold Pair	2 R 0.5422 P 0.4128 F 0.4687
+Fold Emotion	2 R 0.7786 P 0.5166 F 0.6211
+Fold Cause	2 R 0.5909 P 0.4174 F 0.4892
+-----------Fold End-----------
+
+Acc Fold Pair	2 R 0.5742 P 0.4164 F 0.4825
+Acc Fold Emoti	2 R 0.8035 P 0.5213 F 0.6323
+Acc Fold Event	2 R 0.6178 P 0.4218 F 0.5012
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.6154 P 0.1106 F 0.1875
+Epoch Emotion	2 R 0.9459 P 0.1659 F 0.2823
+Epoch Cause	2 R 0.6579 P 0.1152 F 0.1961
+---------Epoch End----------
+Epoch Pair	3 R 0.5769 P 0.1382 F 0.2230
+Epoch Emotion	3 R 0.8750 P 0.1991 F 0.3243
+Epoch Cause	3 R 0.6400 P 0.1475 F 0.2397
+---------Epoch End----------
+Epoch Pair	4 R 0.6111 P 0.1521 F 0.2435
+Epoch Emotion	4 R 0.8723 P 0.1943 F 0.3178
+Epoch Cause	4 R 0.6731 P 0.1613 F 0.2602
+---------Epoch End----------
+Epoch Pair	5 R 0.6458 P 0.1429 F 0.2340
+Epoch Emotion	5 R 0.8444 P 0.1801 F 0.2969
+Epoch Cause	5 R 0.7174 P 0.1521 F 0.2510
+---------Epoch End----------
+Epoch Pair	6 R 0.5972 P 0.1982 F 0.2976
+Epoch Emotion	6 R 0.8413 P 0.2512 F 0.3869
+Epoch Cause	6 R 0.6377 P 0.2028 F 0.3077
+---------Epoch End----------
+Epoch Pair	7 R 0.5392 P 0.2535 F 0.3448
+Epoch Emotion	7 R 0.8539 P 0.3602 F 0.5067
+Epoch Cause	7 R 0.5714 P 0.2581 F 0.3556
+---------Epoch End----------
+Epoch Pair	8 R 0.5541 P 0.1889 F 0.2818
+Epoch Emotion	8 R 0.8154 P 0.2512 F 0.3841
+Epoch Cause	8 R 0.6087 P 0.1935 F 0.2937
+---------Epoch End----------
+Epoch Pair	9 R 0.5446 P 0.2535 F 0.3459
+Epoch Emotion	9 R 0.8182 P 0.3412 F 0.4816
+Epoch Cause	9 R 0.6105 P 0.2673 F 0.3718
+---------Epoch End----------
+Epoch Pair	10 R 0.5567 P 0.2488 F 0.3439
+Epoch Emotion	10 R 0.8372 P 0.3412 F 0.4848
+Epoch Cause	10 R 0.5978 P 0.2535 F 0.3560
+---------Epoch End----------
+Epoch Pair	11 R 0.6154 P 0.2581 F 0.3636
+Epoch Emotion	11 R 0.8608 P 0.3223 F 0.4690
+Epoch Cause	11 R 0.6552 P 0.2627 F 0.3750
+---------Epoch End----------
+Epoch Pair	12 R 0.5556 P 0.2995 F 0.3892
+Epoch Emotion	12 R 0.8300 P 0.3934 F 0.5338
+Epoch Cause	12 R 0.6071 P 0.3134 F 0.4134
+---------Epoch End----------
+Epoch Pair	13 R 0.5397 P 0.3134 F 0.3965
+Epoch Emotion	13 R 0.8056 P 0.4123 F 0.5455
+Epoch Cause	13 R 0.5820 P 0.3272 F 0.4189
+---------Epoch End----------
+Epoch Pair	14 R 0.5248 P 0.3410 F 0.4134
+Epoch Emotion	14 R 0.8151 P 0.4597 F 0.5879
+Epoch Cause	14 R 0.5704 P 0.3548 F 0.4375
+---------Epoch End----------
+Epoch Pair	15 R 0.5282 P 0.3456 F 0.4178
+Epoch Emotion	15 R 0.8319 P 0.4692 F 0.6000
+Epoch Cause	15 R 0.5809 P 0.3641 F 0.4476
+---------Epoch End----------
+Epoch Pair	16 R 0.5772 P 0.3272 F 0.4176
+Epoch Emotion	16 R 0.8396 P 0.4218 F 0.5615
+Epoch Cause	16 R 0.6186 P 0.3364 F 0.4358
+---------Epoch End----------
+Epoch Pair	17 R 0.5726 P 0.3272 F 0.4164
+Epoch Emotion	17 R 0.8318 P 0.4218 F 0.5597
+Epoch Cause	17 R 0.6134 P 0.3364 F 0.4345
+---------Epoch End----------
+Epoch Pair	18 R 0.5639 P 0.3456 F 0.4286
+Epoch Emotion	18 R 0.7913 P 0.4313 F 0.5583
+Epoch Cause	18 R 0.6094 P 0.3594 F 0.4522
+---------Epoch End----------
+Epoch Pair	19 R 0.6531 P 0.2949 F 0.4063
+Epoch Emotion	19 R 0.8636 P 0.3602 F 0.5084
+Epoch Cause	19 R 0.6667 P 0.2949 F 0.4089
+---------Epoch End----------
+Epoch Pair	20 R 0.5776 P 0.3088 F 0.4024
+Epoch Emotion	20 R 0.8200 P 0.3886 F 0.5273
+Epoch Cause	20 R 0.6316 P 0.3318 F 0.4350
+---------Epoch End----------
+Epoch Pair	21 R 0.5682 P 0.3456 F 0.4298
+Epoch Emotion	21 R 0.8214 P 0.4360 F 0.5697
+Epoch Cause	21 R 0.6160 P 0.3548 F 0.4503
+---------Epoch End----------
+Epoch Pair	22 R 0.6629 P 0.2719 F 0.3856
+Epoch Emotion	22 R 0.8795 P 0.3460 F 0.4966
+Epoch Cause	22 R 0.6782 P 0.2719 F 0.3882
+---------Epoch End----------
+Epoch Pair	23 R 0.6522 P 0.3456 F 0.4518
+Epoch Emotion	23 R 0.8725 P 0.4218 F 0.5687
+Epoch Cause	23 R 0.6937 P 0.3548 F 0.4695
+---------Epoch End----------
+Epoch Pair	24 R 0.6495 P 0.2903 F 0.4013
+Epoch Emotion	24 R 0.8706 P 0.3507 F 0.5000
+Epoch Cause	24 R 0.6947 P 0.3041 F 0.4231
+---------Epoch End----------
+Epoch Pair	25 R 0.5536 P 0.4286 F 0.4831
+Epoch Emotion	25 R 0.8088 P 0.5213 F 0.6340
+Epoch Cause	25 R 0.5890 P 0.4424 F 0.5053
+---------Epoch End----------
+Epoch Pair	26 R 0.4787 P 0.4147 F 0.4444
+Epoch Emotion	26 R 0.7867 P 0.5592 F 0.6537
+Epoch Cause	26 R 0.5169 P 0.4240 F 0.4658
+---------Epoch End----------
+Epoch Pair	27 R 0.4951 P 0.4700 F 0.4823
+Epoch Emotion	27 R 0.8000 P 0.6066 F 0.6900
+Epoch Cause	27 R 0.5306 P 0.4793 F 0.5036
+---------Epoch End----------
+Epoch Pair	28 R 0.5606 P 0.3410 F 0.4241
+Epoch Emotion	28 R 0.8348 P 0.4550 F 0.5890
+Epoch Cause	28 R 0.5906 P 0.3456 F 0.4360
+---------Epoch End----------
+Epoch Pair	29 R 0.5414 P 0.3318 F 0.4114
+Epoch Emotion	29 R 0.8067 P 0.4550 F 0.5818
+Epoch Cause	29 R 0.5859 P 0.3456 F 0.4348
+---------Epoch End----------
+Fold Pair	3 R 0.5536 P 0.4286 F 0.4831
+Fold Emotion	3 R 0.8088 P 0.5213 F 0.6340
+Fold Cause	3 R 0.5890 P 0.4424 F 0.5053
+-----------Fold End-----------
+
+Acc Fold Pair	3 R 0.5673 P 0.4204 F 0.4827
+Acc Fold Emoti	3 R 0.8053 P 0.5213 F 0.6329
+Acc Fold Event	3 R 0.6082 P 0.4286 F 0.5025
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 1.0000 P 0.0047 F 0.0093
+Epoch Emotion	2 R 1.0000 P 0.0047 F 0.0094
+Epoch Cause	2 R 1.0000 P 0.0047 F 0.0093
+---------Epoch End----------
+Epoch Pair	3 R 0.6667 P 0.0558 F 0.1030
+Epoch Emotion	3 R 0.9412 P 0.0758 F 0.1404
+Epoch Cause	3 R 0.8333 P 0.0701 F 0.1293
+---------Epoch End----------
+Epoch Pair	4 R 0.6250 P 0.0930 F 0.1619
+Epoch Emotion	4 R 0.8333 P 0.1185 F 0.2075
+Epoch Cause	4 R 0.7812 P 0.1168 F 0.2033
+---------Epoch End----------
+Epoch Pair	5 R 0.6190 P 0.1814 F 0.2806
+Epoch Emotion	5 R 0.8276 P 0.2275 F 0.3569
+Epoch Cause	5 R 0.7500 P 0.2103 F 0.3285
+---------Epoch End----------
+Epoch Pair	6 R 0.6842 P 0.1814 F 0.2868
+Epoch Emotion	6 R 0.8704 P 0.2227 F 0.3547
+Epoch Cause	6 R 0.7593 P 0.1916 F 0.3060
+---------Epoch End----------
+Epoch Pair	7 R 0.6567 P 0.2047 F 0.3121
+Epoch Emotion	7 R 0.8615 P 0.2654 F 0.4058
+Epoch Cause	7 R 0.7460 P 0.2196 F 0.3394
+---------Epoch End----------
+Epoch Pair	8 R 0.6518 P 0.3395 F 0.4465
+Epoch Emotion	8 R 0.8400 P 0.3981 F 0.5402
+Epoch Cause	8 R 0.7264 P 0.3598 F 0.4812
+---------Epoch End----------
+Epoch Pair	9 R 0.6396 P 0.3302 F 0.4356
+Epoch Emotion	9 R 0.8300 P 0.3934 F 0.5338
+Epoch Cause	9 R 0.7238 P 0.3551 F 0.4765
+---------Epoch End----------
+Epoch Pair	10 R 0.6458 P 0.2884 F 0.3987
+Epoch Emotion	10 R 0.8315 P 0.3507 F 0.4933
+Epoch Cause	10 R 0.7253 P 0.3084 F 0.4328
+---------Epoch End----------
+Epoch Pair	11 R 0.6569 P 0.4186 F 0.5114
+Epoch Emotion	11 R 0.8293 P 0.4834 F 0.6108
+Epoch Cause	11 R 0.7402 P 0.4393 F 0.5513
+---------Epoch End----------
+Epoch Pair	12 R 0.6479 P 0.4279 F 0.5154
+Epoch Emotion	12 R 0.8443 P 0.4882 F 0.6186
+Epoch Cause	12 R 0.7185 P 0.4533 F 0.5559
+---------Epoch End----------
+Epoch Pair	13 R 0.6158 P 0.5070 F 0.5561
+Epoch Emotion	13 R 0.8170 P 0.5924 F 0.6868
+Epoch Cause	13 R 0.6975 P 0.5280 F 0.6011
+---------Epoch End----------
+Epoch Pair	14 R 0.6783 P 0.4512 F 0.5419
+Epoch Emotion	14 R 0.8504 P 0.5118 F 0.6391
+Epoch Cause	14 R 0.7463 P 0.4673 F 0.5747
+---------Epoch End----------
+Epoch Pair	15 R 0.7333 P 0.3581 F 0.4813
+Epoch Emotion	15 R 0.8878 P 0.4123 F 0.5631
+Epoch Cause	15 R 0.7921 P 0.3738 F 0.5079
+---------Epoch End----------
+Epoch Pair	16 R 0.6690 P 0.4419 F 0.5322
+Epoch Emotion	16 R 0.8438 P 0.5118 F 0.6372
+Epoch Cause	16 R 0.7463 P 0.4673 F 0.5747
+---------Epoch End----------
+Epoch Pair	17 R 0.7097 P 0.4093 F 0.5192
+Epoch Emotion	17 R 0.8559 P 0.4787 F 0.6140
+Epoch Cause	17 R 0.7845 P 0.4252 F 0.5515
+---------Epoch End----------
+Epoch Pair	18 R 0.6814 P 0.3581 F 0.4695
+Epoch Emotion	18 R 0.8654 P 0.4265 F 0.5714
+Epoch Cause	18 R 0.7685 P 0.3879 F 0.5155
+---------Epoch End----------
+Epoch Pair	19 R 0.6797 P 0.4837 F 0.5652
+Epoch Emotion	19 R 0.8333 P 0.5450 F 0.6590
+Epoch Cause	19 R 0.7483 P 0.5000 F 0.5994
+---------Epoch End----------
+Epoch Pair	20 R 0.6726 P 0.3535 F 0.4634
+Epoch Emotion	20 R 0.8381 P 0.4171 F 0.5570
+Epoch Cause	20 R 0.7547 P 0.3738 F 0.5000
+---------Epoch End----------
+Epoch Pair	21 R 0.6783 P 0.3628 F 0.4727
+Epoch Emotion	21 R 0.8491 P 0.4265 F 0.5678
+Epoch Cause	21 R 0.7664 P 0.3832 F 0.5109
+---------Epoch End----------
+Epoch Pair	22 R 0.7064 P 0.3581 F 0.4753
+Epoch Emotion	22 R 0.8416 P 0.4028 F 0.5449
+Epoch Cause	22 R 0.7921 P 0.3738 F 0.5079
+---------Epoch End----------
+Epoch Pair	23 R 0.6899 P 0.4140 F 0.5174
+Epoch Emotion	23 R 0.8305 P 0.4645 F 0.5957
+Epoch Cause	23 R 0.7603 P 0.4299 F 0.5493
+---------Epoch End----------
+Epoch Pair	24 R 0.6569 P 0.4186 F 0.5114
+Epoch Emotion	24 R 0.8203 P 0.4976 F 0.6195
+Epoch Cause	24 R 0.7440 P 0.4346 F 0.5487
+---------Epoch End----------
+Epoch Pair	25 R 0.6916 P 0.3442 F 0.4596
+Epoch Emotion	25 R 0.8500 P 0.4028 F 0.5466
+Epoch Cause	25 R 0.7549 P 0.3598 F 0.4873
+---------Epoch End----------
+Epoch Pair	26 R 0.6977 P 0.4186 F 0.5233
+Epoch Emotion	26 R 0.8583 P 0.4882 F 0.6224
+Epoch Cause	26 R 0.7541 P 0.4299 F 0.5476
+---------Epoch End----------
+Epoch Pair	27 R 0.6424 P 0.4512 F 0.5301
+Epoch Emotion	27 R 0.8261 P 0.5403 F 0.6533
+Epoch Cause	27 R 0.7214 P 0.4720 F 0.5706
+---------Epoch End----------
+Epoch Pair	28 R 0.5873 P 0.5163 F 0.5495
+Epoch Emotion	28 R 0.7975 P 0.6161 F 0.6952
+Epoch Cause	28 R 0.6647 P 0.5374 F 0.5943
+---------Epoch End----------
+Epoch Pair	29 R 0.6020 P 0.5488 F 0.5742
+Epoch Emotion	29 R 0.7965 P 0.6493 F 0.7154
+Epoch Cause	29 R 0.6816 P 0.5701 F 0.6209
+---------Epoch End----------
+Fold Pair	4 R 0.6020 P 0.5488 F 0.5742
+Fold Emotion	4 R 0.7965 P 0.6493 F 0.7154
+Fold Cause	4 R 0.6816 P 0.5701 F 0.6209
+-----------Fold End-----------
+
+Acc Fold Pair	4 R 0.5760 P 0.4525 F 0.5056
+Acc Fold Emoti	4 R 0.8031 P 0.5533 F 0.6535
+Acc Fold Event	4 R 0.6265 P 0.4640 F 0.5321
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.7000 P 0.0320 F 0.0611
+Epoch Emotion	2 R 0.8889 P 0.0379 F 0.0727
+Epoch Cause	2 R 0.7000 P 0.0320 F 0.0611
+---------Epoch End----------
+Epoch Pair	3 R 0.6923 P 0.1233 F 0.2093
+Epoch Emotion	3 R 0.8649 P 0.1517 F 0.2581
+Epoch Cause	3 R 0.7105 P 0.1233 F 0.2101
+---------Epoch End----------
+Epoch Pair	4 R 0.6977 P 0.1370 F 0.2290
+Epoch Emotion	4 R 0.9000 P 0.1706 F 0.2869
+Epoch Cause	4 R 0.7143 P 0.1370 F 0.2299
+---------Epoch End----------
+Epoch Pair	5 R 0.7073 P 0.1324 F 0.2231
+Epoch Emotion	5 R 0.9189 P 0.1611 F 0.2742
+Epoch Cause	5 R 0.7250 P 0.1324 F 0.2239
+---------Epoch End----------
+Epoch Pair	6 R 0.6667 P 0.2192 F 0.3299
+Epoch Emotion	6 R 0.8971 P 0.2891 F 0.4373
+Epoch Cause	6 R 0.6901 P 0.2237 F 0.3379
+---------Epoch End----------
+Epoch Pair	7 R 0.6774 P 0.2877 F 0.4038
+Epoch Emotion	7 R 0.8875 P 0.3365 F 0.4880
+Epoch Cause	7 R 0.6957 P 0.2922 F 0.4116
+---------Epoch End----------
+Epoch Pair	8 R 0.6204 P 0.3881 F 0.4775
+Epoch Emotion	8 R 0.8333 P 0.4502 F 0.5846
+Epoch Cause	8 R 0.6641 P 0.3973 F 0.4971
+---------Epoch End----------
+Epoch Pair	9 R 0.6491 P 0.3379 F 0.4444
+Epoch Emotion	9 R 0.8350 P 0.4076 F 0.5478
+Epoch Cause	9 R 0.6972 P 0.3470 F 0.4634
+---------Epoch End----------
+Epoch Pair	10 R 0.6612 P 0.3653 F 0.4706
+Epoch Emotion	10 R 0.8519 P 0.4360 F 0.5768
+Epoch Cause	10 R 0.6949 P 0.3744 F 0.4866
+---------Epoch End----------
+Epoch Pair	11 R 0.6783 P 0.3562 F 0.4671
+Epoch Emotion	11 R 0.8598 P 0.4360 F 0.5786
+Epoch Cause	11 R 0.7232 P 0.3699 F 0.4894
+---------Epoch End----------
+Epoch Pair	12 R 0.6693 P 0.3881 F 0.4913
+Epoch Emotion	12 R 0.8496 P 0.4550 F 0.5926
+Epoch Cause	12 R 0.7154 P 0.4018 F 0.5146
+---------Epoch End----------
+Epoch Pair	13 R 0.7130 P 0.3516 F 0.4709
+Epoch Emotion	13 R 0.8854 P 0.4028 F 0.5537
+Epoch Cause	13 R 0.7619 P 0.3653 F 0.4938
+---------Epoch End----------
+Epoch Pair	14 R 0.6489 P 0.3881 F 0.4857
+Epoch Emotion	14 R 0.8496 P 0.4550 F 0.5926
+Epoch Cause	14 R 0.7040 P 0.4018 F 0.5116
+---------Epoch End----------
+Epoch Pair	15 R 0.6241 P 0.3790 F 0.4716
+Epoch Emotion	15 R 0.8103 P 0.4455 F 0.5749
+Epoch Cause	15 R 0.6772 P 0.3927 F 0.4971
+---------Epoch End----------
+Epoch Pair	16 R 0.6803 P 0.3790 F 0.4868
+Epoch Emotion	16 R 0.8440 P 0.4360 F 0.5750
+Epoch Cause	16 R 0.7288 P 0.3927 F 0.5104
+---------Epoch End----------
+Epoch Pair	17 R 0.5928 P 0.4521 F 0.5130
+Epoch Emotion	17 R 0.7862 P 0.5403 F 0.6404
+Epoch Cause	17 R 0.6497 P 0.4658 F 0.5426
+---------Epoch End----------
+Epoch Pair	18 R 0.6143 P 0.3927 F 0.4791
+Epoch Emotion	18 R 0.8130 P 0.4739 F 0.5988
+Epoch Cause	18 R 0.6667 P 0.4018 F 0.5014
+---------Epoch End----------
+Epoch Pair	19 R 0.6331 P 0.4018 F 0.4916
+Epoch Emotion	19 R 0.8250 P 0.4692 F 0.5982
+Epoch Cause	19 R 0.6818 P 0.4110 F 0.5128
+---------Epoch End----------
+Epoch Pair	20 R 0.5775 P 0.4932 F 0.5320
+Epoch Emotion	20 R 0.7834 P 0.5829 F 0.6685
+Epoch Cause	20 R 0.6229 P 0.4977 F 0.5533
+---------Epoch End----------
+Epoch Pair	21 R 0.5514 P 0.4658 F 0.5050
+Epoch Emotion	21 R 0.7712 P 0.5592 F 0.6484
+Epoch Cause	21 R 0.6047 P 0.4749 F 0.5320
+---------Epoch End----------
+Epoch Pair	22 R 0.5706 P 0.4247 F 0.4869
+Epoch Emotion	22 R 0.7708 P 0.5261 F 0.6254
+Epoch Cause	22 R 0.6169 P 0.4338 F 0.5094
+---------Epoch End----------
+Epoch Pair	23 R 0.5389 P 0.4429 F 0.4862
+Epoch Emotion	23 R 0.7484 P 0.5498 F 0.6339
+Epoch Cause	23 R 0.6098 P 0.4566 F 0.5222
+---------Epoch End----------
+Epoch Pair	24 R 0.5965 P 0.4658 F 0.5231
+Epoch Emotion	24 R 0.7862 P 0.5403 F 0.6404
+Epoch Cause	24 R 0.6500 P 0.4749 F 0.5488
+---------Epoch End----------
+Epoch Pair	25 R 0.5377 P 0.4886 F 0.5120
+Epoch Emotion	25 R 0.7515 P 0.5877 F 0.6596
+Epoch Cause	25 R 0.5870 P 0.4932 F 0.5360
+---------Epoch End----------
+Epoch Pair	26 R 0.5580 P 0.4612 F 0.5050
+Epoch Emotion	26 R 0.7712 P 0.5592 F 0.6484
+Epoch Cause	26 R 0.6047 P 0.4749 F 0.5320
+---------Epoch End----------
+Epoch Pair	27 R 0.5764 P 0.3790 F 0.4573
+Epoch Emotion	27 R 0.7752 P 0.4739 F 0.5882
+Epoch Cause	27 R 0.6232 P 0.3927 F 0.4818
+---------Epoch End----------
+Epoch Pair	28 R 0.4826 P 0.5068 F 0.4944
+Epoch Emotion	28 R 0.7569 P 0.6493 F 0.6990
+Epoch Cause	28 R 0.5324 P 0.5251 F 0.5287
+---------Epoch End----------
+Epoch Pair	29 R 0.6014 P 0.3927 F 0.4751
+Epoch Emotion	29 R 0.7967 P 0.4645 F 0.5868
+Epoch Cause	29 R 0.6544 P 0.4064 F 0.5014
+---------Epoch End----------
+Fold Pair	5 R 0.5775 P 0.4932 F 0.5320
+Fold Emotion	5 R 0.7834 P 0.5829 F 0.6685
+Fold Cause	5 R 0.6229 P 0.4977 F 0.5533
+-----------Fold End-----------
+
+Acc Fold Pair	5 R 0.5763 P 0.4607 F 0.5109
+Acc Fold Emoti	5 R 0.7991 P 0.5592 F 0.6565
+Acc Fold Event	5 R 0.6258 P 0.4707 F 0.5364
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.3333 P 0.0047 F 0.0092
+Epoch Emotion	1 R 1.0000 P 0.0144 F 0.0284
+Epoch Cause	1 R 0.3333 P 0.0047 F 0.0092
+---------Epoch End----------
+Epoch Pair	2 R 0.7143 P 0.0930 F 0.1646
+Epoch Emotion	2 R 0.8519 P 0.1106 F 0.1957
+Epoch Cause	2 R 0.7500 P 0.0981 F 0.1736
+---------Epoch End----------
+Epoch Pair	3 R 0.6970 P 0.1070 F 0.1855
+Epoch Emotion	3 R 0.8710 P 0.1298 F 0.2259
+Epoch Cause	3 R 0.7273 P 0.1121 F 0.1943
+---------Epoch End----------
+Epoch Pair	4 R 0.6026 P 0.2186 F 0.3208
+Epoch Emotion	4 R 0.8551 P 0.2837 F 0.4260
+Epoch Cause	4 R 0.6579 P 0.2336 F 0.3448
+---------Epoch End----------
+Epoch Pair	5 R 0.6543 P 0.2465 F 0.3581
+Epoch Emotion	5 R 0.8472 P 0.2933 F 0.4357
+Epoch Cause	5 R 0.7308 P 0.2664 F 0.3904
+---------Epoch End----------
+Epoch Pair	6 R 0.6190 P 0.3023 F 0.4062
+Epoch Emotion	6 R 0.8370 P 0.3702 F 0.5133
+Epoch Cause	6 R 0.6900 P 0.3224 F 0.4395
+---------Epoch End----------
+Epoch Pair	7 R 0.6753 P 0.2419 F 0.3562
+Epoch Emotion	7 R 0.8551 P 0.2837 F 0.4260
+Epoch Cause	7 R 0.7639 P 0.2570 F 0.3846
+---------Epoch End----------
+Epoch Pair	8 R 0.6742 P 0.2791 F 0.3947
+Epoch Emotion	8 R 0.8537 P 0.3365 F 0.4828
+Epoch Cause	8 R 0.7647 P 0.3037 F 0.4348
+---------Epoch End----------
+Epoch Pair	9 R 0.6228 P 0.3302 F 0.4316
+Epoch Emotion	9 R 0.8416 P 0.4087 F 0.5502
+Epoch Cause	9 R 0.6881 P 0.3505 F 0.4644
+---------Epoch End----------
+Epoch Pair	10 R 0.6320 P 0.3674 F 0.4647
+Epoch Emotion	10 R 0.8519 P 0.4423 F 0.5823
+Epoch Cause	10 R 0.6975 P 0.3879 F 0.4985
+---------Epoch End----------
+Epoch Pair	11 R 0.6316 P 0.3349 F 0.4377
+Epoch Emotion	11 R 0.8431 P 0.4135 F 0.5548
+Epoch Cause	11 R 0.6972 P 0.3551 F 0.4706
+---------Epoch End----------
+Epoch Pair	12 R 0.6410 P 0.3488 F 0.4518
+Epoch Emotion	12 R 0.8447 P 0.4183 F 0.5595
+Epoch Cause	12 R 0.7054 P 0.3692 F 0.4847
+---------Epoch End----------
+Epoch Pair	13 R 0.6466 P 0.4000 F 0.4943
+Epoch Emotion	13 R 0.8362 P 0.4663 F 0.5988
+Epoch Cause	13 R 0.7031 P 0.4206 F 0.5263
+---------Epoch End----------
+Epoch Pair	14 R 0.6167 P 0.3442 F 0.4418
+Epoch Emotion	14 R 0.8148 P 0.4231 F 0.5570
+Epoch Cause	14 R 0.6875 P 0.3598 F 0.4724
+---------Epoch End----------
+Epoch Pair	15 R 0.6000 P 0.4186 F 0.4932
+Epoch Emotion	15 R 0.7970 P 0.5096 F 0.6217
+Epoch Cause	15 R 0.6528 P 0.4393 F 0.5251
+---------Epoch End----------
+Epoch Pair	16 R 0.6078 P 0.4326 F 0.5054
+Epoch Emotion	16 R 0.8092 P 0.5096 F 0.6254
+Epoch Cause	16 R 0.6599 P 0.4533 F 0.5374
+---------Epoch End----------
+Epoch Pair	17 R 0.6377 P 0.4093 F 0.4986
+Epoch Emotion	17 R 0.8197 P 0.4808 F 0.6061
+Epoch Cause	17 R 0.6917 P 0.4299 F 0.5303
+---------Epoch End----------
+Epoch Pair	18 R 0.6181 P 0.4140 F 0.4958
+Epoch Emotion	18 R 0.8240 P 0.4952 F 0.6186
+Epoch Cause	18 R 0.6788 P 0.4346 F 0.5299
+---------Epoch End----------
+Epoch Pair	19 R 0.5974 P 0.4279 F 0.4986
+Epoch Emotion	19 R 0.8134 P 0.5240 F 0.6374
+Epoch Cause	19 R 0.6463 P 0.4439 F 0.5263
+---------Epoch End----------
+Epoch Pair	20 R 0.5795 P 0.4744 F 0.5217
+Epoch Emotion	20 R 0.7973 P 0.5673 F 0.6629
+Epoch Cause	20 R 0.6287 P 0.4907 F 0.5512
+---------Epoch End----------
+Epoch Pair	21 R 0.5858 P 0.4605 F 0.5156
+Epoch Emotion	21 R 0.8014 P 0.5433 F 0.6476
+Epoch Cause	21 R 0.6519 P 0.4813 F 0.5538
+---------Epoch End----------
+Epoch Pair	22 R 0.5890 P 0.4465 F 0.5079
+Epoch Emotion	22 R 0.8000 P 0.5385 F 0.6437
+Epoch Cause	22 R 0.6429 P 0.4626 F 0.5380
+---------Epoch End----------
+Epoch Pair	23 R 0.5879 P 0.4512 F 0.5105
+Epoch Emotion	23 R 0.8071 P 0.5433 F 0.6494
+Epoch Cause	23 R 0.6410 P 0.4673 F 0.5405
+---------Epoch End----------
+Epoch Pair	24 R 0.5988 P 0.4791 F 0.5323
+Epoch Emotion	24 R 0.8108 P 0.5769 F 0.6742
+Epoch Cause	24 R 0.6543 P 0.4953 F 0.5638
+---------Epoch End----------
+Epoch Pair	25 R 0.5977 P 0.4837 F 0.5347
+Epoch Emotion	25 R 0.8105 P 0.5962 F 0.6870
+Epoch Cause	25 R 0.6524 P 0.5000 F 0.5661
+---------Epoch End----------
+Epoch Pair	26 R 0.5920 P 0.4791 F 0.5296
+Epoch Emotion	26 R 0.8052 P 0.5962 F 0.6851
+Epoch Cause	26 R 0.6503 P 0.4953 F 0.5623
+---------Epoch End----------
+Epoch Pair	27 R 0.6406 P 0.3814 F 0.4781
+Epoch Emotion	27 R 0.8305 P 0.4712 F 0.6012
+Epoch Cause	27 R 0.6860 P 0.3879 F 0.4955
+---------Epoch End----------
+Epoch Pair	28 R 0.6050 P 0.3349 F 0.4311
+Epoch Emotion	28 R 0.8455 P 0.4471 F 0.5849
+Epoch Cause	28 R 0.6607 P 0.3458 F 0.4540
+---------Epoch End----------
+Epoch Pair	29 R 0.6277 P 0.4000 F 0.4886
+Epoch Emotion	29 R 0.8320 P 0.5000 F 0.6246
+Epoch Cause	29 R 0.6822 P 0.4112 F 0.5131
+---------Epoch End----------
+Fold Pair	6 R 0.5977 P 0.4837 F 0.5347
+Fold Emotion	6 R 0.8105 P 0.5962 F 0.6870
+Fold Cause	6 R 0.6524 P 0.5000 F 0.5661
+-----------Fold End-----------
+
+Acc Fold Pair	6 R 0.5799 P 0.4645 F 0.5148
+Acc Fold Emoti	6 R 0.8010 P 0.5654 F 0.6616
+Acc Fold Event	6 R 0.6302 P 0.4756 F 0.5413
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 1.0000 P 0.0423 F 0.0811
+Epoch Emotion	2 R 1.0000 P 0.0431 F 0.0826
+Epoch Cause	2 R 1.0000 P 0.0427 F 0.0818
+---------Epoch End----------
+Epoch Pair	3 R 0.8519 P 0.1080 F 0.1917
+Epoch Emotion	3 R 1.0000 P 0.1292 F 0.2288
+Epoch Cause	3 R 0.8846 P 0.1090 F 0.1941
+---------Epoch End----------
+Epoch Pair	4 R 0.8333 P 0.0704 F 0.1299
+Epoch Emotion	4 R 1.0000 P 0.0861 F 0.1586
+Epoch Cause	4 R 0.8333 P 0.0711 F 0.1310
+---------Epoch End----------
+Epoch Pair	5 R 0.7736 P 0.1925 F 0.3083
+Epoch Emotion	5 R 0.9800 P 0.2344 F 0.3784
+Epoch Cause	5 R 0.8039 P 0.1943 F 0.3130
+---------Epoch End----------
+Epoch Pair	6 R 0.8214 P 0.2160 F 0.3420
+Epoch Emotion	6 R 0.9808 P 0.2440 F 0.3908
+Epoch Cause	6 R 0.8545 P 0.2227 F 0.3534
+---------Epoch End----------
+Epoch Pair	7 R 0.7711 P 0.3005 F 0.4324
+Epoch Emotion	7 R 0.9726 P 0.3397 F 0.5035
+Epoch Cause	7 R 0.7927 P 0.3081 F 0.4437
+---------Epoch End----------
+Epoch Pair	8 R 0.7470 P 0.2911 F 0.4189
+Epoch Emotion	8 R 0.9481 P 0.3493 F 0.5105
+Epoch Cause	8 R 0.7901 P 0.3033 F 0.4384
+---------Epoch End----------
+Epoch Pair	9 R 0.7411 P 0.3897 F 0.5108
+Epoch Emotion	9 R 0.9600 P 0.4593 F 0.6214
+Epoch Cause	9 R 0.7757 P 0.3934 F 0.5220
+---------Epoch End----------
+Epoch Pair	10 R 0.7500 P 0.3239 F 0.4525
+Epoch Emotion	10 R 0.9881 P 0.3971 F 0.5666
+Epoch Cause	10 R 0.7802 P 0.3365 F 0.4702
+---------Epoch End----------
+Epoch Pair	11 R 0.7732 P 0.3521 F 0.4839
+Epoch Emotion	11 R 0.9775 P 0.4163 F 0.5839
+Epoch Cause	11 R 0.8105 P 0.3649 F 0.5033
+---------Epoch End----------
+Epoch Pair	12 R 0.7431 P 0.3803 F 0.5031
+Epoch Emotion	12 R 0.9406 P 0.4545 F 0.6129
+Epoch Cause	12 R 0.7757 P 0.3934 F 0.5220
+---------Epoch End----------
+Epoch Pair	13 R 0.7589 P 0.3991 F 0.5231
+Epoch Emotion	13 R 0.9394 P 0.4450 F 0.6039
+Epoch Cause	13 R 0.7944 P 0.4028 F 0.5346
+---------Epoch End----------
+Epoch Pair	14 R 0.7642 P 0.3803 F 0.5078
+Epoch Emotion	14 R 0.9583 P 0.4402 F 0.6033
+Epoch Cause	14 R 0.7961 P 0.3886 F 0.5223
+---------Epoch End----------
+Epoch Pair	15 R 0.6513 P 0.4648 F 0.5425
+Epoch Emotion	15 R 0.8473 P 0.5311 F 0.6529
+Epoch Cause	15 R 0.6875 P 0.4692 F 0.5577
+---------Epoch End----------
+Epoch Pair	16 R 0.7700 P 0.3615 F 0.4920
+Epoch Emotion	16 R 0.9457 P 0.4163 F 0.5781
+Epoch Cause	16 R 0.7959 P 0.3697 F 0.5049
+---------Epoch End----------
+Epoch Pair	17 R 0.6835 P 0.4460 F 0.5398
+Epoch Emotion	17 R 0.9091 P 0.5263 F 0.6667
+Epoch Cause	17 R 0.7273 P 0.4550 F 0.5598
+---------Epoch End----------
+Epoch Pair	18 R 0.6000 P 0.4930 F 0.5412
+Epoch Emotion	18 R 0.8621 P 0.5981 F 0.7062
+Epoch Cause	18 R 0.6485 P 0.5071 F 0.5691
+---------Epoch End----------
+Epoch Pair	19 R 0.6803 P 0.3897 F 0.4955
+Epoch Emotion	19 R 0.9065 P 0.4641 F 0.6139
+Epoch Cause	19 R 0.7203 P 0.4028 F 0.5167
+---------Epoch End----------
+Epoch Pair	20 R 0.6600 P 0.4648 F 0.5455
+Epoch Emotion	20 R 0.8915 P 0.5502 F 0.6805
+Epoch Cause	20 R 0.6944 P 0.4739 F 0.5634
+---------Epoch End----------
+Epoch Pair	21 R 0.6021 P 0.5399 F 0.5693
+Epoch Emotion	21 R 0.8497 P 0.6220 F 0.7182
+Epoch Cause	21 R 0.6464 P 0.5545 F 0.5969
+---------Epoch End----------
+Epoch Pair	22 R 0.6163 P 0.4977 F 0.5506
+Epoch Emotion	22 R 0.8897 P 0.6172 F 0.7288
+Epoch Cause	22 R 0.6463 P 0.5024 F 0.5653
+---------Epoch End----------
+Epoch Pair	23 R 0.6364 P 0.5258 F 0.5758
+Epoch Emotion	23 R 0.8912 P 0.6268 F 0.7360
+Epoch Cause	23 R 0.6725 P 0.5450 F 0.6021
+---------Epoch End----------
+Epoch Pair	24 R 0.6644 P 0.4554 F 0.5404
+Epoch Emotion	24 R 0.9062 P 0.5550 F 0.6884
+Epoch Cause	24 R 0.7174 P 0.4692 F 0.5673
+---------Epoch End----------
+Epoch Pair	25 R 0.6647 P 0.5211 F 0.5842
+Epoch Emotion	25 R 0.9130 P 0.6029 F 0.7262
+Epoch Cause	25 R 0.7089 P 0.5308 F 0.6070
+---------Epoch End----------
+Epoch Pair	26 R 0.7086 P 0.5023 F 0.5879
+Epoch Emotion	26 R 0.9008 P 0.5646 F 0.6941
+Epoch Cause	26 R 0.7397 P 0.5118 F 0.6050
+---------Epoch End----------
+Epoch Pair	27 R 0.5900 P 0.5540 F 0.5714
+Epoch Emotion	27 R 0.8471 P 0.6364 F 0.7268
+Epoch Cause	27 R 0.6230 P 0.5640 F 0.5920
+---------Epoch End----------
+Epoch Pair	28 R 0.5962 P 0.5962 F 0.5962
+Epoch Emotion	28 R 0.8035 P 0.6651 F 0.7277
+Epoch Cause	28 R 0.6400 P 0.6066 F 0.6229
+---------Epoch End----------
+Epoch Pair	29 R 0.6566 P 0.5117 F 0.5752
+Epoch Emotion	29 R 0.8897 P 0.5789 F 0.7014
+Epoch Cause	29 R 0.6981 P 0.5261 F 0.6000
+---------Epoch End----------
+Fold Pair	7 R 0.5962 P 0.5962 F 0.5962
+Fold Emotion	7 R 0.8035 P 0.6651 F 0.7277
+Fold Cause	7 R 0.6400 P 0.6066 F 0.6229
+-----------Fold End-----------
+
+Acc Fold Pair	7 R 0.5822 P 0.4833 F 0.5265
+Acc Fold Emoti	7 R 0.8014 P 0.5796 F 0.6710
+Acc Fold Event	7 R 0.6316 P 0.4943 F 0.5530
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 1.0000 P 0.0526 F 0.1000
+Epoch Emotion	2 R 1.0000 P 0.0534 F 0.1014
+Epoch Cause	2 R 1.0000 P 0.0526 F 0.1000
+---------Epoch End----------
+Epoch Pair	3 R 0.8684 P 0.1579 F 0.2672
+Epoch Emotion	3 R 0.9211 P 0.1699 F 0.2869
+Epoch Cause	3 R 0.8947 P 0.1627 F 0.2753
+---------Epoch End----------
+Epoch Pair	4 R 0.7363 P 0.3206 F 0.4467
+Epoch Emotion	4 R 0.8636 P 0.3689 F 0.5170
+Epoch Cause	4 R 0.7556 P 0.3254 F 0.4548
+---------Epoch End----------
+Epoch Pair	5 R 0.7778 P 0.3014 F 0.4345
+Epoch Emotion	5 R 0.8734 P 0.3350 F 0.4842
+Epoch Cause	5 R 0.8000 P 0.3062 F 0.4429
+---------Epoch End----------
+Epoch Pair	6 R 0.7326 P 0.3014 F 0.4271
+Epoch Emotion	6 R 0.8810 P 0.3592 F 0.5103
+Epoch Cause	6 R 0.7529 P 0.3062 F 0.4354
+---------Epoch End----------
+Epoch Pair	7 R 0.7423 P 0.3445 F 0.4706
+Epoch Emotion	7 R 0.8723 P 0.3981 F 0.5467
+Epoch Cause	7 R 0.7604 P 0.3493 F 0.4787
+---------Epoch End----------
+Epoch Pair	8 R 0.6333 P 0.4545 F 0.5292
+Epoch Emotion	8 R 0.8467 P 0.5631 F 0.6764
+Epoch Cause	8 R 0.6622 P 0.4689 F 0.5490
+---------Epoch End----------
+Epoch Pair	9 R 0.6783 P 0.4641 F 0.5511
+Epoch Emotion	9 R 0.8582 P 0.5583 F 0.6765
+Epoch Cause	9 R 0.7000 P 0.4689 F 0.5616
+---------Epoch End----------
+Epoch Pair	10 R 0.6205 P 0.4928 F 0.5493
+Epoch Emotion	10 R 0.8278 P 0.6068 F 0.7003
+Epoch Cause	10 R 0.6688 P 0.5024 F 0.5738
+---------Epoch End----------
+Epoch Pair	11 R 0.6714 P 0.4498 F 0.5387
+Epoch Emotion	11 R 0.8538 P 0.5388 F 0.6607
+Epoch Cause	11 R 0.7185 P 0.4641 F 0.5640
+---------Epoch End----------
+Epoch Pair	12 R 0.5681 P 0.5789 F 0.5735
+Epoch Emotion	12 R 0.8101 P 0.7039 F 0.7532
+Epoch Cause	12 R 0.6139 P 0.5933 F 0.6034
+---------Epoch End----------
+Epoch Pair	13 R 0.6042 P 0.5550 F 0.5786
+Epoch Emotion	13 R 0.8323 P 0.6748 F 0.7453
+Epoch Cause	13 R 0.6432 P 0.5694 F 0.6041
+---------Epoch End----------
+Epoch Pair	14 R 0.6549 P 0.4450 F 0.5299
+Epoch Emotion	14 R 0.8496 P 0.5485 F 0.6667
+Epoch Cause	14 R 0.6912 P 0.4498 F 0.5449
+---------Epoch End----------
+Epoch Pair	15 R 0.6568 P 0.5311 F 0.5873
+Epoch Emotion	15 R 0.8477 P 0.6214 F 0.7171
+Epoch Cause	15 R 0.6957 P 0.5359 F 0.6054
+---------Epoch End----------
+Epoch Pair	16 R 0.6279 P 0.5167 F 0.5669
+Epoch Emotion	16 R 0.8377 P 0.6262 F 0.7167
+Epoch Cause	16 R 0.6790 P 0.5263 F 0.5930
+---------Epoch End----------
+Epoch Pair	17 R 0.5891 P 0.5694 F 0.5791
+Epoch Emotion	17 R 0.7829 P 0.6650 F 0.7192
+Epoch Cause	17 R 0.6421 P 0.5837 F 0.6115
+---------Epoch End----------
+Epoch Pair	18 R 0.6500 P 0.4354 F 0.5215
+Epoch Emotion	18 R 0.8295 P 0.5194 F 0.6388
+Epoch Cause	18 R 0.6992 P 0.4450 F 0.5439
+---------Epoch End----------
+Epoch Pair	19 R 0.6023 P 0.5072 F 0.5506
+Epoch Emotion	19 R 0.8129 P 0.6117 F 0.6981
+Epoch Cause	19 R 0.6626 P 0.5167 F 0.5806
+---------Epoch End----------
+Epoch Pair	20 R 0.5556 P 0.5263 F 0.5405
+Epoch Emotion	20 R 0.7614 P 0.6505 F 0.7016
+Epoch Cause	20 R 0.6369 P 0.5455 F 0.5876
+---------Epoch End----------
+Epoch Pair	21 R 0.5479 P 0.5742 F 0.5607
+Epoch Emotion	21 R 0.7473 P 0.6602 F 0.7010
+Epoch Cause	21 R 0.6150 P 0.5885 F 0.6015
+---------Epoch End----------
+Epoch Pair	22 R 0.6162 P 0.5837 F 0.5995
+Epoch Emotion	22 R 0.8187 P 0.6796 F 0.7427
+Epoch Cause	22 R 0.6595 P 0.5837 F 0.6193
+---------Epoch End----------
+Epoch Pair	23 R 0.6359 P 0.5598 F 0.5954
+Epoch Emotion	23 R 0.8282 P 0.6553 F 0.7317
+Epoch Cause	23 R 0.6821 P 0.5646 F 0.6178
+---------Epoch End----------
+Epoch Pair	24 R 0.6000 P 0.5742 F 0.5868
+Epoch Emotion	24 R 0.8140 P 0.6796 F 0.7407
+Epoch Cause	24 R 0.6541 P 0.5789 F 0.6142
+---------Epoch End----------
+Epoch Pair	25 R 0.6307 P 0.5311 F 0.5766
+Epoch Emotion	25 R 0.7962 P 0.6068 F 0.6887
+Epoch Cause	25 R 0.6914 P 0.5359 F 0.6038
+---------Epoch End----------
+Epoch Pair	26 R 0.5611 P 0.5933 F 0.5767
+Epoch Emotion	26 R 0.7989 P 0.6942 F 0.7429
+Epoch Cause	26 R 0.6098 P 0.5981 F 0.6039
+---------Epoch End----------
+Epoch Pair	27 R 0.5947 P 0.5407 F 0.5664
+Epoch Emotion	27 R 0.7904 P 0.6408 F 0.7078
+Epoch Cause	27 R 0.6461 P 0.5502 F 0.5943
+---------Epoch End----------
+Epoch Pair	28 R 0.6606 P 0.5215 F 0.5829
+Epoch Emotion	28 R 0.8311 P 0.5971 F 0.6949
+Epoch Cause	28 R 0.7161 P 0.5311 F 0.6099
+---------Epoch End----------
+Epoch Pair	29 R 0.6416 P 0.5311 F 0.5812
+Epoch Emotion	29 R 0.8025 P 0.6117 F 0.6942
+Epoch Cause	29 R 0.7000 P 0.5359 F 0.6070
+---------Epoch End----------
+Fold Pair	8 R 0.6162 P 0.5837 F 0.5995
+Fold Emotion	8 R 0.8187 P 0.6796 F 0.7427
+Fold Cause	8 R 0.6595 P 0.5837 F 0.6193
+-----------Fold End-----------
+
+Acc Fold Pair	8 R 0.5865 P 0.4959 F 0.5356
+Acc Fold Emoti	8 R 0.8035 P 0.5921 F 0.6800
+Acc Fold Event	8 R 0.6351 P 0.5055 F 0.5613
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.8462 P 0.0556 F 0.1043
+Epoch Emotion	2 R 0.9231 P 0.0609 F 0.1143
+Epoch Cause	2 R 0.9167 P 0.0556 F 0.1048
+---------Epoch End----------
+Epoch Pair	3 R 0.7059 P 0.0606 F 0.1116
+Epoch Emotion	3 R 0.7647 P 0.0660 F 0.1215
+Epoch Cause	3 R 0.8125 P 0.0657 F 0.1215
+---------Epoch End----------
+Epoch Pair	4 R 0.6491 P 0.1869 F 0.2902
+Epoch Emotion	4 R 0.8269 P 0.2183 F 0.3454
+Epoch Cause	4 R 0.7037 P 0.1919 F 0.3016
+---------Epoch End----------
+Epoch Pair	5 R 0.6522 P 0.1515 F 0.2459
+Epoch Emotion	5 R 0.8140 P 0.1777 F 0.2917
+Epoch Cause	5 R 0.7045 P 0.1566 F 0.2562
+---------Epoch End----------
+Epoch Pair	6 R 0.5714 P 0.1616 F 0.2520
+Epoch Emotion	6 R 0.7885 P 0.2081 F 0.3293
+Epoch Cause	6 R 0.6471 P 0.1667 F 0.2651
+---------Epoch End----------
+Epoch Pair	7 R 0.6129 P 0.1919 F 0.2923
+Epoch Emotion	7 R 0.7931 P 0.2335 F 0.3608
+Epoch Cause	7 R 0.6964 P 0.1970 F 0.3071
+---------Epoch End----------
+Epoch Pair	8 R 0.6393 P 0.1970 F 0.3012
+Epoch Emotion	8 R 0.8070 P 0.2335 F 0.3622
+Epoch Cause	8 R 0.7193 P 0.2071 F 0.3216
+---------Epoch End----------
+Epoch Pair	9 R 0.5054 P 0.2374 F 0.3230
+Epoch Emotion	9 R 0.7529 P 0.3249 F 0.4539
+Epoch Cause	9 R 0.5714 P 0.2424 F 0.3404
+---------Epoch End----------
+Epoch Pair	10 R 0.5385 P 0.2475 F 0.3391
+Epoch Emotion	10 R 0.7561 P 0.3147 F 0.4444
+Epoch Cause	10 R 0.6341 P 0.2626 F 0.3714
+---------Epoch End----------
+Epoch Pair	11 R 0.5634 P 0.2020 F 0.2974
+Epoch Emotion	11 R 0.8000 P 0.2640 F 0.3969
+Epoch Cause	11 R 0.6212 P 0.2071 F 0.3106
+---------Epoch End----------
+Epoch Pair	12 R 0.4841 P 0.3081 F 0.3765
+Epoch Emotion	12 R 0.7768 P 0.4416 F 0.5631
+Epoch Cause	12 R 0.5385 P 0.3182 F 0.4000
+---------Epoch End----------
+Epoch Pair	13 R 0.4277 P 0.3586 F 0.3901
+Epoch Emotion	13 R 0.7410 P 0.5228 F 0.6131
+Epoch Cause	13 R 0.4740 P 0.3687 F 0.4148
+---------Epoch End----------
+Epoch Pair	14 R 0.4638 P 0.3232 F 0.3810
+Epoch Emotion	14 R 0.7561 P 0.4721 F 0.5813
+Epoch Cause	14 R 0.5234 P 0.3384 F 0.4110
+---------Epoch End----------
+Epoch Pair	15 R 0.4911 P 0.2778 F 0.3548
+Epoch Emotion	15 R 0.7475 P 0.3756 F 0.5000
+Epoch Cause	15 R 0.5534 P 0.2879 F 0.3787
+---------Epoch End----------
+Epoch Pair	16 R 0.4632 P 0.3182 F 0.3772
+Epoch Emotion	16 R 0.7607 P 0.4518 F 0.5669
+Epoch Cause	16 R 0.5118 P 0.3283 F 0.4000
+---------Epoch End----------
+Epoch Pair	17 R 0.4444 P 0.3232 F 0.3743
+Epoch Emotion	17 R 0.7500 P 0.4721 F 0.5794
+Epoch Cause	17 R 0.4962 P 0.3333 F 0.3988
+---------Epoch End----------
+Epoch Pair	18 R 0.4667 P 0.3182 F 0.3784
+Epoch Emotion	18 R 0.7739 P 0.4518 F 0.5705
+Epoch Cause	18 R 0.5159 P 0.3283 F 0.4012
+---------Epoch End----------
+Epoch Pair	19 R 0.4444 P 0.3434 F 0.3875
+Epoch Emotion	19 R 0.7313 P 0.4975 F 0.5921
+Epoch Cause	19 R 0.4895 P 0.3535 F 0.4106
+---------Epoch End----------
+Epoch Pair	20 R 0.4452 P 0.3485 F 0.3909
+Epoch Emotion	20 R 0.7519 P 0.4924 F 0.5951
+Epoch Cause	20 R 0.4897 P 0.3586 F 0.4140
+---------Epoch End----------
+Epoch Pair	21 R 0.5085 P 0.3030 F 0.3797
+Epoch Emotion	21 R 0.7736 P 0.4162 F 0.5413
+Epoch Cause	21 R 0.5636 P 0.3131 F 0.4026
+---------Epoch End----------
+Epoch Pair	22 R 0.5000 P 0.3232 F 0.3926
+Epoch Emotion	22 R 0.7672 P 0.4518 F 0.5687
+Epoch Cause	22 R 0.5546 P 0.3333 F 0.4164
+---------Epoch End----------
+Epoch Pair	23 R 0.4205 P 0.3737 F 0.3957
+Epoch Emotion	23 R 0.6897 P 0.5076 F 0.5848
+Epoch Cause	23 R 0.4783 P 0.3889 F 0.4290
+---------Epoch End----------
+Epoch Pair	24 R 0.4717 P 0.3788 F 0.4202
+Epoch Emotion	24 R 0.7519 P 0.5076 F 0.6061
+Epoch Cause	24 R 0.5168 P 0.3889 F 0.4438
+---------Epoch End----------
+Epoch Pair	25 R 0.4545 P 0.3535 F 0.3977
+Epoch Emotion	25 R 0.7252 P 0.4822 F 0.5793
+Epoch Cause	25 R 0.5214 P 0.3687 F 0.4320
+---------Epoch End----------
+Epoch Pair	26 R 0.4208 P 0.3889 F 0.4042
+Epoch Emotion	26 R 0.7152 P 0.5482 F 0.6207
+Epoch Cause	26 R 0.4675 P 0.3990 F 0.4305
+---------Epoch End----------
+Epoch Pair	27 R 0.4539 P 0.3485 F 0.3943
+Epoch Emotion	27 R 0.7364 P 0.4822 F 0.5828
+Epoch Cause	27 R 0.5106 P 0.3636 F 0.4248
+---------Epoch End----------
+Epoch Pair	28 R 0.4713 P 0.3737 F 0.4169
+Epoch Emotion	28 R 0.7353 P 0.5076 F 0.6006
+Epoch Cause	28 R 0.5315 P 0.3838 F 0.4457
+---------Epoch End----------
+Epoch Pair	29 R 0.4141 P 0.4141 F 0.4141
+Epoch Emotion	29 R 0.7037 P 0.5787 F 0.6351
+Epoch Cause	29 R 0.4667 P 0.4242 F 0.4444
+---------Epoch End----------
+Fold Pair	9 R 0.4717 P 0.3788 F 0.4202
+Fold Emotion	9 R 0.7519 P 0.5076 F 0.6061
+Fold Cause	9 R 0.5168 P 0.3889 F 0.4438
+-----------Fold End-----------
+
+Acc Fold Pair	9 R 0.5737 P 0.4829 F 0.5228
+Acc Fold Emoti	9 R 0.7978 P 0.5827 F 0.6718
+Acc Fold Event	9 R 0.6220 P 0.4926 F 0.5482
+-----------------------------
+
+--------------------------
+Model stl_lstm_toynet			
+Input Dim 200		
+Hidden Dim 100		
+RNN Num Layers 2	
+--------------------------
+Epoch Pair	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	0 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	0 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Emotion	1 R 0.0000 P 0.0000 F 0.0000
+Epoch Cause	1 R 0.0000 P 0.0000 F 0.0000
+---------Epoch End----------
+Epoch Pair	2 R 0.5294 P 0.0425 F 0.0786
+Epoch Emotion	2 R 0.7059 P 0.0571 F 0.1057
+Epoch Cause	2 R 0.5294 P 0.0425 F 0.0786
+---------Epoch End----------
+Epoch Pair	3 R 0.4737 P 0.0849 F 0.1440
+Epoch Emotion	3 R 0.6944 P 0.1190 F 0.2033
+Epoch Cause	3 R 0.4865 P 0.0849 F 0.1446
+---------Epoch End----------
+Epoch Pair	4 R 0.5500 P 0.0519 F 0.0948
+Epoch Emotion	4 R 0.7000 P 0.0667 F 0.1217
+Epoch Cause	4 R 0.5500 P 0.0519 F 0.0948
+---------Epoch End----------
+Epoch Pair	5 R 0.4667 P 0.0991 F 0.1634
+Epoch Emotion	5 R 0.6667 P 0.1429 F 0.2353
+Epoch Cause	5 R 0.5227 P 0.1085 F 0.1797
+---------Epoch End----------
+Epoch Pair	6 R 0.4615 P 0.1132 F 0.1818
+Epoch Emotion	6 R 0.7143 P 0.1667 F 0.2703
+Epoch Cause	6 R 0.5000 P 0.1226 F 0.1970
+---------Epoch End----------
+Epoch Pair	7 R 0.5000 P 0.1462 F 0.2263
+Epoch Emotion	7 R 0.7500 P 0.2143 F 0.3333
+Epoch Cause	7 R 0.5246 P 0.1509 F 0.2344
+---------Epoch End----------
+Epoch Pair	8 R 0.4776 P 0.1509 F 0.2294
+Epoch Emotion	8 R 0.7302 P 0.2190 F 0.3370
+Epoch Cause	8 R 0.5152 P 0.1604 F 0.2446
+---------Epoch End----------
+Epoch Pair	9 R 0.4381 P 0.2170 F 0.2902
+Epoch Emotion	9 R 0.7634 P 0.3381 F 0.4686
+Epoch Cause	9 R 0.4757 P 0.2311 F 0.3111
+---------Epoch End----------
+Epoch Pair	10 R 0.4425 P 0.2358 F 0.3077
+Epoch Emotion	10 R 0.7573 P 0.3714 F 0.4984
+Epoch Cause	10 R 0.4955 P 0.2594 F 0.3406
+---------Epoch End----------
+Epoch Pair	11 R 0.4425 P 0.2358 F 0.3077
+Epoch Emotion	11 R 0.7767 P 0.3810 F 0.5112
+Epoch Cause	11 R 0.4909 P 0.2547 F 0.3354
+---------Epoch End----------
+Epoch Pair	12 R 0.4254 P 0.2689 F 0.3295
+Epoch Emotion	12 R 0.7652 P 0.4190 F 0.5415
+Epoch Cause	12 R 0.4733 P 0.2925 F 0.3615
+---------Epoch End----------
+Epoch Pair	13 R 0.4341 P 0.2642 F 0.3284
+Epoch Emotion	13 R 0.7477 P 0.3952 F 0.5171
+Epoch Cause	13 R 0.4841 P 0.2877 F 0.3609
+---------Epoch End----------
+Epoch Pair	14 R 0.4524 P 0.2689 F 0.3373
+Epoch Emotion	14 R 0.7658 P 0.4048 F 0.5296
+Epoch Cause	14 R 0.4880 P 0.2877 F 0.3620
+---------Epoch End----------
+Epoch Pair	15 R 0.4296 P 0.2877 F 0.3446
+Epoch Emotion	15 R 0.6953 P 0.4238 F 0.5266
+Epoch Cause	15 R 0.4818 P 0.3113 F 0.3782
+---------Epoch End----------
+Epoch Pair	16 R 0.4696 P 0.2547 F 0.3303
+Epoch Emotion	16 R 0.7642 P 0.3857 F 0.5127
+Epoch Cause	16 R 0.5263 P 0.2830 F 0.3681
+---------Epoch End----------
+Epoch Pair	17 R 0.4844 P 0.2925 F 0.3647
+Epoch Emotion	17 R 0.7456 P 0.4048 F 0.5247
+Epoch Cause	17 R 0.5159 P 0.3066 F 0.3846
+---------Epoch End----------
+Epoch Pair	18 R 0.4867 P 0.2594 F 0.3385
+Epoch Emotion	18 R 0.7810 P 0.3905 F 0.5206
+Epoch Cause	18 R 0.5268 P 0.2783 F 0.3642
+---------Epoch End----------
+Epoch Pair	19 R 0.4336 P 0.2925 F 0.3493
+Epoch Emotion	19 R 0.6899 P 0.4238 F 0.5251
+Epoch Cause	19 R 0.5000 P 0.3255 F 0.3943
+---------Epoch End----------
+Epoch Pair	20 R 0.4720 P 0.2783 F 0.3501
+Epoch Emotion	20 R 0.7768 P 0.4143 F 0.5404
+Epoch Cause	20 R 0.5289 P 0.3019 F 0.3844
+---------Epoch End----------
+Epoch Pair	21 R 0.3636 P 0.3774 F 0.3704
+Epoch Emotion	21 R 0.6910 P 0.5857 F 0.6340
+Epoch Cause	21 R 0.4203 P 0.4104 F 0.4153
+---------Epoch End----------
+Epoch Pair	22 R 0.3911 P 0.3302 F 0.3581
+Epoch Emotion	22 R 0.6752 P 0.5048 F 0.5777
+Epoch Cause	22 R 0.4561 P 0.3679 F 0.4073
+---------Epoch End----------
+Epoch Pair	23 R 0.3913 P 0.3396 F 0.3636
+Epoch Emotion	23 R 0.7089 P 0.5333 F 0.6087
+Epoch Cause	23 R 0.4682 P 0.3821 F 0.4208
+---------Epoch End----------
+Epoch Pair	24 R 0.4462 P 0.2736 F 0.3392
+Epoch Emotion	24 R 0.7395 P 0.4190 F 0.5350
+Epoch Cause	24 R 0.5000 P 0.2972 F 0.3728
+---------Epoch End----------
+Epoch Pair	25 R 0.3956 P 0.3396 F 0.3655
+Epoch Emotion	25 R 0.7006 P 0.5238 F 0.5995
+Epoch Cause	25 R 0.4651 P 0.3774 F 0.4167
+---------Epoch End----------
+Epoch Pair	26 R 0.4085 P 0.2736 F 0.3277
+Epoch Emotion	26 R 0.7323 P 0.4429 F 0.5519
+Epoch Cause	26 R 0.4672 P 0.3019 F 0.3668
+---------Epoch End----------
+Epoch Pair	27 R 0.4211 P 0.2642 F 0.3246
+Epoch Emotion	27 R 0.6975 P 0.3952 F 0.5046
+Epoch Cause	27 R 0.4961 P 0.2972 F 0.3717
+---------Epoch End----------
+Epoch Pair	28 R 0.3989 P 0.3349 F 0.3641
+Epoch Emotion	28 R 0.7067 P 0.5048 F 0.5889
+Epoch Cause	28 R 0.4524 P 0.3585 F 0.4000
+---------Epoch End----------
+Epoch Pair	29 R 0.4286 P 0.3113 F 0.3607
+Epoch Emotion	29 R 0.7266 P 0.4810 F 0.5788
+Epoch Cause	29 R 0.4932 P 0.3396 F 0.4022
+---------Epoch End----------
+Fold Pair	10 R 0.3636 P 0.3774 F 0.3704
+Fold Emotion	10 R 0.6910 P 0.5857 F 0.6340
+Fold Cause	10 R 0.4203 P 0.4104 F 0.4153
+-----------Fold End-----------
+
+Acc Fold Pair	10 R 0.5527 P 0.4723 F 0.5075
+Acc Fold Emoti	10 R 0.7871 P 0.5830 F 0.6680
+Acc Fold Event	10 R 0.6018 P 0.4843 F 0.5349
+-----------------------------
+
+------------Final Result-------------
+Final Pair	 R 0.5527 P 0.4723 F 0.5075
+Final Emotion	 R 0.7871 P 0.5830 F 0.6680
+Final Event	 R 0.6018 P 0.4843 F 0.5349
+---------------Finish----------------
+Final Pair	 R 0.5629 P 0.4638 F 0.5068
+Final Emotion	 R 0.8009 P 0.5718 F 0.6655
+Final Event	 R 0.6124 P 0.4765 F 0.5340
+----------Repeat Finish----------------
