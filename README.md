@@ -1,8 +1,8 @@
 
-1. command to train and test model with Word2Vec embeddings
+1. command to train and test model with Word2Vec embeddings：
 python main.py
 
-2. command to train and test model with BERT embeddings
+2. command to train and test model with BERT embeddings：
 python main_bert.py
 
 3. The reference article of this code is: 
